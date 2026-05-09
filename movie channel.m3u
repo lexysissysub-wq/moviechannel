@@ -17974,6 +17974,115 @@ http://iptvviva.online:80/WACwinners/iptvvivacom/815.ts
 
 
 
+#EXTM3U
+#EXTINF:-1,HRT 1
+http://23.88.66.93/HRT_1/index.m3u8
+#EXTINF:-1,HRT 2
+http://23.88.66.93/HRT_2/index.m3u8
+#EXTINF:-1,HRT 3
+http://23.88.66.93/HRT_3/index.m3u8
+#EXTINF:-1,HRT 4
+http://23.88.66.93/HRT_4/index.m3u8
+#EXTINF:-1,PTPC
+http://23.88.66.93/RTRS/index.m3u8
+#EXTINF:-1,PTC 1
+http://23.88.66.93/RTS_1/index.m3u8
+#EXTINF:-1,PTC
+http://23.88.66.93/RTS_2/index.m3u8
+#EXTINF:-1,PTC 3
+http://23.88.66.93/RTS_3/index.m3u8
+#EXTINF:1,RTCG 1
+http://23.88.66.93/RTCG_1/index.m3u8
+#EXTINF:1,RTCG 2
+http://23.88.66.93/RTCG_2/index.m3u8
+#EXTINF:1,RTCG 3
+http://23.88.66.93/RTCG_3/index.m3u8
+#EXTINF:1,SLO 1
+http://23.88.66.93/SLO1/index.m3u8
+#EXTINF:1,SLO 2
+http://23.88.66.93/SLO2/index.m3u8
+#EXTINF:-1,OBN
+http://23.88.66.93/OBN/index.m3u8
+#EXTINF:-1,RTK 1
+http://23.88.66.93/RTK_1/index.m3u8
+#EXTINF:-1,MRT 1
+http://23.88.66.93/MRT_1/index.m3u8
+#EXTINF:-1,MRT 2
+http://23.88.66.93/MRT_2/index.m3u8
+#EXTINF:-1,BN
+http://23.88.66.93/BN/index.m3u8
+#EXTINF:-1,BN2
+http://23.88.66.93/BN2/index.m3u8
+#EXTINF:-1,HBO
+http://23.88.66.93/HBO/index.m3u8
+#EXTINF:-1,HBO 2
+http://23.88.66.93/HBO_2/index.m3u8
+#EXTINF:-1,HBO 3
+http://23.88.66.93/HBO_3/index.m3u8
+#EXTINF:-1,Cinemax
+http://23.88.66.93/Cinemax/index.m3u8
+#EXTINF:-1,Cinemax 2
+http://23.88.66.93/Cinemax_2/index.m3u8
+#EXTINF:-1,Cinemania HD
+http://23.88.66.93/Cinemania/index.m3u8
+#EXTINF:-1,Pink Film
+http://23.88.66.93/Pink_Film/index.m3u8
+#EXTINF:-1,Pink Serije
+http://23.88.66.93/Pink_Serije/index.m3u8
+#EXTINF:-1,Discovery HD
+http://23.88.66.93/Discovery/index.m3u8
+#EXTINF:-1,Discovery ID HD
+http://23.88.66.93/Discovery_ID/index.m3u8
+#EXTINF:-1,Animal Planet
+http://23.88.66.93/Animal_Planet/index.m3u8
+#EXTINF:-1,History HD
+http://23.88.66.93/History_HD/index.m3u8
+#EXTINF:-1,National Geographic
+http://23.88.66.93/National_Geographic/index.m3u8
+#EXTINF:-1,Minimax
+http://23.88.66.93/Minimax/index.m3u8
+#EXTINF:-1,Fox Movies HD
+http://23.88.66.93/Fox_Movies/index.m3u8
+#EXTINF:-1,Star Crime
+http://23.88.66.93/Fox_Crime/index.m3u8
+#EXTINF:-1,Fox_Life HD
+http://23.88.66.93/Fox_Life/index.m3u8
+#EXTINF:-1,Fox HD
+http://23.88.66.93/Fox/index.m3u8
+#EXTINF:-1,Max Sport 1 HD
+http://23.88.66.93/MAXSPORT_1/index.m3u8
+#EXTINF:-1,Max Sport 1 HD
+http://23.88.66.93/MAXSPORT_2/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://23.88.66.93/Eurosport_1/index.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://23.88.66.93/Eurosport2/index.m3u8
+#EXTINF:1,RTL DE HD
+http://23.88.66.93/RTL_DE/index.m3u8
+#EXTINF:-1,RTL 2 HD
+http://23.88.66.93/RTL_2/index.m3u8
+#EXTINF:-1,RTL
+http://23.88.66.93/RTL_Living/index.m3u8
+#EXTINF:-1,RTL Kockica HD
+http://23.88.66.93/RTL_Kockica/index.m3u8
+#EXTINF:-1,SAT1 HD
+http://23.88.66.93/Sat1/index.m3u8
+#EXTINF:-1,ARD HD
+http://23.88.66.93/ARD/index.m3u8
+#EXTINF:-1,ZDF HD
+http://23.88.66.93/ZDF/index.m3u8
+#EXTINF:-1,ZDF Info
+http://23.88.66.93/ZDF_Info/index.m3u8
+#EXTINF:-1,PRO 7 HD
+http://23.88.66.93/Pro7/index.m3u8
+#EXTINF:-1,HAYAT HD
+http://23.88.66.93/HAYAT/index.m3u8
+#EXTINF:-1,Face HD
+http://23.88.66.93/Face/index.m3u8
+#EXTINF:-1,VOX HD
+http://23.88.66.93/VOX/index.m3u8
+#EXTINF:-1,FTV HD
+http://23.88.66.93/FTV/index.m3u8
 
 
 
