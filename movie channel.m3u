@@ -18084,6 +18084,487 @@ http://23.88.66.93/VOX/index.m3u8
 #EXTINF:-1,FTV HD
 http://23.88.66.93/FTV/index.m3u8
 
+#EXTM3U
+#EXTINF:-1,Art Sport 1 HD
+http://79.127.207.193:80/ArtSport1HD/index.m3u8
+#EXTINF:-1,Art Sport 2 HD
+http://79.127.207.193:80/ArtSport2/index.m3u8
+#EXTINF:-1,Art Sport 3 HD
+http://79.127.207.193:80/ArtSport3/index.m3u8
+#EXTINF:-1,Art Sport 4 HD
+http://79.127.207.193:80/ArtSport4/index.m3u8
+#EXTINF:-1,Art Sport 5 HD
+http://79.127.207.193:80/ArtSport5/index.m3u8
+#EXTINF:-1,Art Sport 6 HD
+http://79.127.207.193:80/ArtSport6/index.m3u8
+#EXTINF:-1,Max Sport 1 HD
+http://79.127.207.193:80/MaxSport1HR/index.m3u8
+#EXTINF:-1,Max Sport 2 HD
+http://79.127.207.193:80/MaxSport2HR/index.m3u8
+#EXTINF:-1,Sportska TV HD
+http://79.127.207.193:80/SportskaTV/index.m3u8
+#EXTINF:-1,RTSH Sport HD
+http://79.127.207.193:80/RTSHSport/index.m3u8
+EXTINF:-1,Euro Sport 1 HD
+http://79.127.207.193:80/Eurosport1HD/index.m3u8
+#EXTINF:-1,Euro Sport 2 HD
+http://79.127.207.193:80/Eurosport2HD/index.m3u8
+#EXTINF:-1,Arena Fight HD
+http://79.127.207.193:80/ArenaFight/index.m3u8
+#EXTINF:-1,Fight Network HD
+http://79.127.207.193:80/FightNetwork/index.m3u8
+#EXTINF:1.Rai Sport HD
+http://79.127.207.193:80/RaiSport/index.m3u8
+#EXTINF:-1.RAI 1 HD
+http://79.127.207.193:80/Rai1/index.m3u8
+#EXTINF:-1.RAI 2 HD
+http://79.127.207.193:80/Rai2/index.m3u8
+#EXTINF:1.Rai 3 HD
+http://79.127.207.193:80/Rai3/index.m3u8
+#EXTINF:1.Rai Storia HD
+http://79.127.207.193:80/RaiStoria/index.m3u8
+#EXTINF:1.Rai Gulp HD
+http://79.127.207.193:80/RaiGulp/index.m3u8
+#EXTINF:-1.Rai Scuola HD
+http://79.127.207.193:80/RaiScuola/index.m3u8
+#EXTINF:-1,TVKoper
+http://79.127.207.193:80/TVKoper/index.m3u8
+#EXTINF:-1,HRT 1 HD
+http://79.127.207.193:80/HRT1/index.m3u8
+#EXTINF:-1,HRT 2 HD
+http://79.127.207.193:80/HRT2/index.m3u8
+#EXTINF:-1,HRT 3 HD
+http://79.127.207.193:80/HRT3/index.m3u8
+#EXTINF:-1,HRT 4 HD
+http://79.127.207.193:80/HRT4/index.m3u8
+#EXTINF:-1,HRT 4 HD
+http://79.127.207.193:80/HRT4/index.m3u8
+#EXTINF:-1,HRT Int HD
+http://79.127.207.193:80/HRTInt/index.m3u8
+#EXTINF:-1,N1 HD
+http://79.127.207.193:80/N1HR/index.m3u8
+#EXTINF:-1,AMC HD
+http://79.127.207.193:80/AMC/index.m3u8
+#EXTINF:-1,AXN
+http://79.127.207.193:80/AXN/index.m3u8
+#EXTINF:-1,RTL HD
+http://79.127.207.193:80/RTLHRHD/index.m3u8
+#EXTINF:-1,RTL HD
+http://79.127.207.193:80/RTL2HRHD/index.m3u8
+#EXTINF:-1,RTL Kockica HD
+http://79.127.207.193:80/RTLKockica/index.m3u8
+#EXTINF:-1,RTL HD
+http://79.127.207.193:80/RTLDE/index.m3u8
+#EXTINF:-1,RTL Living HD
+http://79.127.207.193:80/RTLLivingHR/index.m3u8
+#EXTINF:-1,PRO 7 HD
+http://79.127.207.193:80/Pro7/index.m3u8
+#EXTINF:-1,ZDF HD
+http://79.127.207.193:80/ZDF/index.m3u8
+#EXTINF:-1,SAT 1
+http://79.127.207.193:80/Sat1/index.m3u8
+#EXTINF:-1,ORF 1
+http://79.127.207.193:80/ORF1/index.m3u8
+#EXTINF:-1,ORF 2
+http://79.127.207.193:80/ORF2/index.m3u8
+#EXTINF:1,Kabel1
+http://79.127.207.193:80/Kabel1/index.m3u8
+#EXTINF:-1,Sixx HD
+http://79.127.207.193:80/Sixx/index.m3u8
+#EXTINF:-1,Tele5
+http://79.127.207.193:80/Tele5/index.m3u8
+#EXTINF:-1,TVE HD
+http://79.127.207.193:80/TVE/index.m3u8
+#EXTINF:-1,France 2 HD
+http://79.127.207.193:80/France2/index.m3u8
+#EXTINF:-1,FOX
+http://79.127.207.193:80/Fox/index.m3u8
+#EXTINF:-1,Fox Movies HD
+http://79.127.207.193:80/FoxMovies/index.m3u8
+#EXTINF:-1,Star Life HD
+http://79.127.207.193:80/FoxLife/index.m3u8
+#EXTINF:-1,Pink Elita 1 HD
+http://79.127.207.193:80/Zadruga1/index.m3u8
+#EXTINF:-1,Pink Elita 2 HD
+http://79.127.207.193:80/Zadruga2/index.m3u8
+#EXTINF:-1,Pink Elita 3 HD
+http://79.127.207.193:80/Zadruga3/index.m3u8
+#EXTINF:-1,Pink Elita 4 HD
+http://79.127.207.193:80/Zadruga4/index.m3u8
+#EXTINF:-1,Happy Reality 1
+http://79.127.207.193:80/HappyReality1/index.m3u8
+#EXTINF:-1,Happy Reality 2
+http://79.127.207.193:80/HappyReality2/index.m3u8
+#EXTINF:-1,HBO 1 HD
+http://79.127.207.193:80/HBO/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://79.127.207.193:80/HBO2/index.m3u8
+#EXTINF:-1,HBO 3 HD
+http://79.127.207.193:80/HBO3/index.m3u8
+#EXTINF:-1,FilmBox Extra HD
+http://79.127.207.193:80/FilmBoxExtra/index.m3u8
+#EXTINF:-1,FilmBox Stars HD
+http://79.127.207.193:80/FilmBoxStars/index.m3u8
+#EXTINF:-1,Cinemania HD
+http://79.127.207.193:80/Cinemania/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://79.127.207.193:80/CinemaxHD/index.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://79.127.207.193:80/Cinemax2HD/index.m3u8
+#EXTINF:-1,Euro Cinema 1 HD
+http://79.127.207.193:80/EuroCinema1/index.m3u8
+#EXTINF:-1,Euro Cinema 2 HD
+http://79.127.207.193:80/EuroCinema2/index.m3u8
+#EXTINF:-1,Euro Cinema 3 HD
+http://79.127.207.193:80/EuroCinema3/index.m3u8
+#EXTINF:-1,Euro Cinema 4 HD
+http://79.127.207.193:80/EuroCinema4/index.m3u8
+#EXTINF:-1,FilmBox Extra HD
+http://79.127.207.193:80/FilmBoxExtra/index.m3u8
+#EXTINF:-1,FilmBoxStars HD
+http://79.127.207.193:80/FilmBoxStars/index.m3u8
+#EXTINF:-1,Cinestar Action HD
+http://79.127.207.193:80/CinestarAction/index.m3u8
+#EXTINF:-1,Cinestar Fantasy HD
+http://79.127.207.193:80/CinestarFantasy/index.m3u8
+#EXTINF:-1,CineStar Comedy
+http://79.127.207.193:80/CinestarComedy/playlist.m3u8
+#EXTINF:-1,CineStarPremiere 1 HD
+http://79.127.207.193:80/CinestarPremiere1/index.m3u8
+#EXTINF:-1,CineStarPremiere 2 HD
+http://79.127.207.193:80/CinestarPremiere2/index.m3u8
+#EXTINF:-1,Cinemania HD
+http://79.127.207.193:80/Cinemania/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://79.127.207.193:80/CinemaxHD/index.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://79.127.207.193:80/Cinemax2HD/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://79.127.207.193:80/ComedyCentral/index.m3u8
+#EXTINF:-1,Art Kino 2 HD
+http://79.127.207.193:80/ArtKino2/index.m3u8
+#EXTINF:-1,Art Kino 3 HD
+http://79.127.207.193:80/ArtKino3/index.m3u8
+#EXTINF:-1,Epic Drama HD
+http://79.127.207.193:80/EpicDramaHD/index.m3u8
+#EXTINF:-1,KinoTV HD
+http://79.127.207.193:80/KinoTV/index.m3u8
+#EXTINF:-1,b92 HD
+http://79.127.207.193:80/B92HD/index.m3u8
+#EXTINF:-1,LoviRibolov HD
+http://79.127.207.193:80/LoviRibolov/index.m3u8
+#EXTINF:-1,M1Gold
+http://79.127.207.193:80/M1Gold/index.m3u8
+#EXTINF:-1,M1Film
+http://79.127.207.193:80/M1Film/index.m3u8
+#EXTINF:-1,RTS
+http://79.127.207.193:80/RTRS/index.m3u8
+#EXTINF:-1,RTS1 HD
+http://79.127.207.193:80/RTS1HD/index.m3u8
+#EXTINF:-1,RTS 2 HD
+http://79.127.207.193:80/RTS1HD/index.m3u8
+#EXTINF:-1,RTS 3 HD
+http://79.127.207.193:80/RTS3HD/index.m3u8
+#EXTINF:-1,RTK 1 HD
+http://79.127.207.193:80/RTK1/index.m3u8
+#EXTINF:-1,RTK 2 HD
+http://79.127.207.193:80/RTK2/index.m3u8
+#EXTINF:-1,RTK 3 HD
+http://79.127.207.193:80/RTK3/index.m3u8
+#EXTINF:-1,RTK 4 HD
+http://79.127.207.193:80/RTK4/index.m3u8
+#EXTINF:-1,KTV
+http://79.127.207.193:80/KTV/index.m3u8
+#EXTINF:-1,RTV21 HD
+http://79.127.207.193:80/RTV21/index.m3u8
+#EXTINF:-1,RTV21 Plus HD
+http://79.127.207.193:80/RTV21Plus/index.m3u8
+#EXTINF:-1,RTV 21 HD
+http://79.127.207.193:80/RTV21Popullore/index.m3u8
+#EXTINF:-1,Prva Plus HD
+http://79.127.207.193:80/PrvaPlus/index.m3u8
+#EXTINF:-1,Stinet
+http://79.127.207.193:80/Stinet/index.m3u8
+#EXTINF:-1,Klasik TV HD
+http://79.127.207.193:80/KlasikTV/index.m3u8
+EXTINF:-1,EuroFilm
+http://79.127.207.193:80/EuroFilm/index.m3u8
+#EXTINF:-1,Film Komedi
+http://79.127.207.193:80/FilmKomedi/index.m3u8
+#EXTINF:-1,Film Gold
+http://79.127.207.193:80/FilmNje/index.m3u8
+#EXTINF:-1,Film Thriller
+http://79.127.207.193:80/FilmThriller/index.m3u8
+#EXTINF:-1,Film Drame
+http://79.127.207.193:80/FilmDrame/index.m3u8
+#EXTINF:-1,Film Autor HD
+http://79.127.207.193:80/FilmAutor/index.m3u8
+#EXTINF:-1,Film Hits HD
+http://79.127.207.193:80/FilmHits/index.m3u8
+#EXTINF:-1,Pink Western
+http://79.127.207.193:80/PinkWestern/index.m3u8
+#EXTINF:-1,Pink Serije
+http://79.127.207.193:80/PinkSerije/index.m3u8
+#EXTINF:-1,Pink Zabava
+http://79.127.207.193:80/PinkZabava/index.m3u8
+#EXTINF:-1,Pink Hits 1
+http://79.127.207.193:80/PinkHits1/index.m3u8
+#EXTINF:-1,Pink Hits
+http://79.127.207.193:80/PinkHits2/index.m3u8
+#EXTINF:-1,Pink Folk 1
+http://79.127.207.193:80/PinkFolk1/index.m3u8
+#EXTINF:-1,Pink Folk 2
+http://79.127.207.193:80/PinkFolk2/index.m3u8
+#EXTINF:-1,Pink Plus Elita
+http://79.127.207.193:80/PinkPlus/index.m3u8
+#EXTINF:-1,Folk Plus
+http://79.127.207.193:80/FolkPlus/index.m3u8
+#EXTINF:-1,Pink Reality
+http://79.127.207.193:80/PinkReality/index.m3u8
+#EXTINF:-1,Pink Extra
+http://79.127.207.193:80/PinkExtra/index.m3u8
+#EXTINF:-1,Pink Pedia
+http://79.127.207.193:80/PinkPedia/index.m3u8
+#EXTINF:-1,Pink Music
+http://79.127.207.193:80/PinkMusic/index.m3u8
+#EXTINF:-1,Pink Music 2
+http://79.127.207.193:80/PinkMusic2/index.m3u8
+#EXTINF:-1,Pink Koncert
+http://79.127.207.193:80/PinkKoncert/index.m3u8
+#EXTINF:-1,Pink Pedia
+http://79.127.207.193:80/PinkPedia/index.m3u8
+#EXTINF:-1,Pink Film
+http://79.127.207.193:80/PinkFilm/index.m3u8
+#EXTINF:-1,Pink Action
+http://79.127.207.193:80/PinkAction/index.m3u8
+#EXTINF:-1,Pink Comedy
+http://79.127.207.193:80/PinkComedy/index.m3u8
+#EXTINF:-1,Pink Horor
+http://79.127.207.193:80/PinkHoror/index.m3u8
+#EXTINF:-1,Pink Movies
+http://79.127.207.193:80/PinkMovies/index.m3u8
+#EXTINF:-1,Pink Premium HD
+http://79.127.207.193:80/PinkPremium/index.m3u8
+#EXTINF:-1,Pink Thriller
+http://79.127.207.193:80/PinkThriller/index.m3u8
+#EXTINF:-1,Pink Classic
+http://79.127.207.193:80/PinkClassic/index.m3u8
+#EXTINF:-1,Pink Soap
+http://79.127.207.193:80/PinkSoap/index.m3u8
+#EXTINF:-1,Pink Fashion
+http://79.127.207.193:80/PinkFashion/index.m3u8
+#EXTINF:-1,Red HD
+http://79.127.207.193:80/Pink2/index.m3u8
+#EXTINF:-1,Vesdi HD
+http://79.127.207.193:80/Pink3/index.m3u8
+#EXTINF:-1,Pink Family
+http://79.127.207.193:80/PinkFamily/index.m3u8
+#EXTINF:-1,Pink Romance
+http://79.127.207.193:80/PinkRomance/index.m3u8
+#EXTINF:-1,Pink World Cinema
+http://79.127.207.193:80/PinkWorldCinema/index.m3u8
+#EXTINF:-1,Pink World
+http://79.127.207.193:80/PinkWorld/index.m3u8
+#EXTINF:-1,Hayat FOLK HD
+http://79.127.207.193:80/HayatFolk/index.m3u8
+#EXTINF:-1,Hayat ovci
+http://79.127.207.193:80/Hayatovci/index.m3u8
+#EXTINF:-1,BHT1
+http://79.127.207.193:80/BHT1/index.m3u8
+#EXTINF:-1,NovaBH
+http://79.127.207.193:80/NovaBH/index.m3u8
+#EXTINF:-1,FaceTV
+http://79.127.207.193:80/FaceTV/index.m3u8
+#EXTINF:-1,Bubble TV
+http://79.127.207.193:80/RTV21Junior/index.m3u8
+#EXTINF:-1,AlsatM HD
+http://79.127.207.193:80/AlsatM/index.m3u8
+#EXTINF:-1,3Plus HD
+http://79.127.207.193:80/3Plus/index.m3u8
+#EXTINF:-1,Tip TV
+http://79.127.207.193:80/TipTV/index.m3u8
+#EXTINF:-1,Klan Plus
+http://79.127.207.193:80/KlanPlus/index.m3u8
+#EXTINF:-1,Klan Kosova HD
+http://79.127.207.193:80/KlanKosova/index.m3u8
+#EXTINF:-1,RTV Ora HD
+http://79.127.207.193:80/OraNews/index.m3u8
+#EXTINF:-1,T7 HD
+http://79.127.207.193:80/T7/index.m3u8
+#EXTINF:-1,7TV HD
+http://79.127.207.193:80/7TV/index.m3u8
+#EXTINF:-1,K23
+http://79.127.207.193:80/K23/index.m3u8
+#EXTINF:-1,Duga Plus
+http://79.127.207.193:80/DugaPlus/index.m3u8
+#EXTINF:-1,Syri Vision HD
+http://79.127.207.193:80/SyriVision/index.m3u8
+#EXTINF:-1,Kanali 7
+http://79.127.207.193:80/Kanali7/index.m3u8
+#EXTINF:-1,BN HD
+http://79.127.207.193:80/BN/index.m3u8
+#EXTINF:-1,BN2 HD
+http://79.127.207.193:80/BN2/index.m3u8
+#EXTINF:-1,Bn Music HD
+http://79.127.207.193:80/BNMusic/index.m3u8
+#EXTINF:1,RTCG Sat
+http://79.127.207.193:80/RTCGSat/index.m3u8
+#EXTINF:1,RTCG 1
+http://79.127.207.193:80/RTCG1/index.m3u8
+#EXTINF:1,RTCG 2
+http://79.127.207.193:80/RTCG2/index.m3u8
+#EXTINF:1,RTCG 3
+http://79.127.207.193:80/RTCG3/index.m3u8
+#EXTINF:-1,MRT 1 HD
+http://79.127.207.193:80/MRT1/index.m3u8
+#EXTINF:-1,MRT 2 HD
+http://79.127.207.193:80/MRT2/index.m3u8
+#EXTINF:-1,MRT 3 HD
+http://79.127.207.193:80/MRT3/index.m3u8
+#EXTINF:-1,MRT 4 HD
+http://79.127.207.193:80/MRT4/index.m3u8
+#EXTINF:-1,MRT 5 HD
+http://79.127.207.193:80/MRT5/index.m3u8
+#EXTINF:-1,KCN 1
+http://79.127.207.193:80/KCN1/index.m3u8
+#EXTINF:-1,KCN 2
+http://79.127.207.193:80/KCN2/index.m3u8
+#EXTINF:-1,KCN 3
+http://79.127.207.193:80/KCN3/index.m3u8
+#EXTINF:-1,TV Slovenija 1 HD
+http://79.127.207.193:80/SLO1/index.m3u8
+#EXTINF:-1,TV Slovenija 2 HD
+http://79.127.207.193:80/SLO2/index.m3u8
+#EXTINF:-1,TV Slovenija 3 HD
+http://79.127.207.193:80/SLO3/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://79.127.207.193:80/DiscoveryChannel/index.m3u8
+#EXTINF:-1,Discovery ID
+http://79.127.207.193:80/DiscoveryID/index.m3u8
+#EXTINF:-1,Discovery Science
+http://79.127.207.193:80/DiscoveryScience/index.m3u8
+#EXTINF:-1,AnimalPlanet HD
+http://79.127.207.193:80/AnimalPlanet/index.m3u8
+#EXTINF:-1,ViasatHistory HD
+http://79.127.207.193:80/ViasatHistory/index.m3u8
+#EXTINF:-1,ViasatExplore HD
+http://79.127.207.193:80/ViasatExplore/index.m3u8
+#EXTINF:-1,ViasatNature HD
+http://79.127.207.193:80/ViasatNature/index.m3u8
+#EXTINF:-1,History Channel
+http://79.127.207.193:80/HistoryChannel/index.m3u8
+#EXTINF:-1,History Channel 2
+http://79.127.207.193:80/HistoryChannel2/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://79.127.207.193:80/NGC/index.m3u8
+#EXTINF:-1,Doku TV HD
+http://79.127.207.193:80/DokuTV/index.m3u8
+#EXTINF:-1,Cinemania HD
+http://79.127.207.193:80/Cinemania/index.m3u8
+#EXTINF:-1,Living HD
+http://79.127.207.193:80/LivingHD/index.m3u8
+#EXTINF:-1,Dmax HD
+http://79.127.207.193:80/Dmax/index.m3u8
+#EXTINF:-1,TLC HD
+http://79.127.207.193:80/TLCHD/index.m3u8
+#EXTINF:-1,HGTV HD
+http://79.127.207.193:80/CBSReality/index.m3u8
+#EXTINF:-1,TravelChannel HD
+http://79.127.207.193:80/TravelChannel/index.m3u8
+#EXTINF:-1,E!
+http://79.127.207.193:80/E!/index.m3u8
+#EXTINF:-1,Euronews
+http://79.127.207.193:80/Euronews/index.m3u8
+#EXTINF:-1,Deutsche Welle
+http://79.127.207.193:80/DW/index.m3u8
+#EXTINF:-1,Rossia24
+http://79.127.207.193:80/Rossia24/index.m3u8
+#EXTINF:-1,PlanetaRTR HD
+http://79.127.207.193:80/PlanetaRTR/index.m3u8
+#EXTINF:-1,TV5Monde
+http://79.127.207.193:80/TV5Monde/index.m3u8
+#EXTINF:-1,CNN HD
+http://79.127.207.193:80/CNN/index.m3u8
+#EXTINF:-1,TVM HD
+http://79.127.207.193:80/TVM/index.m3u8
+#EXTINF:-1,N1
+http://79.127.207.193:80/test/index.m3u8
+#EXTINF:-1,Nova Cinema HD
+http://79.127.207.193:80/NovaCinema/index.m3u8
+#EXTINF:-1,KinoTV
+http://79.127.207.193:80/KinoTV/index.m3u8
+#EXTINF:-1,Agro TV
+http://79.127.207.193:80/AgroTV/index.m3u8
+#EXTINF:-1,OBN HD
+http://79.127.207.193:80/OBN/index.m3u8
+#EXTINF:-1,Minimax
+http://79.127.207.193:80/Minimax/index.m3u8
+#EXTINF:-1,Cufo
+http://79.127.207.193:80/Cufo/index.m3u8
+#EXTINF:-1,Cartoonito
+http://79.127.207.193:80/Cartoonito/index.m3u8
+#EXTINF:-1,Jugoton
+http://79.127.207.193:80/Jugoton/index.m3u8
+#EXTINF:-1,BabyTV HD
+http://79.127.207.193:80/BabyTV/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://79.127.207.193:80/Nickelodeon/index.m3u8
+#EXTINF:-1,PeaceTV HD
+http://79.127.207.193:80/PeaceTV/index.m3u8
+#EXTINF:-1,Fashion TV
+http://79.127.207.193:80/FashionTV/index.m3u8
+#EXTINF:-1,CMC TV HD
+http://79.127.207.193:80/CMC/index.m3u8
+#EXTINF:-1,Klan Music HD
+http://79.127.207.193:80/KlanMusic/index.m3u8
+#EXTINF:-1,BravoMusic
+http://79.127.207.193:80/BravoMusic/index.m3u8
+#EXTINF:-1,SevdahTV
+http://79.127.207.193:80/SevdahTV/index.m3u8
+#EXTINF:-1,MTV HD
+http://79.127.207.193:80/MTV/index.m3u8
+#EXTINF:-1,MTV80 HD
+http://79.127.207.193:80/MTV80/index.m3u8
+#EXTINF:-1,MTVHits HD
+http://79.127.207.193:80/MTVHits/index.m3u8
+#EXTINF:-1,HitTV HD
+http://79.127.207.193:80/HitTV/index.m3u8
+#EXTINF:-1,DMSat
+http://79.127.207.193:80/DMSat/index.m3u8
+#EXTINF:-1,VH1
+http://79.127.207.193:80/VH1/index.m3u8
+#EXTINF:-1,OTVValentino HD
+http://79.127.207.193:80/OTVValentino/index.m3u8
+#EXTINF:-1,Private HD
+http://79.127.207.193:80/Private/index.m3u8
+#EXTINF:-1,Hustler HD
+http://79.127.207.193:80/Hustler/index.m3u8
+#EXTINF:-1,Dorcel HD
+http://79.127.207.193:80/DorcelHD/index.m3u8
+#EXTINF:-1,FrenchLover HD
+http://79.127.207.193:80/FrenchLover/index.m3u8
+#EXTINF:-1,Babes TV
+http://79.127.207.193:80/BabesTV/index.m3u8
+#EXTINF:-1,Reality Kings
+http://79.127.207.193:80/RealityKings/index.m3u8
+#EXTINF:-1,BangU
+http://79.127.207.193:80/BangU/index.m3u8
+#EXTINF:-1,Playboy TV HD
+http://79.127.207.193:80/PlayboyHD/index.m3u8
+#EXTINF:-1,Pink Erotic 1
+http://79.127.207.193:80/PinkErotic1/index.m3u8
+#EXTINF:-1,Pink Erotic 2
+http://79.127.207.193:80/PinkErotic2/index.m3u8
+#EXTINF:-1,Pink Erotic 3
+http://79.127.207.193:80/PinkErotic3/index.m3u8
+#EXTINF:-1,Pink Erotic 4
+http://79.127.207.193:80/PinkErotic4/index.m3u8
+#EXTINF:-1,Pink Erotic 5
+http://79.127.207.193:80/PinkErotic5/index.m3u8
+#EXTINF:-1,Pink Erotic 6
+http://79.127.207.193:80/PinkErotic6/index.m3u8
+#EXTINF:-1,Pink Erotic 7
+http://79.127.207.193:80/PinkErotic7/index.m3u8
 
 
 
