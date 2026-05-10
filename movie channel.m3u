@@ -1104,8 +1104,7 @@ http://88.212.15.19/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza KRIMI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mark%C3%ADza_Krimi_Logo_2022.svg/2560px-Mark%C3%ADza_Krimi_Logo_2022.svg.png" group-title="Všeobecné",Markiza Krimi
 http://88.212.15.19/live/test_markiza_krimi_hevc/playlist.m3u8
 https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
-#EXTINF:-1 tvg-id="Markíza KLASIK.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mark%C3%ADza_Klasik.svg/2560px-Mark%C3%ADza_Klasik.svg.png" group-title="Všeobecné",Markiza Klasik
-https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+
 #EXTINF:-1 tvg-id="JOJ Plus.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Všeobecné",JOJ Plus
 http://88.212.15.19/live/test_pluska_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="WAU.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wO5ifff.png" group-title="Všeobecné",WAU
@@ -1140,15 +1139,11 @@ http://88.212.15.19/live/nova_fun_avc_25p/playlist.m3u8
 http://88.212.15.19/live/nova_gold_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Lady.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novalady.png" group-title="Všeobecné",Nova Lady
 http://88.212.15.19/live/test_nova_lady_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima Cool.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primacoolhd.png" group-title="Všeobecné",Prima COOL
-http://185.188.188.237:5000/live/primacool/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima LOVE.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primalovehd.png" group-title="Všeobecné",Prima love
-http://185.188.188.237:5000/live/primalove/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Prima ZOOM.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primazoomhd.png" group-title="Všeobecné",Prima ZOOM
 http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima MAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primamaxhd.png" group-title="Všeobecné",Prima MAX
-http://185.188.188.237:5000/live/primamax/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Prima Krimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primakrimi.png" group-title="Všeobecné",Prima KRIMI
 http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Star.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primastar.png" group-title="Všeobecné",Prima Star
