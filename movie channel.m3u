@@ -1434,167 +1434,34 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JC1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/jc1.png" group-title="Všeobecné",JČ1 regionální televize
 https://stream.jc1.cz/hls/jc1.m3u8
-#EXTINF:-1 tvg-id="KuryrTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/kuryrtv.png" group-title="Všeobecné",Kurýr TV
-https://stream-18.mazana.tv/kuryrtv.m3u8
+
 #EXTINF:-1 tvg-id="jihoceskatv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/jtv.png" group-title="Všeobecné",Jihočeská TV HD
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 #EXTINF:-1 tvg-id="UTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/utvHD.png" group-title="Všeobecné",ÚTV
 http://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:-1 tvg-id="OIKTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/oiktv.png" group-title="Všeobecné",OIK TV HD
-https://streamer05.low-latency.cz/oiktv/index.m3u8
+
 #EXTINF:-1 tvg-id="PlzenTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/zakplzen.png" group-title="Všeobecné",Plzeň TV
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
-#EXTINF:-1 tvg-id="RTUstecko.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="-" group-title="Všeobecné",RT Ústecko HD
-https://1459594018.rsc.cdn77.org/1459594018/index.m3u8
-#EXTINF:-1 tvg-id="ElektrikaTV.cz",Elektrika TV
-https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Mňau TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnau.png" group-title="Všeobecné",Mnau TV HD
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV OSEM.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="Všeobecné",NR SR
 
 
-#EXTINF:-1 tvg-id="tv-digi-sport-1" tvg-name="Digi Sport 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport1.gif" group-title="Sport",Digi Sport 1 RO 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33797
-#EXTINF:-1 tvg-id="digi-sport-2" tvg-name="Digi Sport 2" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport2.gif" group-title="Sport",Digi Sport 2 RO 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33799
-#EXTINF:-1 tvg-id="digi-sport-3" tvg-name="Digi Sport 3" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport3.gif" group-title="Sport",Digi Sport 3 RO 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33801
-#EXTINF:-1 tvg-id="digi-sport-4" tvg-name="Digi Sport 4" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport4.gif" group-title="Sport",Digi Sport 4 RO 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33803
-#EXTINF:0,RO: Prima Sport 1 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33815
-#EXTINF:0,RO: Prima Sport 2 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/146488
-#EXTINF:0,RO: Prima Sport 3 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/157160
-#EXTINF:0,RO: Prima Sport 4 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/245819
-#EXTINF:0,RO: Prima Sport 5 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/157162
-#EXTINF:0,RO: Eurosport 1 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33810
-#EXTINF:0,RO: Eurosport 2 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33812
 
-#EXTINF:-1 group-title="Sport",MATCH4 HU 🇭🇺
-http://195.189.60.31:8003/play/a0gl/index.m3u8
-#EXTINF:-1 group-title="Sport",Sport 1 HU 🇭🇺
-http://195.189.60.31:8003/play/a0f2/index.m3u8
-#EXTINF:-1 group-title="Sport",M5 HU 🇭🇺
-http://195.189.60.31:8003/play/a0fd/index.m3u8
 
-#EXTINF:-1,|NL| Ziggo sport 1 🇳🇱
-http://185.236.230.212:9982/play/a09f
-#EXTINF:-1,|NL| Ziggo sport 2 🇳🇱
-http://185.236.230.212:9982/play/a099
-#EXTINF:-1,|NL| Ziggo sport 6 🇳🇱
-http://185.236.230.212:9982/play/a09a
 
-#EXTINF:0 tvg-name="NHL Network" tvg-logo="http://troya.info/images/chIcons/1067.png" tvg-rec="0",NHL Network 🇺🇸
-http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Real.Madrid.TV.es" tvg-name="" group-title="Sport" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇬🇧
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.Premium.HDTV.(Chile).(FOXSP1HD).cl" tvg-name="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DAZN%20F1.webp",ESPN Premium 🇨🇱
-http://45.184.87.142:8000/play/a045
 
-#EXTINF:-1 tvg-id="Eurosport.1.es" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇪🇸 
-http://185.189.225.157/EuroSport1/index.m3u8 
-
-#EXTINF:-1,CANAL+ SPORT 3 HD 🇵🇱
-http://185.236.229.62:9981/play/a05e
-#EXTINF:-1,CANAL+ SPORT 3 HD 🇵🇱
-http://185.236.229.62:9981/play/a05n
-#EXTINF:-1,CANAL+ SPORT 3 HD 🇵🇱
-http://185.236.229.62:9981/play/a05q
-#EXTINF:-1,CANAL+ SPORT 4 HD 🇵🇱
-http://185.236.229.62:9981/play/a05f
-#EXTINF:-1,CANAL+ SPORT 4 HD 🇵🇱
-http://185.236.229.62:9981/play/a05o
-#EXTINF:-1,CANAL+ SPORT 4 HD 🇵🇱
-http://185.236.229.62:9981/play/a05r
-#EXTINF:-1,CANAL+ SPORT 5 HD 🇵🇱
-http://185.236.229.62:9981/play/a05h
-#EXTINF:-1,CANAL+ SPORT HD 🇵🇱
-http://185.236.229.62:9981/play/a04c
-#EXTINF:-1,Eleven Sports 1 4K 🇵🇱
-http://185.236.229.62:9981/play/a03t
-#EXTINF:-1,Eleven Sports 1.cz
-http://185.236.229.62:9981/play/a05w
-#EXTINF:-1,Eleven Sports 2.cz
-http://185.236.229.62:9981/play/a05y
-#EXTINF:-1,Eleven Sports 3.cz
-http://185.236.229.62:9981/play/a061
-#EXTINF:-1,Polsat Sport Extra.cz
-http://185.236.229.62:9981/play/a07q
-#EXTINF:-1,Polsat Sport Fight.cz
-http://185.236.229.62:9981/play/a06l
-#EXTINF:-1,Polsat Sport HD 🇵🇱
-http://185.236.229.62:9981/play/a07n
-#EXTINF:-1,Polsat Sport News.cz
-http://185.236.229.62:9981/play/a06m
-#EXTINF:-1,Polsat Sport Premium 1 🇵🇱
-http://185.236.229.62:9981/play/a03r
-#EXTINF:-1,Polsat Sport Premium 2 🇵🇱
-http://185.236.229.62:9981/play/a03s
-#EXTINF:-1,Polsat Sport Premium PPV3 🇵🇱
-http://185.236.229.62:9981/play/a03p
-#EXTINF:-1,Polsat Sport Premium PPV4 🇵🇱
-http://185.236.229.62:9981/play/a03q
-#EXTINF:-1,Polsat Sport Premium PPV5 🇵🇱
-http://185.236.229.62:9981/play/a07x
-#EXTINF:-1,Polsat Sport Premium PPV6 🇵🇱
-http://185.236.229.62:9981/play/a07y
-#EXTINF:-1,TVP Sport.cz
-http://185.236.229.62:9981/play/a05l
-#EXTINF:-1,TVP Sport.cz
-http://185.236.229.62:9981/play/a05c
-#EXTINF:-1,Sportklub HD 🇵🇱
-http://185.236.229.62:9981/play/a02k
-#EXTINF:-1,Super Polsat HD 🇵🇱
-http://185.236.229.62:9981/play/a043
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein SportXtra ñ 🇪🇸
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",SkySport F1 🇬🇧
-http://cord-cutter.net:8080/live/95549031/69361122/35244.ts
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",SkySport Mix 🇬🇧
-http://cord-cutter.net:8080/live/95549031/69361122/53706.ts
-#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",SkySport Racing 🇬🇧
-http://cord-cutter.net:8080/live/95549031/69361122/76842.ts
 
-#EXTINF:-1 group-title="-",Claro Sports 1
-http://190.149.62.46:8004/play/a0jl/index.m3u8
-#EXTINF:-1 group-title="-",Claro Sports 2
-http://190.149.62.46:8004/play/a0jm/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4
-http://190.149.62.46:8004/play/a0kr/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2
-http://190.149.62.46:8004/play/a0nv/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3
-http://190.149.62.46:8004/play/a0nw/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4
-http://190.149.62.46:8004/play/a0m7/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6
-http://190.149.62.46:8004/play/a0nx/index.m3u8
-#EXTINF:-1 group-title="-",ESPN
-http://190.149.62.46:8004/play/a0nu/index.m3u8
-#EXTINF:-1,TNT Sports Premiun
-http://190.102.246.93:9005/play/a059
-#EXTINF:-1,TNT Sports Premiun
-http://190.102.246.93:9005/play/a025
-
-#EXTINF:-1,Bein Sport 1
-http://99.27.51.147:8080/BeinSport/index.m3u8
-#EXTINF:-1,Bein Sport 3
-http://99.27.51.147:8080/BeinSport3/index.m3u8
-
-#EXTINF:-1,Nova Sport
-http://213.169.39.30:5102
 #EXTINF:-1,MAX SPORT1
 http://213.169.39.30:5138
 #EXTINF:-1,MAX SPORT2
@@ -1608,78 +1475,10 @@ http://213.169.39.30:5134
 #EXTINF:-1,Diema Sport 2
 http://213.169.39.30:5136
 
-#EXTINF:-1 group-title="-",MAX Sport 1
-http://83.228.75.166:8000/play/a0be
-#EXTINF:-1 group-title="-",MAX Sport 2
-http://83.228.75.166:8000/play/a0bf
-#EXTINF:-1 group-title="-",MAX Sport 3
-http://83.228.75.166:8000/play/a0bg
-#EXTINF:-1 group-title="-",Eurosport
-http://83.228.75.166:8000/play/a0bb
-#EXTINF:-1 group-title="-",Eurosport 2
-http://83.228.75.166:8000/play/a04b
 
-#EXTINF:-1,ESPN 2 HD
-http://190.102.246.93:9005/play/a05c
-#EXTINF:-1,ESPN 2 HD
-http://190.102.246.93:9005/play/a05a
-#EXTINF:-1,ESPN 2 HD
-http://190.102.246.93:9005/play/a026
-#EXTINF:-1,ESPN 2 HD
-http://190.102.246.93:9005/play/a02n
-#EXTINF:-1,ESPN 3 HD
-http://190.102.246.93:9005/play/a02l
-#EXTINF:-1,ESPN 4HD
-http://190.102.246.93:9005/play/a05o
-#EXTINF:-1,ESPN 4HD
-http://190.102.246.93:9005/play/a04j
-#EXTINF:-1,ESPN 5HD
-http://190.102.246.93:9005/play/a01q
-#EXTINF:-1,ESPN 6 HD
-http://190.102.246.93:9005/play/a01r
-#EXTINF:-1,ESPN HD
-http://190.102.246.93:9005/play/a04w
-#EXTINF:-1,ESPN HD
-http://190.102.246.93:9005/play/a01w
-#EXTINF:-1,ESPN HD
-http://190.102.246.93:9005/play/a02d
-#EXTINF:-1,ESPN PREMIUM
-http://190.102.246.93:9005/play/a029
-#EXTINF:-1,ESPN Premium HD
-http://190.102.246.93:9005/play/a00x
-#EXTINF:-1,TNT Sports Premiun HD
-http://190.102.246.93:9005/play/a059
-#EXTINF:-1,TNT Sports Premiun HD
-http://190.102.246.93:9005/play/a025
 
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun rádio
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=973&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Europa 2
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=981&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png", Jemné melódie
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=969&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Fajn rock music
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=965&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Viva
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=983&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio 7
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=945&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Slovensko
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=977&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio FM
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=959&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Regina Košice
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=943&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Devín
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=957&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Lumen
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=967&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Patria
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=951&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Slovakia International
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=949&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
+
+
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Kosice
 http://stream.ecce.sk:8000/radiokosice-128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Vlna.cz
