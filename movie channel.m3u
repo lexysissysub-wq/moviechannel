@@ -1361,34 +1361,15 @@ http://88.212.15.19/live/test_folklorika_atktv/playlist.m3u8
 http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Sport",JOJ Šport
 http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.joj.sk/rx/c6a89774-505a-48a4-8ce5-3f26d902e00c.png" group-title="Sport",JOJ Šport 2
-https://176.116.105.82/JOJSport2_HD/index.m3u8
-#EXTINF:-1 tvg-id="ČT sport.cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Sport",ČT sport
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-name="ČT sport Plus" tvg-logo="https://i.imgur.com/5JiMynW.png" tvg-id="" group-title="Sport",ČT sport Plus
+
+
 
 #EXTINF:-1 tvg-id="Sport1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="Sport",Sport 1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sport",Sport 2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nova Sport 1.cz" tvg-name="Nova Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png" group-title="Sport",Nova Sport 1
-http://185.188.188.237:5000/live/novasport1/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 2.cz" tvg-name="Nova Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Sport",Nova Sport 2
-http://185.188.188.237:5000/live/novasport2/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 3.cz" tvg-name="Nova Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Nova_Sport_3.png" group-title="Sport",Nova Sport 3
-http://185.188.188.237:5000/live/novasport3/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 4.cz" tvg-name="Nova Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Nova_Sport_4_2024.png" group-title="Sport",Nova Sport 4
-http://185.188.188.237:5000/live/novasport4/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Nova_Sport_5_2024.png" group-title="Sport",Nova Sport 5
-http://185.188.188.237:5000/live/novasport5/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Nova_Sport_5_2024.png" group-title="Sport",Nova Sport 5 SK
-http://185.236.230.212:9982/play/a09w
 
-#EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Nova_Sport_5_2024.png" group-title="Sport",Nova Sport 5
-http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:-1 tvg-id="Nova Sport 6.cz" tvg-name="Nova Sport 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Nova_Sport_6_2024.png" group-title="Sport",Nova Sport 6
-http://116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
 #EXTINF:-1,Nova Sport 1 HD cz
 https://176.116.105.82/Nova_Sport1_HD/index.m3u8
@@ -1404,61 +1385,25 @@ https://176.116.105.82/NovaSport5_HD/index.m3u8
 https://176.116.105.82/NovaSport6_HD/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal+ Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport
 
-#EXTINF:-1 tvg-id="Canal+ Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 2
 
-#EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 3
-
-#EXTINF:0 tvg-id="" tvg-name="CANAL+ Sport (CZ)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (CZ)
-#EXTGRP:SkyLink
-http://gr.seetv.cc/play/1135/FB4F94DA00C3BE0/video.m3u8
-#EXTINF:0 tvg-id="Canal+ Sport.cz" tvg-name="CANAL+ Sport (SK)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (SK)
-#EXTGRP:SkyLink
-http://gr.seetv.cc/play/1136/FB4F94DA00C3BE0/video.m3u8
-#EXTINF:0 tvg-id="Canal+ Sport 2.cz" tvg-name="CANAL+ Sport 2 (SK)" tvg-logo="https://ip-tv.dev/images/ico/10110.png" , CANAL+ Sport 2 (SK)
-#EXTGRP:SkyLink
-http://gr.seetv.cc/play/1137/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 1.cz" tvg-name="Arena Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" group-title="Sport",Arena Sport 1
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-name="Arena Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="Sport",Arena Sport 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-name="Eurosport 1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="Sport",Eurosport 1
-http://185.188.188.237:5000/live/eurosport/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-name="Eurosport 2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Sport",Eurosport 2
-http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Sport",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="",Premier Sport 2
-http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass
-#EXTINF:-1 tvg-id="",Sporty TV
-http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
-#EXTINF:-1 tvg-id="",ONEPLAY 1
-http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
-#EXTINF:-1 tvg-id="",ONEPLAY 2
-http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
-#EXTINF:-1 tvg-id="",ONEPLAY 3
-http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
-#EXTINF:-1 tvg-id="",PREMIER SPORT 1
-http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
-#EXTINF:-1 tvg-id="",PREMIER SPORT 2
-http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
+
 
 #EXTINF:-1 tvg-id="TV Doktor.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkirhR_sc03jo4uwX6AIOzNENW75vGH-DVdA&s" group-title="Všeobecné",TV Doktor
 https://live.tvdoktor.sk/high/index.m3u8
-#EXTINF:-1 group-title="SK",Kanal 1
-http://185.236.230.212:9982/play/a092
-#EXTINF:-1 tvg-id="TV Bratislava.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TV_Bratislava.png" group-title="Všeobecné",TV Bratislava
 
-#EXTINF:-1 tvg-id="FashionTV HD.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png" group-title="Všeobecné",Fashion TV
-https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logo_Life_TV.png" group-title="Všeobecné",Life TV
 https://lifetv.mpks.sk/s.m3u8
-#EXTINF:-1 tvg-id="TV RAJ.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Raj
 
-#EXTINF:-1 tvg-id="Park TV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1583-park-tv-hd.png" group-title="Všeobecné",Park TV
 
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/60a2b0c04cbc73c131beb0eaf490ed26.svg" group-title="Športové",Tanečné súťaže HD
 http://88.212.15.19/live/tanecnesutaze/index.m3u8
@@ -1468,32 +1413,29 @@ https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
 https://dash2.antik.sk/live/test_relax/playlist.m3u8
 #EXTINF:-1 tvg-id="A11.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/A11.png" group-title="Všeobecné",A11
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Vio TV
+
 
 #EXTINF:-1 tvg-id="POLAR.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Všeobecné",Polar TV
 https://stream.polar.cz/polar/polarlive-1/manifest.m3u8
 #EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Všeobecné",Polar 2
 https://stream.polar.cz/polar2/polarlive2-1/manifest.m3u8
-#EXTINF:-1 tvg-id="PRAHA TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/prahatv.png" group-title="Všeobecné",Praha TV
 
 #EXTINF:-1 tvg-id="TVLiptov.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://lh6.googleusercontent.com/proxy/B_WlQa7BS2i-Ln_W-umTF3gMBoKo8qQumIQlCrurvDRAw8AZKjnVB4GZkGXvkBxJ7FqyTwDkCi1_ADKdwv3cZg" group-title="Všeobecné",TV Liptov
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLocAll.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV LocAll
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
-#EXTINF:-1 tvg-id="Severka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Severka
+
 
 #EXTINF:-1 tvg-id="TV Brno 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/brno1.png" group-title="Všeobecné",TV BRNO 1 HD
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/v1.png" group-title="Všeobecné",Východočeská televize V1
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Noe.cz.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvnoehd.png" group-title="Všeobecné",TV Noe
 
-#EXTINF:-1 tvg-id="Noe+.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.cC9jrOpq4VTv9_u2Rldv1wHaE-&pid=Api&P=0&h=180" group-title="Všeobecné",TV Noe +
 
 #EXTINF:-1 tvg-id="JC1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/jc1.png" group-title="Všeobecné",JČ1 regionální televize
 https://stream.jc1.cz/hls/jc1.m3u8
 #EXTINF:-1 tvg-id="KuryrTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/kuryrtv.png" group-title="Všeobecné",Kurýr TV
-https://stream-18.mazana.tv/kuryrtv.m3u8s
+https://stream-18.mazana.tv/kuryrtv.m3u8
 #EXTINF:-1 tvg-id="jihoceskatv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/jtv.png" group-title="Všeobecné",Jihočeská TV HD
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 #EXTINF:-1 tvg-id="UTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/utvHD.png" group-title="Všeobecné",ÚTV
