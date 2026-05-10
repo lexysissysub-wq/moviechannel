@@ -1199,8 +1199,7 @@ https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal 1.cz" tvg-name="" tvg-logo="https://static.hnonline.sk/images/slike/2025/09/01/5954889.png" group-title="Všeobecné",Kanal 1
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal+ Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1024px-Canal%2B_Action_2024.svg.png" group-title="Všeobecné",Canal Plus Action 
-http://185.188.188.237:5000/live/canalaction/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Warner TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="Všeobecné",Warner TV
 
 #EXTINF:-1 tvg-id="Paramount Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/2056px-Paramount_Network.svg.png" group-title="Všeobecné",Paramount Network
