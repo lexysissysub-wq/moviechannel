@@ -3188,18 +3188,7 @@ https://hls8.ua3.wisp.cat/Arena_Sport_Premium_1/video.m3u8?token=nPfO4rRaax
 https://hls8.ua3.wisp.cat/Arena_Sport_Premium_2/video.m3u8?token=nPfO4rRaax
 #EXTINF:-1,Arena 3 Premium
 https://hls8.ua3.wisp.cat/Arena_Sport_Premium_3/video.m3u8?token=nPfO4rRaax
-#EXTINF:-1,Polsat Sport Premium 1
-http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_1/video.m3u8?token=nPfO4rRaax
-#EXTINF:-1,Polsat Sport Premium 2
-http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_2/video.m3u8?token=nPfO4rRaax
-#EXTINF:-1,Polsat Sport Premium PPV 3
-http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_3/video.m3u8?token=nPfO4rRaax
-#EXTINF:-1,Polsat Sport Premium PPV 5
-http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV5/video.m3u8?token=nPfO4rRaax
-#EXTINF:-1,Polsat Sport Premium PPV 4
-http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV4/video.m3u8?token=nPfO4rRaax
-#EXTINF:-1,Polsat Sport Premium PPV 6
-http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV6/video.m3u8?token=nPfO4rRaax
+
 #EXTINF:-1 group-title="SPORT", POLSAT SPORT 1 HD
 http://4.team.ga:80/ch932/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW4xhEF1CwgGKWMpZCblIwmhAM6h6-3ixJg5_3vSCBKyd
 #EXTINF:-1 group-title="SPORT", POLSAT SPORT 2 HD
@@ -3232,14 +3221,7 @@ http://4.team.ga:80/ch874/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW3qekIwTZwT
 http://4.team.ga:80/ch875/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW_zZvUbjumWRreBKJKpu5mNakublYz_hP04xJE8PQH1l
 #EXTINF:-1 group-title="SPORT", CANAL+ SPORT 5 HD
 http://4.team.ga:80/ch920/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8VaiSXRKYLcfOulYbjOmuAABU4_D4VruyWbY2jIB1Q_
-#EXTINF:-1,DIGI SPORT 1 HD
-http://lb.wisp.cat/lb0/DigiSport_1_HD_RO/mpegts?token=nPfO4rRaax
-#EXTINF:-1,DIGI SPORT 2 HD
-http://lb.wisp.cat/lb0/DigiSport_2_HD_RO/mpegts?token=nPfO4rRaax
-#EXTINF:-1,DIGI SPORT 3 HD
-http://lb.wisp.cat/lb0/DigiSport3FHDRO/mpegts?token=nPfO4rRaax
-#EXTINF:-1,DIGI SPORT 4 HD
-http://lb.wisp.cat/lb0/DigiSport4FHDRO/mpegts?token=nPfO4rRaax
+
 #EXTINF:-1,EUROSPORT 1
 http://lb.wisp.cat/lb0/Eurosport_1_HD/mpegts?token=nPfO4rRaax
 #EXTINF:-1,EUROSPORT 2
