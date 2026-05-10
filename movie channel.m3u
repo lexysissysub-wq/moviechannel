@@ -1271,17 +1271,14 @@ http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 http://88.212.15.19/live/test_jim_jam/playlist.m3u8
 #EXTINF:-1 tvg-id="Lala TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/810-lala-tv-hd.png" group-title="Detské",Lala TV
 http://88.212.15.19/live/test_lala_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Turbo TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://turbotv.sk/wp-content/themes/turbotv/public/images/logo-turbotv.png?id=9a1552eab22467b806d231e12931dc28" group-title="Detské",Turbo TV
+
 
 #EXTINF:-1 tvg-id="ducktv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/de/3/31/Duck_TV.png" group-title="Detské",Duck tv
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 http://88.212.15.19/live/test_duck_tv_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ducktv plus.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Duck_TV_Plus.svg/revision/latest?cb=20191223210043" group-title="Detské",Duck tv plus
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
-#EXTINF:-1 tvg-id="Baby First.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/de/5/53/Babyfirst_logo.png" group-title="Detské",Baby First
-http://190.211.163.19:9999/play/a0ey
-#EXTINF:-1 tvg-id="Baby TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title="Detské",Baby TV
-http://181.189.241.114:5050/play/a0d0
+
 #EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nickelodeon.png" group-title="Detské",Nickelodeon
 http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nick Jr..cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nickjr.png" group-title="Detské",Nick Jr.
@@ -1294,8 +1291,7 @@ http://88.212.15.19/live/test_minimax/playlist.m3u8
 http://88.212.15.19/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney Junior.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/800-disney-junior.png" group-title="Detské",Disney Junior
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Detské",Cartoon Network
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=1221&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+
 #EXTINF:-1 tvg-id="Tom a Jerry" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Detské",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
@@ -1316,68 +1312,32 @@ https://dash2.antik.sk/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Music.cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/retro.jpg" group-title="Hudobné",RetroMusicTV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="Hudobné",MTV Live
 
-#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/MTV_Hits_logo.png" group-title="Hudobné",MTV Hits
-http://88.212.15.19/live/test_mtv_hits_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Club MTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Club_MTV_2021_logo.svg" group-title="Hudobné",Club MTV
-https://dash2.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
-http://88.212.15.19/live/test_mtv_dance_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://en.m.wikipedia.org/wiki/MTV#/media/File%3AMTV_2021_(brand_version).svg" group-title="Hudobné",MTV
-http://194.160.135.34:8088/udp/233.10.47.68:1234
-#EXTINF:-1 tvg-id="MTV 00s (pl).cz" tvg-name="MTV 00s" tvg-logo="https://commons.m.wikimedia.org/wiki/Category:MTV_logos#/media/File%3AMTV_00s_remaster.png" group-title="Hudobné",MTV 00s
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a066
-http://88.212.15.19/live/test_vh1_sd_hevc50/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV 80s (pl).cz" tvg-name="MTV 80s" tvg-logo="https://commons.m.wikimedia.org/wiki/Category:MTV_logos#/media/File%3AMTV_80s_2022.png" group-title="Hudobné",MTV 80s
-#EXTVLCOPT:network-caching=1000
-https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV 90s (pl).cz" tvg-name="MTV 90s" tvg-logo="https://commons.m.wikimedia.org/wiki/Category:MTV_logos#/media/File%3AMTV_90s_logo.png" group-title="Hudobné",MTV 90s
-http://185.236.229.62:9981/play/a07f
-http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MagicTV.bg" group-title="Hudobné",Magic TV BG 🇧🇬 
 https://bss1.neterra.tv/magictv/magictv.m3u8
 http://78.108.251.7/MagicTV/mono.m3u8
-#EXTINF:-1 tvg-id="CityTV.bg" group-title="Hudobné",City TV BG 🇧🇬 
+ 
 
 #EXTINF:-1 tvg-id="Deluxe Music.cz" group-title="Hudobné",Deluxe Music DE 🇩🇪
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="Deluxe Music.cz" group-title="Hudobné",Deluxe Dance Music DE 🇩🇪
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
 #EXTINF:-1 tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" tvg-id="DeejayTV.it" group-title="Italy",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1,Music Channel RO 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33912
-#EXTINF:-1,Magic tv RO 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/81307
-https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-#EXTINF:-1,U tv RO 🇷🇴
-http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33910
+
 #EXTINF:-1,Kiss tv RO 🇷🇴
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1 tvg-id="MoozDance.ro" http-referrer="https://mooz.tv/live-ro/#MoozDance",Mooz Dance RO 🇷🇴
 
-#EXTINF:-1 tvg-id="MoozHits.ro" http-referrer="https://mooz.tv/live-ro/#MoozHits",Mooz Hits RO 🇷🇴
-
-#EXTINF:-1 tvg-id="MoozRo.ro" http-referrer="https://mooz.tv/live-ro/#MoozRo",Mooz RO 🇷🇴
 
 #EXTINF:-1 tvg-id="RockTV.ro",Rock TV RO 🇷🇴
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:-1,HIT Music Channel RO 🇷🇴
+
 
 #EXTINF:-1 tvg-id="4Fun.TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://img.favpng.com/10/21/14/4fun-tv-television-channel-8tv-4fun-gold-png-favpng-sUTP416a5K3zrwftEYqTcMSW1.jpg" group-title="Hudobné",4Fun.TV PL 🇵🇱
 https://stream.4fun.tv:8888/hls/4f.m3u8
-#EXTINF:-1 tvg-id="4Fun Dance.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://seeklogo.com/images/1/4fun-dance-logo-6DBBB0A530-seeklogo.com.png" group-title="Hudobné",4Fun Dance PL 🇵🇱
 
-#EXTINF:-1 tvg-id="EskaRockDobrzeRockuje.pl",Eska Rock Dobrze Rockuje PL 🇵🇱
-https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8
-#EXTINF:-1 tvg-id="HiDance.cz",HiDance PL 🇵🇱
-https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
-#EXTINF:-1 tvg-id="HiMusic.cz",HiMusic PL 🇵🇱
-https://s-pl-01.mediatool.tv/playout/hmpl-abr/index.m3u8
-#EXTINF:-1 tvg-id="SAYHi.cz",SAYHi PL 🇵🇱
-https://s-pl-01.mediatool.tv/playout/shpl-abr/index.m3u8
+
+
 #EXTINF:0,group-title="Hudobné",VH1 🇺🇸
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 
@@ -1388,8 +1348,7 @@ https://live.obslivestream.com/hielmusic/index.m3u8
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Šlágr Originál.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/%C5%A0lagr-logo.png" group-title="Hudobné",Šlágr 1
 
-#EXTINF:-1 tvg-id="Šlágr Muzika.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/%C5%A0l%C3%A1gr_2.png" group-title="Hudobné",Šlágr 2
-http://212.102.38.45/live/test_slagr_2_atk/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Premium.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://slagrtv.cz/img/slagr-premium-2-logo.png" group-title="Hudobné",Šlágr Premium
 https://stream-17.mazana.tv/slagrpremium.m3u
 http://88.212.15.19/live/test_slager_premium_hd/playlist.m3u8
