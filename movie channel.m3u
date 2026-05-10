@@ -954,8 +954,7 @@ http://38.224.175.2:8000/play/a08c/index.m3u8
 #EXTM3U
 #EXTINF:-1,ADVENTURE HD
 http://81.15.109.89:8001/play/Adventure
-#EXTINF:-1,AMC
-http://81.15.109.89:8001/play/AMC
+
 #EXTINF:-1,ANTENA
 http://81.15.109.89:8001/play/Antena
 #EXTINF:-1,AXN
@@ -980,14 +979,7 @@ http://81.15.109.89:8001/play/BBCLifestyle
 http://81.15.109.89:8001/play/BlueHustler
 #EXTINF:-1,Brazzers TV
 http://81.15.109.89:8001/play/BrazzersTV
-#EXTINF:-1,CANAL+ DOKUMENT HD
-http://81.15.109.89:8001/play/CanalDokument
-#EXTINF:-1,CANAL+ SPORT 4 HD
-http://81.15.109.89:8001/play/CanalSport4
-#EXTINF:-1,CANAL+ SPORT 5 HD
-http://81.15.109.89:8001/play/CanalSport5
-#EXTINF:-1,Cinemax HD
-http://81.15.109.89:8001/play/Cinemax
+
 #EXTINF:-1,DORCEL TV HD
 http://81.15.109.89:8001/play/DorcelTV
 #EXTINF:-1,Disco Polo Music
@@ -1026,22 +1018,19 @@ http://81.15.109.89:8001/play/HomeTV
 http://81.15.109.89:8001/play/Hustler
 #EXTINF:-1,ID Poland HD
 http://81.15.109.89:8001/play/IDPoland
-#EXTINF:-1,MTV 90s
-http://81.15.109.89:8001/play/MTV90s
+
 #EXTINF:-1,Mango
 http://81.15.109.89:8001/play/Mango
 #EXTINF:-1,Mezzo TV
 http://81.15.109.89:8001/play/MezzoTV
-#EXTINF:-1,NOVELAS+
-http://81.15.109.89:8001/play/Novelas
+
 #EXTINF:-1,NUTA GOLD
 http://81.15.109.89:8001/play/NutaGold
 #EXTINF:-1,NUTA TV
 http://81.15.109.89:8001/play/NutaTV
 #EXTINF:-1,Nat Geo People HD
 http://81.15.109.89:8001/play/NatGeoPeople
-#EXTINF:-1,Novela Tv
-http://81.15.109.89:8001/play/a02n
+
 #EXTINF:-1,Novela Tv
 http://81.15.109.89:8001/play/NovelaTV
 #EXTINF:-1,POWER TV
@@ -1070,8 +1059,7 @@ http://81.15.109.89:8001/play/PolsatX
 http://81.15.109.89:8001/play/Private
 #EXTINF:-1,Redlight HD
 http://81.15.109.89:8001/play/Redlight
-#EXTINF:-1,Romance TV
-http://81.15.109.89:8001/play/RomanceTV
+
 #EXTINF:-1,SZLAGIER TV
 http://81.15.109.89:8001/play/SzlagierTV
 #EXTINF:-1,Science Poland HD
@@ -1091,8 +1079,7 @@ http://81.15.109.89:8001/play/TVCSuper
 http://81.15.109.89:8001/play/TVP
 #EXTINF:-1,TVP INFO HD
 http://81.15.109.89:8001/play/TVPInfo
-#EXTINF:-1,TVP Sport HD
-http://81.15.109.89:8001/play/TVPSport
+
 #EXTINF:-1,TVS
 http://81.15.109.89:8001/play/TVS
 #EXTINF:-1,Turbo Xtra Poland HD
