@@ -11852,10 +11852,7 @@ http://79.127.207.193:80/Pro7/index.m3u8
 http://79.127.207.193:80/ZDF/index.m3u8
 #EXTINF:-1,SAT 1
 http://79.127.207.193:80/Sat1/index.m3u8
-#EXTINF:-1,ORF 1
-http://79.127.207.193:80/ORF1/index.m3u8
-#EXTINF:-1,ORF 2
-http://79.127.207.193:80/ORF2/index.m3u8
+
 #EXTINF:1,Kabel1
 http://79.127.207.193:80/Kabel1/index.m3u8
 #EXTINF:-1,Sixx HD
@@ -11866,10 +11863,7 @@ http://79.127.207.193:80/Tele5/index.m3u8
 http://79.127.207.193:80/TVE/index.m3u8
 #EXTINF:-1,France 2 HD
 http://79.127.207.193:80/France2/index.m3u8
-#EXTINF:-1,FOX
-http://79.127.207.193:80/Fox/index.m3u8
-#EXTINF:-1,Fox Movies HD
-http://79.127.207.193:80/FoxMovies/index.m3u8
+
 #EXTINF:-1,Star Life HD
 http://79.127.207.193:80/FoxLife/index.m3u8
 #EXTINF:-1,Pink Elita 1 HD
@@ -11922,8 +11916,7 @@ http://79.127.207.193:80/CinestarComedy/playlist.m3u8
 http://79.127.207.193:80/CinestarPremiere1/index.m3u8
 #EXTINF:-1,CineStarPremiere 2 HD
 http://79.127.207.193:80/CinestarPremiere2/index.m3u8
-#EXTINF:-1,Cinemania HD
-http://79.127.207.193:80/Cinemania/index.m3u8
+
 #EXTINF:-1,Cinemax HD
 http://79.127.207.193:80/CinemaxHD/index.m3u8
 #EXTINF:-1,Cinemax 2 HD
@@ -11976,20 +11969,7 @@ http://79.127.207.193:80/PrvaPlus/index.m3u8
 http://79.127.207.193:80/Stinet/index.m3u8
 #EXTINF:-1,Klasik TV HD
 http://79.127.207.193:80/KlasikTV/index.m3u8
-EXTINF:-1,EuroFilm
-http://79.127.207.193:80/EuroFilm/index.m3u8
-#EXTINF:-1,Film Komedi
-http://79.127.207.193:80/FilmKomedi/index.m3u8
-#EXTINF:-1,Film Gold
-http://79.127.207.193:80/FilmNje/index.m3u8
-#EXTINF:-1,Film Thriller
-http://79.127.207.193:80/FilmThriller/index.m3u8
-#EXTINF:-1,Film Drame
-http://79.127.207.193:80/FilmDrame/index.m3u8
-#EXTINF:-1,Film Autor HD
-http://79.127.207.193:80/FilmAutor/index.m3u8
-#EXTINF:-1,Film Hits HD
-http://79.127.207.193:80/FilmHits/index.m3u8
+
 #EXTINF:-1,Pink Western
 http://79.127.207.193:80/PinkWestern/index.m3u8
 #EXTINF:-1,Pink Serije
