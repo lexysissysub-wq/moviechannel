@@ -15184,6 +15184,733 @@ http://78.46.57.167:9350/hls/102.m3u8?token=5krwd98reqv
 #EXTINF:-1,DOCUBOX HD
 http://78.46.57.167:9350/hls/103.m3u8?token=5krwd98reqv
 
+#EXTM3U
+#EXTINF:0,Balaton TV
+#EXTGRP:unsorted
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:0,DTV
+#EXTGRP:unsorted
+https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
+#EXTINF:0,Balaton TV
+#EXTGRP:unsorted
+https://stream.iptvservice.eu:443/hls/balatontv.m3u8
+#EXTINF:0,Pannon TV
+#EXTGRP:unsorted
+https://stream2.nmih.hu:4102/live.m3u8
+#EXTINF:0,Tatai TV
+#EXTGRP:unsorted
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+#EXTINF:0,Kecskeméti TV
+#EXTGRP:unsorted
+https://eurobioinvest.hu:444/live/ktv.m3u8
+#EXTINF:0,TV Keszthely
+#EXTGRP:unsorted
+https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
+#EXTINF:0,Bajai TV
+#EXTGRP:unsorted
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:0,Trimedio  TV
+#EXTGRP:unsorted
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:0,Karcag TV
+#EXTGRP:unsorted
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:0,XVTV
+#EXTGRP:unsorted
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
+#EXTINF:0,Budaörs-Esztergom 1.Fordulo
+#EXTGRP:unsorted
+https://stream.mksz.hu/testvideo/_definst_/mp4:bajnoki/2025/32024686/1757101352479_17.mp4/chunklist_w787233325.m3u8
+#EXTINF:0,MAGYAR MOZI TV
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.76:2000
+#EXTINF:0,HBO HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.37:2000
+#EXTINF:0,HBO2 HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.38:2000
+#EXTINF:0,HBO 3 HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.39:2000
+#EXTINF:0,CINEMAX HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.40:2000
+#EXTINF:0,CINEMAX 2 HD
+#EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67810
+#EXTINF:0,HBO 2 HD
+#EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67800
+#EXTINF:0,Spiler HD
+#EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67801
+#EXTINF:0,CINEMAX HD
+#EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67809
+#EXTINF:0,HBO HD
+#EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0i8/index.m3u8
+#EXTINF:0,M1 HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.1:2000
+#EXTINF:0,TV2 SUPER HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.113:2000
+#EXTINF:0,RTL 2HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.124:2000
+#EXTINF:0,PRIME
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.63:2000
+#EXTINF:0,SPORT 2
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.167:2000
+#EXTINF:0,M4 SPORT HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.135:2000
+#EXTINF:0,SPILER
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.154:2000
+#EXTINF:0,SPILER 2
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.155:2000
+#EXTINF:0,MATCH 4 HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.19:2000
+#EXTINF:0,ARENA 4 HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.62:2000
+#EXTINF:0,M1
+#EXTGRP:unsorted
+http://185.236.230.212:9981/play/a09z
+#EXTINF:0,FILM+ HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.126:2000
+#EXTINF:0,COOL HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.125:2000
+#EXTINF:0,COOL
+#EXTGRP:unsorted
+http://185.236.230.212:9981/play/a0aq
+#EXTINF:0,AMC
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.139:2000
+#EXTINF:0,MOZI+
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.64:2000
+#EXTINF:0,RTL 2 HU
+#EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0i4/index.m3u8
+#EXTINF:0,RTL 3 HU
+#EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0i6/index.m3u8
+#EXTINF:0,VIASAT 3
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.16:2000
+#EXTINF:0,VIASAT 2
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.118:2000
+#EXTINF:0,VIASAT 6
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.79:2000
+#EXTINF:0,HIR TV
+#EXTGRP:unsorted
+http://185.236.230.212:9981/play/a09y
+#EXTINF:0,SUPER TV
+#EXTGRP:unsorted
+http://185.236.230.212:9981/play/a0br
+#EXTINF:0,FILM+
+#EXTGRP:unsorted
+http://185.236.230.212:9981/play/a0ao
+#EXTINF:0,DUNA
+#EXTGRP:unsorted
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+#EXTINF:0,DUNA WORLD HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.4:2000
+#EXTINF:0,Duna World /M4 Sport+
+#EXTGRP:unsorted
+http://185.236.230.212:9981/play/a0an
+#EXTINF:0,HISTORY HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.116:2000
+#EXTINF:0,BBC EARTH
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.106:2000
+#EXTINF:0,Discovery
+#EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67815
+#EXTINF:0,National Geographic Wild HD
+#EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67816
+#EXTINF:0,VIASAT HISTORY
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.78:2000
+#EXTINF:0,M5 HD HU
+#EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0fd/index.m3u8
+#EXTINF:0,M2 HD HU
+#EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0f1/index.m3u8
+#EXTINF:0,SOROZAT+
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.128:2000
+#EXTINF:0,EPIC DRAMA
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.163:2000
+#EXTINF:0,FILM MANIA HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.96:2000
+#EXTINF:0,MOZIVERZUM
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.158:2000
+#EXTINF:0,PARAMOUNT
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.119:2000
+#EXTINF:0,VIASAT FILM
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.117:2000
+#EXTINF:0,Filmbox Premium
+#EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0f6/index.m3u8
+#EXTINF:0,FILMBOX EXTRA HD
+#EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0fe/index.m3u8
+#EXTINF:0,FILMBOX STARS
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.175:2000
+#EXTINF:0,JOCKY TV
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.159:2000
+#EXTINF:0,TV4
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.34:2000
+#EXTINF:0,FILM 4
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.164:2000
+#EXTINF:0,AXN
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.132:2000
+#EXTINF:0,STORY 4
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.85:2000
+#EXTINF:0,HGTV
+#EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67797
+#EXTINF:0,MAX4
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.75:2000
+#EXTINF:0,IZAURA TV
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.145:2000
+#EXTINF:0,LIFE
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.90:2000
+#EXTINF:0,ATV
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.152:2000
+#EXTINF:0,ATV EXTRA
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.161:2000
+#EXTINF:0,SOROZAT KLUB
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.72:2000
+#EXTINF:0,DANCE TV
+#EXTGRP:unsorted
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:0,EUROSPORT 1
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.120:2000
+#EXTINF:0,EUROSPORT 2
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.121:2000
+#EXTINF:0,OZONE HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.52:2000
+#EXTINF:0,SPEKTRUM
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.165:2000
+#EXTINF:0,SPEKTRUM HOME
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.166:2000
+#EXTINF:0,DISCOVERY ID
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.70:2000
+#EXTINF:0,CARTOON NETWORK
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.74:2000
+#EXTINF:0,TV2 KIDS
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.148:2000
+#EXTINF:0,NICK JR
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.140:2000
+#EXTINF:0,TV2 COMEDY
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.146:2000
+#EXTINF:0,PANNON RTV
+#EXTGRP:unsorted
+https://stream.nmih.hu:4102/live.m3u8
+#EXTINF:0,VIASAT EXPLORER
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.28:2000
+#EXTINF:0,BALATON TV
+#EXTGRP:unsorted
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:0,TRAVEL
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.104:2000
+#EXTINF:0,RTL OTTHON HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.93:2000
+#EXTINF:0,VIASAT NATURE HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.65:2000
+#EXTINF:0,NAT GEO WILD HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.60:2000
+#EXTINF:0,ANIMAL PLANET
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.102:2000
+#EXTINF:0,TLC
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.151:2000
+#EXTINF:0,DISCOVERY
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.150:2000
+#EXTINF:0,COMEDY CENTRAL
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.114:2000
+#EXTINF:0,VADASZ
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.67:2000
+#EXTINF:0,d1
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.6:2000
+#EXTINF:0,JAZZ TV
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.11:2000
+#EXTINF:0,SLÁGER TV
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.89:2000
+#EXTINF:0,ZENEBUTIK
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.149:2000
+#EXTINF:0,DA VINCI
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.141:2000
+#EXTINF:0,MINIMAX
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.26:2000
+#EXTINF:0,TV2 KLUB
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.144:2000
+#EXTINF:0,DISNEY CHANNEL
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.88:2000
+#EXTINF:0,NICKTOONS
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.112:2000
+#EXTINF:0,TV EGER
+#EXTGRP:unsorted
+http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:0,TV2 SÉF
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.147:2000
+#EXTINF:0,DIGITAL 1
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.122:2000
+#EXTINF:0,PAX
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.10:2000
+#EXTINF:0,DIKH
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.157:2000
+#EXTINF:0,M4 SPORT SD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.160:2000
+#EXTINF:0,KÖLYOK KLUB HD
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.115:2000
+#EXTINF:0,CARTOONITO
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.87:2000
+#EXTINF:0,TEENNICK
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.153:2000
+#EXTINF:0,CINEMAX
+#EXTGRP:unsorted
+http://185.236.230.212:9981/play/a0c0
+#EXTINF:0,The Fishing And Hunting
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.98:2000
+#EXTINF:0,JIM JAM
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.46:2000
+#EXTINF:0,Duck  Tv
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.97:2000
+#EXTINF:0,APOSTOL TV
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.51:2000
+#EXTINF:0,HETI TV
+#EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.54:2000
+#EXTINF:0,FTC-ESZTERGOM 2025/26
+#EXTGRP:VOD
+https://stream.mksz.hu/testvideo/_definst_/mp4:bajnoki/2025/32024686/1756546872192_64.mp4/playlist.m3u8
+#EXTINF:0,FTC-MKC  2025-26
+#EXTGRP:VOD
+https://stream.mksz.hu/testvideo/_definst_/mp4:bajnoki/2025/32024686/1756931178429_37.mp4/chunklist_w1596929170.m3u8
+#EXTINF:0,alba-dvsc
+#EXTGRP:VOD
+https://stream.mksz.hu/testvideo/_definst_/mp4:bajnoki/2025/32024686/1756931183798_83.mp4/chunklist_w714376167.m3u8
+#EXTINF:0,Gyor-Szombathely 2025-26
+#EXTGRP:VOD
+https://stream.mksz.hu/testvideo/_definst_/mp4:bajnoki/2025/32024686/1756886966545_41.mp4/chunklist_w1515305609.m3u8
+#EXTINF:0,Budaörs-Esztergom 1.Fordulo
+#EXTGRP:VOD
+https://stream.mksz.hu/testvideo/_definst_/mp4:bajnoki/2025/32024686/1757101352479_17.mp4/chunklist_w2074113199.m3u8
+#EXTINF:0,MKC-Győr 2.Fordulo
+#EXTGRP:VOD
+https://stream.mksz.hu/testvideo/_definst_/mp4:bajnoki/2025/32024686/1757595707398_92.mp4/chunklist_w523934048.m3u8
+#EXTINF:0,DVSC-Vasas 2.Fordulo
+#EXTGRP:VOD
+https://stream.mksz.hu/testvideo/_definst_/mp4:bajnoki/2025/32024686/1757587753758_92.mp4/chunklist_w193493908.m3u8
+#EXTINF:0,HU - RTL 3
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1212924
+#EXTINF:0,HU - M PLUS
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263520
+#EXTINF:0,HU - M1 UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263521
+#EXTINF:0,HU - M2 UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263522
+#EXTINF:0,HU - M4 UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263523
+#EXTINF:0,HU - M5 UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263524
+#EXTINF:0,HU - RTL GOLD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263525
+#EXTINF:0,HU - RTL II UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263526
+#EXTINF:0,HU - RTL2
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263528
+#EXTINF:0,HU - RTL KLUB UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263530
+#EXTINF:0,HU - HIR TV
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263531
+#EXTINF:0,HU - AMC
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263532
+#EXTINF:0,HU - ANIMAL PLANET UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263533
+#EXTINF:0,HU - ATV
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263534
+#EXTINF:0,HU - ATV SPIRIT
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/853935
+#EXTINF:0,HU - AUTO MOTOR SPORT
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263535
+#EXTINF:0,HU - AXN BLACK
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263536
+#EXTINF:0,HU - AXN CE
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263537
+#EXTINF:0,HU - AXN WHITE
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263538
+#EXTINF:0,HU - BBC EARTH UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263539
+#EXTINF:0,HU - BOOMERANG
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263540
+#EXTINF:0,HU - CARTOON NETWORK
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263541
+#EXTINF:0,HU - CINEMAX
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263544
+#EXTINF:0,HU - CINEMAX 2
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263545
+#EXTINF:0,HU - COMEDY CENTRAL
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263546
+#EXTINF:0,HU - COMEDY CENTRAL FAMILY
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263547
+#EXTINF:0,HU - COOL
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263548
+#EXTINF:0,HU - COOL UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263549
+#EXTINF:0,HU - DIKH TV HD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1201985
+#EXTINF:0,HU - DIGI ANIMAL WORLD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263551
+#EXTINF:0,HU - DIGI SPORT 1 UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263554
+#EXTINF:0,HU - DIGI SPORT 2 UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263555
+#EXTINF:0,HU - DIGI SPORT 3 UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263556
+#EXTINF:0,HU - DISCOVERY INVESTIGATION
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1202057
+#EXTINF:0,HU - DISCOVERY CHANNEL
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/907895
+#EXTINF:0,HU - DISNEY CHANNEL
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263563
+#EXTINF:0,HU - DISNEY JR
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263564
+#EXTINF:0,HU - DUCK TV
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263565
+#EXTINF:0,HU - DUNA UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263566
+#EXTINF:0,HU - DUNA WORLD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263567
+#EXTINF:0,HU - E ENTERTAINMENT
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263568
+#EXTINF:0,HU - ERDELY TV
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263569
+#EXTINF:0,HU - EUROSPORT 2 UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263570
+#EXTINF:0,HU - EUROSPORT UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263571
+#EXTINF:0,HU - FEM3
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263572
+#EXTINF:0,HU - FILM 4
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263573
+#EXTINF:0,HU - FILM PLUS
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263574
+#EXTINF:0,HU - FILMBOX STARS HD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1199124
+#EXTINF:0,HU - FILMBOX EXTRA UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263575
+#EXTINF:0,HU - FILMBOX PREMIUM
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263576
+#EXTINF:0,HU - FISHING AND HUNTING
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263578
+#EXTINF:0,HU - FOOD NETWORK
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263579
+#EXTINF:0,HU - GALAXY4
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263580
+#EXTINF:0,HU - HBO UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263581
+#EXTINF:0,HU - HBO 2 UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263582
+#EXTINF:0,HU - HBO 3 UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263583
+#EXTINF:0,HU - HISTORY UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263584
+#EXTINF:0,HU - IZAURA TV
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263586
+#EXTINF:0,HU - JIMJAM
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263587
+#EXTINF:0,HU - ARENA 4 HD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263588
+#EXTINF:0,HU - MINIMAX
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263590
+#EXTINF:0,HU - MOZI PLUS UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263591
+#EXTINF:0,HU - NICKELODEON EUROPE
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263592
+#EXTINF:0,HU - OZONE NETWORK
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263593
+#EXTINF:0,HU - PANNON
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1199123
+#EXTINF:0,HU - PARAMOUNT CHANNEL
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263594
+#EXTINF:0,HU - LOVE NATURE
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1195690
+#EXTINF:0,HU - LIFE TV
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1195679
+#EXTINF:0,HU - MATCH 4
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263595
+#EXTINF:0,HU - PAX TV
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1201986
+#EXTINF:0,HU - PRIME
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263596
+#EXTINF:0,HU - SLAGER TV
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1195509
+#EXTINF:0,HU - SONY MAX
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263597
+#EXTINF:0,HU - SONY MOVIE
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263598
+#EXTINF:0,HU - SOROZAT PLUS
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263599
+#EXTINF:0,HU - SPEKTRUM UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263600
+#EXTINF:0,HU - SPIELER2 TV UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263601
+#EXTINF:0,HU - SPIELER TV UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263602
+#EXTINF:0,HU - XTREME SPORT
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1202703
+#EXTINF:0,HU - SPORT 1 UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263603
+#EXTINF:0,HU - SPORT 2 UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263604
+#EXTINF:0,HU - TRAVEL CHANNEL
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1195678
+#EXTINF:0,HU - STORY 4 HD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1201967
+#EXTINF:0,HU - TV4
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263605
+#EXTINF:0,HU - SUPER TV 2
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263606
+#EXTINF:0,HU - TLC
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263607
+#EXTINF:0,HU - TV 1000
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263609
+#EXTINF:0,HU - TV PAPRIKA
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263610
+#EXTINF:0,HU - TV2 COMEDY
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1202722
+#EXTINF:0,HU - TV2 SEF
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1202704
+#EXTINF:0,HU - TV2 KIDS
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1068769
+#EXTINF:0,HU - TV2 UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263611
+#EXTINF:0,HU - TV4
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263612
+#EXTINF:0,HU - VIASAT 3
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263613
+#EXTINF:0,HU - VIASAT 6
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263614
+#EXTINF:0,HU - VIASAT EXPLORE
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263615
+#EXTINF:0,HU - VIASAT HISTORY
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263616
+#EXTINF:0,HU - VIASAT NATURE / HISTORY UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263617
+#EXTINF:0,HU - APOSTOL TV
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263618
+#EXTINF:0,HU - BONUM
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263619
+#EXTINF:0,HU - EPIC DRAMA UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263621
+#EXTINF:0,HU - FILM CAFE
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263623
+#EXTINF:0,HU - FILM MANIA
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263624
+#EXTINF:0,HU - JOCKY TV
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263626
+#EXTINF:0,HU - MUZSIKA TV SD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1171166
+#EXTINF:0,HU - ZENEBUTIK TV SD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1171165
+#EXTINF:0,HU - HIT TV
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/1171164
+#EXTINF:0,HU - MOZIVERZUM
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263627
+#EXTINF:0,HU - NAT GEO UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263628
+#EXTINF:0,HU - NAT GEO WILD UHD
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263629
+#EXTINF:0,HU - NICK JR
+#EXTGRP:
+http://line.din-ott.com:80/0cd2816205/cf834281710a/263630
 
 
 
