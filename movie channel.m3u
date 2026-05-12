@@ -12764,13 +12764,566 @@ https://stream.mksz.hu/testvideo/_definst_/mp4:bajnoki/2025/32024686/17575957073
 https://stream.mksz.hu/testvideo/_definst_/mp4:bajnoki/2025/32024686/1757587753758_92.mp4/chunklist_w193493908.m3u8
 
 
+#EXTM3U
+#EXTINF:0,1
+#EXTGRP:Georgia
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:0,Imedi Tv
+#EXTGRP:Georgia
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:0,DEEJAY TV
+#EXTGRP:ZENE
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:0,NOW 70
+#EXTGRP:ZENE
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,NOW 80
+#EXTGRP:ZENE
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,NOW 90
+#EXTGRP:ZENE
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,Quello Concerts
+#EXTGRP:ZENE
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/5711200/manifest.m3u8
+#EXTINF:0,QWEST JAZZ
+#EXTGRP:ZENE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+#EXTINF:0,Stingray Classica
+#EXTGRP:ZENE
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/5711200/manifest.m3u8
+#EXTINF:0,Stingray Djazz
+#EXTGRP:ZENE
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/5711200/manifest.m3u8
+#EXTINF:0,ACTIVA TV
+#EXTGRP:SPANYOL
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:0,CANAL MALAGA
+#EXTGRP:SPANYOL
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:0,Canal Sierra Cadiz
+#EXTGRP:SPANYOL
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+#EXTINF:0,ELCHE 7
+#EXTGRP:SPANYOL
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:0,FRANCE 24 ESPANA
+#EXTGRP:SPANYOL
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:0,Fuertaventura TV
+#EXTGRP:SPANYOL
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
+#EXTINF:0,Ocko
+#EXTGRP:SPANYOL
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:0,POP WORLD
+#EXTGRP:SPANYOL
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:0,Sol musica
+#EXTGRP:SPANYOL
+https://d2glyu450vvghm.cloudfront.net/v1/master/17YZdoBS8GFxF9QZrsd9HhBoJtgTBmMegD/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:0,TELEMADRID
+#EXTGRP:SPANYOL
+https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:0,WDR HD
+#EXTGRP:NÉMET
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:0,88 STEREO
+#EXTGRP:Costa Rica
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:0,Canal 8
+#EXTGRP:Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0,Action HollywoodMovies
+#EXTGRP:Uj Zeland
+https://tinyurl.com/rw75jur3?.m3u8
+#EXTINF:0,ALFA
+#EXTGRP:Finn
+https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&amp;
+#EXTINF:0,FRII
+#EXTGRP:Finn
+https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv
+#EXTINF:0,JIM
+#EXTGRP:Finn
+https://live-fi.tvkaista.net/jim/live.m3u8?src=freetv
+#EXTINF:0,Kutonen
+#EXTGRP:Finn
+https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
+#EXTINF:0,LIV
+#EXTGRP:Finn
+https://live-fi.tvkaista.net/liv/live.m3u8?src=freetv
+#EXTINF:0,MTV AVA
+#EXTGRP:Finn
+https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
+#EXTINF:0,MTV SUB
+#EXTGRP:Finn
+https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
+#EXTINF:0,MTV3
+#EXTGRP:Finn
+https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
+#EXTINF:0,Nelonen
+#EXTGRP:Finn
+https://live-fi.tvkaista.net/nelonen/live.m3u8?src=freetv
+#EXTINF:0,Onni
+#EXTGRP:Finn
+https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8?organizationId=83459409&amp;
+#EXTINF:0,TapahtumaTV Eveo
+#EXTGRP:Finn
+https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=freetv
+#EXTINF:0,TLC
+#EXTGRP:Finn
+https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
+#EXTINF:0,TV 5 Fin
+#EXTGRP:Finn
+https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
+#EXTINF:0,TV7
+#EXTGRP:Finn
+https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
 
 
+#EXTINF:0,ATG HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/346
+#EXTINF:0,BBC Nordic
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/269
+#EXTINF:0,BBC Nordic HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/9974
+#EXTINF:0,Discovery
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/276
+#EXTINF:0,Discovery HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/277
+#EXTINF:0,Discovery+ Extra 2 FHD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/11472
+#EXTINF:0,Eurosport 1
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/185
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/186
+#EXTINF:0,Eurosport 2
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/187
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/188
+#EXTINF:0,Godare
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/297
+#EXTINF:0,H&C
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/285
+#EXTINF:0,ID
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/279
+#EXTINF:0,ID HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/280
+#EXTINF:0,Kanal 11
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/156
+#EXTINF:0,Kanal 11 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/157
+#EXTINF:0,Kanal 5
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/145
+#EXTINF:0,Kanal 5 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/146
+#EXTINF:0,Kanal 9
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/152
+#EXTINF:0,Kanal 9 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/153
+#EXTINF:0,Kunskapskanalen
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/161
+#EXTINF:0,Kunskapskanalen HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112362
+#EXTINF:0,Love Nature HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112449
+#EXTINF:0,MTV
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112450
+#EXTINF:0,MTV Aitio
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/246
+#EXTINF:0,MTV Aitio HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/9947
+#EXTINF:0,MTV Viidhe
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/249
+#EXTINF:0,MTV Viidhe HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/9949
+#EXTINF:0,Nat Geo
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112432
+#EXTINF:0,Nat Geo HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/31862
+#EXTINF:0,Nick Jr
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/288
+#EXTINF:0,RTE1
+#EXTGRP:unsorted
+http://154.58.225.25:9999/rte1/index.m3u8
+#EXTINF:0,SF-kanalen
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/245
+#EXTINF:0,Sjuan
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/149
+#EXTINF:0,Sjuan HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/150
+#EXTINF:0,Sky Showtime 1
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112428
+#EXTINF:0,Sky Showtime 1 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112429
+#EXTINF:0,Sky Showtime 2
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112430
+#EXTINF:0,Sky Showtime 2 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112431
+#EXTINF:0,SVT1
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/136
+#EXTINF:0,SVT1 Dalarna
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/299
+#EXTINF:0,SVT1 Gävleborg
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/300
+#EXTINF:0,SVT1 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/137
+#EXTINF:0,SVT1 Jämtland
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/301
+#EXTINF:0,SVT1 Jönköping
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/302
+#EXTINF:0,SVT1 Låg Internethastighet
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/138
+#EXTINF:0,SVT1 Skåne
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/305
+#EXTINF:0,SVT1 Småland
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/306
+#EXTINF:0,SVT1 Värmland
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/307
+#EXTINF:0,SVT1 Väst
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/308
+#EXTINF:0,SVT1 Örebro
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/303
+#EXTINF:0,SVT1 Öst
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/304
+#EXTINF:0,SVT2
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/139
+#EXTINF:0,SVT2 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/140
+#EXTINF:0,SVTB/SVT24
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/160
+#EXTINF:0,SVTB/SVT24 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112360
+#EXTINF:0,TLC Sverige
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/290
+#EXTINF:0,TLC Sverige HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/8378
+#EXTINF:0,TV10
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/154
+#EXTINF:0,TV10 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/155
+#EXTINF:0,TV12
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112345
+#EXTINF:0,TV12 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/158
+#EXTINF:0,TV3
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/141
+#EXTINF:0,TV3 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/142
+#EXTINF:0,TV4
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/143
+#EXTINF:0,TV4 Fakta
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/262
+#EXTINF:0,TV4 Film
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/260
+#EXTINF:0,TV4 Fotball HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/120
+#EXTINF:0,TV4 Fotball HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/9975
+#EXTINF:0,TV4 Guld
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/261
+#EXTINF:0,TV4 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/144
+#EXTINF:0,TV4 Hits
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/247
+#EXTINF:0,TV4 Hits HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/9948
+#EXTINF:0,TV4 Hockey HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/163
+#EXTINF:0,TV4 Hockey HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/9999
+#EXTINF:0,TV4 Motor HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/169
+#EXTINF:0,TV4 Motor HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/9998
+#EXTINF:0,TV4 Play Direkte 1 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/190
+#EXTINF:0,TV4 Play Direkte 4 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/193
+#EXTINF:0,TV4 Play Direkte 8 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/197
+#EXTINF:0,TV4 Sport Live 1 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/114
+#EXTINF:0,TV4 Sport Live 1 HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/164
+#EXTINF:0,TV4 Sport Live 2 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/115
+#EXTINF:0,TV4 Sport Live 2 HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/116
+#EXTINF:0,TV4 Sport Live 3 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/117
+#EXTINF:0,TV4 Sport Live 3 HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/26296
+#EXTINF:0,TV4 Sport Live 4 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/167
+#EXTINF:0,TV4 Sport Live 4 HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/118
+#EXTINF:0,TV4 Sportkanalen
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112
+#EXTINF:0,TV4 Sportkanalen HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/184
+#EXTINF:0,TV4 Stars
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/248
+#EXTINF:0,TV4 Stars HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/9950
+#EXTINF:0,TV4 Tennis HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/168
+#EXTINF:0,TV4 Tennis HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/119
+#EXTINF:0,TV6
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112361
+#EXTINF:0,TV6 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/147
+#EXTINF:0,TV8
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112344
+#EXTINF:0,TV8 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/151
+#EXTINF:0,V film action
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112435
+#EXTINF:0,V film action HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/254
+#EXTINF:0,V film family
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/287
+#EXTINF:0,V film hits
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/251
+#EXTINF:0,V film hits HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/252
+#EXTINF:0,V film premiere
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/255
+#EXTINF:0,V film premiere HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/256
+#EXTINF:0,V series
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112434
+#EXTINF:0,V series HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/250
+#EXTINF:0,V sport 1
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/172
+#EXTINF:0,V sport 1 HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/173
+#EXTINF:0,V sport 1 HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/10000
+#EXTINF:0,V sport extra
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/108
+#EXTINF:0,V sport extra HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/177
+#EXTINF:0,V sport extra HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112444
+#EXTINF:0,V sport football
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/106
+#EXTINF:0,V sport football HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/107
+#EXTINF:0,V sport football HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112439
+#EXTINF:0,V sport golf
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/83
+#EXTINF:0,V sport golf HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/84
+#EXTINF:0,V sport golf HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/113227
+#EXTINF:0,V sport motor
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/104
+#EXTINF:0,V sport motor HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/182
+#EXTINF:0,V sport motor HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112442
+#EXTINF:0,V sport premium
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/174
+#EXTINF:0,V sport premium HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/105
+#EXTINF:0,V sport premium HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112443
+#EXTINF:0,V sport ultra HD (S)
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/85
+#EXTINF:0,V sport vinter
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/111
+#EXTINF:0,V sport vinter HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/110
+#EXTINF:0,V sport vinter HD | raw
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112440
+#EXTINF:0,Viasat Explore HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/282
+#EXTINF:0,Viasat Explorer
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112437
+#EXTINF:0,Viasat History
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112436
+#EXTINF:0,Viasat History HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/281
+#EXTINF:0,Viasat Nature
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112438
+#EXTINF:0,Viasat Nature HD
+#EXTGRP:unsorted
+http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/283
+#EXTINF:0,AZTECA INT
+#EXTGRP:MEXICO
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
+#EXTINF:0,BBC TWO
+#EXTGRP:ANGLIA
+http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/19177/index.m3u8
+#EXTINF:0,Channel 4 HD
+#EXTGRP:ANGLIA
+http://1tv41.icu:8080/drmajones@gmail.com/J2cg4hzx4s/99138
+#EXTINF:0,Channel 4 HD
+#EXTGRP:ANGLIA
+http://1tv41.icu:8080/drmajones@gmail.com/J2cg4hzx4s/99138
 
-
-
-
+#EXTINF:0,Xiaoshan
+#EXTGRP:Kína
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:0,浙江生活
+#EXTGRP:Kína
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:0,苏州4K  SZUCSOU 4K
+#EXTGRP:Kína
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:0,CNA CHANNEL NEWS ASIA
+#EXTGRP:Hírek
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0,KRONEHIT TV
+#EXTGRP:AUSZTRIA
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:0,W24
+#EXTGRP:AUSZTRIA
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:0,RTVD
+#EXTGRP:Dominica
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:0,TOP MOVIES POLSKA
+#EXTGRP:LENGYEL
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
 
 
 
