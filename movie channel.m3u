@@ -13370,10 +13370,104 @@ https://netplus.zappr.stream/bbc3cbbc.m3u8
 #EXTINF:-1 group-title="UK", BBC FOUR / CBEEBIES
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 
+#EXTINF:-1 group-title="AUSTRALIA", ABC NEWS
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 group-title="AUSTRALIA", SKY NEWS AU
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="AUSTRALIA", LIFE DOWN UNDER
+https://wtfn-lifedownunder-1-au.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="US", NBC 4 NEW YORK
+https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
+#EXTINF:-1 group-title="US", ABC NEWS
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 group-title="US", FOX NEWS
+http://41.205.93.154/FOX-NEWS/index.m3u8
+#EXTINF:-1 group-title="US", CBS NEWS
+https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
+#EXTINF:-1 group-title="US", MS NOW
+http://41.205.93.154/MSNBC/index.m3u8
+#EXTINF:-1 group-title="US", NBC 10 BOSTON
+https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
+#EXTINF:-1 group-title="US", FOX 9 MINNEAPOLIS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
+#EXTINF:-1 group-title="US", NBC 5 DALLAS FORT WORTH
+https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL
+#EXTINF:-1 group-title="US", FOX 5 WASHINGTON DC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1 group-title="US", NBC LX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 group-title="US", WEDQ PBS, FLORIDA
+https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+#EXTINF:-1 group-title="US", REUTERS NOW
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
+#EXTINF:-1 group-title="US", BBC AMERICA
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="US", COMEDY CENTRAL (US)
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 group-title="US", REVRY
+https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="US", STARZ
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 group-title="US", VICE
+https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="US", ION
+https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
+#EXTINF:-1 group-title="US", TBS
+http://rezofoot.tv/TBS/index.m3u8
+#EXTINF:-1 group-title="US", CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 group-title="US", BRAVO TV
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 group-title="US", VH1
+http://rezofoot.tv/VH1/index.m3u8
+#EXTINF:-1 group-title="US", MTV2
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 group-title="US", BOOMERANG
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 group-title="US", CARTOON NETWORK
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US", HBO ZONE
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-
-
-
+https://netplus.zappr.stream/bbc2.m3u8
+https://netplus.zappr.stream/bvn.m3u8
+https://netplus.zappr.stream/canale5.m3u8
+https://netplus.zappr.stream/channel5.m3u8
+https://netplus.zappr.stream/italia1.m3u8
+https://netplus.zappr.stream/itv2.m3u8
+https://netplus.zappr.stream/itv3.m3u8
+https://netplus.zappr.stream/itv4.m3u8
+https://netplus.zappr.stream/mdr.m3u8
+https://netplus.zappr.stream/ndr.m3u8
+https://netplus.zappr.stream/orf1.m3u8
+https://netplus.zappr.stream/rai1.m3u8
+https://netplus.zappr.stream/rai2.m3u8
+https://netplus.zappr.stream/rai3.m3u8
+https://netplus.zappr.stream/raigulp.m3u8
+https://netplus.zappr.stream/raiscuola.m3u8
+https://netplus.zappr.stream/raisport1.m3u8
+https://netplus.zappr.stream/raistoria.m3u8
+https://netplus.zappr.stream/rete4.m3u8
+https://netplus.zappr.stream/rtpi.m3u8
+https://netplus.zappr.stream/3sathd.m3u8
+https://netplus.zappr.stream/artehd.m3u8
+https://netplus.zappr.stream/daserstehd.m3u8
+https://netplus.zappr.stream/france2hd.m3u8
+https://netplus.zappr.stream/france4hd.m3u8
+https://netplus.zappr.stream/kikahd.m3u8
+https://netplus.zappr.stream/onehd.m3u8
+https://netplus.zappr.stream/phoenixhd.m3u8
+https://netplus.zappr.stream/rsila1hd.m3u8
+https://netplus.zappr.stream/rsila2hd.m3u8
+https://netplus.zappr.stream/rts1hd.m3u8
+https://netplus.zappr.stream/rts2hd.m3u8
+https://netplus.zappr.stream/servustvhd.m3u8
+https://netplus.zappr.stream/srf1hd.m3u8
+https://netplus.zappr.stream/srf2hd.m3u8
+https://netplus.zappr.stream/wdrhd.m3u8
+https://netplus.zappr.stream/zdfhd.m3u8
+https://netplus.zappr.stream/zdfinfohd.m3u8
+https://netplus.zappr.stream/zdfneohd.m3u8
 
 
