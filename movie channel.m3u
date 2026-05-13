@@ -13355,7 +13355,20 @@ https://ogietv.biz.id:443/pahlevimthoriq/masthoriq1999/62482.ts
 #EXTINF:-1,Ben Hur 1959
 https://dn720405.ca.archive.org/0/items/national-treasure-book-of-secrets-2007-720p/Ben%20Hur%201959.mp4
 
-
+#EXTINF:-1 group-title="UK", BBC ONE LONDON
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+#EXTINF:-1 group-title="UK", BBC TWO
+https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+#EXTINF:-1 group-title="UK", ITV2
+https://netplus.zappr.stream/itv2.m3u8
+#EXTINF:-1 group-title="UK", ITV3
+https://netplus.zappr.stream/itv3.m3u8
+#EXTINF:-1 group-title="UK", ITV4
+https://netplus.zappr.stream/itv4.m3u8
+#EXTINF:-1 group-title="UK", BBC THREE / CBBC
+https://netplus.zappr.stream/bbc3cbbc.m3u8
+#EXTINF:-1 group-title="UK", BBC FOUR / CBEEBIES
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 
 
 
