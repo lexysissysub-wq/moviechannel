@@ -13677,6 +13677,49 @@ http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeL67_7y3ZGJZFO_TiH9
 #EXTINF:-1:-1 xui-id="117641" tvg-id="" tvg-name="nick Jr" tvg-logo="http://fomo.re/images/EQNWp_xkQZrWBiOF8YhzXeLL4pV-bcx_OGfl5UR8quyHJqA2480t_QkRKfuBHfBNq2gOOfbWYLmtwlpQCKbHdQ.png" group-title="Denmark",nick Jr
 http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIWiMT0L6AI4ynbHaibUbAs/ts
 
+#EXTM3U
+#EXTINF:-1:-1 xui-id="340" tvg-id="156565" tvg-name="TV 2 SPORT X HD" tvg-logo="http://fomo.re/images/DK_tv2_sportx.png" group-title="Denmark Sport",TV 2 SPORT X HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIexILIKfWixPTdv7gbXM3N/ts
+#EXTINF:-1:-1 xui-id="341" tvg-id="156498" tvg-name="Eurosport 1 HD" tvg-logo="http://fomo.re/images/UK_eurosport_1_hd.png" group-title="Denmark Sport",Eurosport 1 HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJf8qlbRnHy0vwdgIb5_Gu3/ts
+#EXTINF:-1:-1 xui-id="342" tvg-id="156500" tvg-name="Eurosport 2 HD" tvg-logo="http://fomo.re/images/UK_eurosport_2_hd.png" group-title="Denmark Sport",Eurosport 2 HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeK3ezCDZZ-YGmLEvGwMsN9R/ts
+#EXTINF:-1:-1 xui-id="343" tvg-id="156623" tvg-name="TV3 Sport HD" tvg-logo="http://fomo.re/images/DK_tv3_sport_hd.png" group-title="Denmark Sport",TV3 Sport HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIgpWM8vPwG1BdeRfzzJT1z/ts
+#EXTINF:-1:-1 xui-id="344" tvg-id="156878" tvg-name="TV 2 SPORT" tvg-logo="http://fomo.re/images/DK_tv2_sport.png" group-title="Denmark Sport",TV 2 SPORT
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJxyBOj9_rL0TjfPHpORY5_/ts
+#EXTINF:-1:-1 xui-id="345" tvg-id="156209" tvg-name="Sport Live" tvg-logo="http://fomo.re/images/all_sport_live.png" group-title="Denmark Sport",Sport Live
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIzNoblLs-HiRnKu3vp9i9H/ts
+#EXTINF:-1:-1 xui-id="112144" tvg-id="Handball-kanalen1" tvg-name="EveryPlay" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark Sport",EveryPlay
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeL7t0bxyD050I7qVBsjOAK_/ts
+#EXTINF:-1:-1 xui-id="112145" tvg-id="Handball-kanalen2" tvg-name="EveryPlay 2" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark Sport",EveryPlay 2
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeKBf5IGIvWOMzk-6dDvqWgc/ts
+#EXTINF:-1:-1 xui-id="112146" tvg-id="Handball-kanalen3" tvg-name="EveryPlay 3" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark Sport",EveryPlay 3
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-17YZdoBS8GFxF9QZrsd9HhBoJtgTBmMegD/ts
+#EXTINF:-1:-1 xui-id="112320" tvg-id="Handball-kanalen4" tvg-name="EveryPlay 4" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark Sport",EveryPlay 4
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeL8SvOiqhfnjK39Dj-gBdvT/ts
+#EXTINF:-1:-1 xui-id="112321" tvg-id="Handball-kanalen5" tvg-name="EveryPlay 5" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark Sport",EveryPlay 5
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeKZz2-t1iDWMFqk1VjAxlLQ/ts
+#EXTINF:-1:-1 xui-id="112593" tvg-id="" tvg-name="V sport live 1 | raw" tvg-logo="http://fomo.re/images/all_vsport_live13.png" group-title="Denmark Sport",V sport live 1 | raw
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-17YZdoBS8GFxF9QZrsd9HhBoJtgTBmMegD/ts
+#EXTINF:-1:-1 xui-id="112594" tvg-id="" tvg-name="V sport live 2 | raw" tvg-logo="http://fomo.re/images/all_vsport_live2.png" group-title="Denmark Sport",V sport live 2 | raw
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-17YZdoBS8GFxF9QZrsd9HhBoJtgTBmMegD/ts
+#EXTINF:-1:-1 xui-id="112595" tvg-id="" tvg-name="V sport live 3 | raw" tvg-logo="http://fomo.re/images/all_vsport_live3.png" group-title="Denmark Sport",V sport live 3 | raw
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJN-rc2WQXpzQEyK_KFHHXX/ts
+#EXTINF:-1:-1 xui-id="112596" tvg-id="" tvg-name="V sport live 4 | raw" tvg-logo="http://fomo.re/images/all_vsport_live4.png" group-title="Denmark Sport",V sport live 4 | raw
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJIam_bvZtVp_G6tmRdjb88/ts
+#EXTINF:-1:-1 xui-id="112597" tvg-id="" tvg-name="V sport live 5 | raw" tvg-logo="http://fomo.re/images/all_vsport_live5.png" group-title="Denmark Sport",V sport live 5 | raw
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-17YZdoBS8GFxF9QZrsd9HhBoJtgTBmMegD/ts
+#EXTINF:-1:-1 xui-id="116829" tvg-id="Handball-kanalen6" tvg-name="Handball Kanalen 6" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark Sport",Handball Kanalen 6
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-17YZdoBS8GFxF9QZrsd9HhBoJtgTBmMegD/ts
+#EXTINF:-1:-1 xui-id="116830" tvg-id="Handball-kanalen7" tvg-name="Handball Kanalen 7" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark Sport",Handball Kanalen 7
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeI2frlGoknd5HCvuBuziLxy/ts
+#EXTINF:-1:-1 xui-id="116831" tvg-id="Handball-kanalen8" tvg-name="Handball Kanalen 8" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark Sport",Handball Kanalen 8
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-17YZdoBS8GFxF9QZrsd9HhBoJtgTBmMegD/ts
+#EXTINF:-1:-1 xui-id="116832" tvg-id="Handball-kanalen9" tvg-name="Handball Kanalen 9" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark Sport",Handball Kanalen 9
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeKvMoP3Gj5ZeqhAhKqOK0Ku/ts
+#EXTINF:-1:-1 xui-id="116845" tvg-id="Handball-kanalen10" tvg-name="Handball Kanalen 10" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark Sport",Handball Kanalen 10
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeLYAfoe5_VaWGXYWVGTWRuf/ts
 
 
 
