@@ -13599,10 +13599,7 @@ dff22cb5678e35c1217aee5092a51bfb:
 
 
 #EXTM3U
-#EXTINF:-1:-1 xui-id="312" tvg-id="" tvg-name="CNBC Europe" tvg-logo="http://fomo.re/images/Cnbc_square.svg.png" group-title="Denmark",CNBC Europe
-http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
-#EXTINF:-1:-1 xui-id="326" tvg-id="156212" tvg-name="DR1" tvg-logo="http://fomo.re/images/DK_dr1.png" group-title="Denmark",DR1
-http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
+
 #EXTINF:-1:-1 xui-id="10025" tvg-id="156212" tvg-name="DR1 HD" tvg-logo="http://fomo.re/images/DK_dr1.png" group-title="Denmark",DR1 HD
 http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeKILSLuNCOr4JUV3MfzMgqY/ts
 #EXTINF:-1:-1 xui-id="327" tvg-id="156210" tvg-name="DR2" tvg-logo="http://fomo.re/images/DK_dr2.png" group-title="Denmark",DR2
@@ -13637,8 +13634,7 @@ http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIEtPDs_7L8koCQlYFD
 http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIKq65dXOAx-dy8yA4IFAVv/ts
 #EXTINF:-1:-1 xui-id="336" tvg-id="156621" tvg-name="TV3+" tvg-logo="http://fomo.re/images/DK_tv3_plus.png" group-title="Denmark",TV3+
 http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeKQjT35x3Rqe14YI8o_Qbi8/ts
-#EXTINF:-1:-1 xui-id="337" tvg-id="156566" tvg-name="TV 2 Charlie" tvg-logo="http://fomo.re/images/DK_tv2_charlie.png" group-title="Denmark",TV 2 Charlie
-http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJrdSutdaJ8ulhdGH5hI8-0/ts
+
 #EXTINF:-1:-1 xui-id="10096" tvg-id="156566" tvg-name="TV2 Charlie HD" tvg-logo="http://fomo.re/images/DK_tv2_charlie.png" group-title="Denmark",TV2 Charlie HD
 http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
 #EXTINF:-1:-1 xui-id="338" tvg-id="" tvg-name="TV 2 ZULU" tvg-logo="http://fomo.re/images/DK_tv2_zulu.png" group-title="Denmark",TV 2 ZULU
