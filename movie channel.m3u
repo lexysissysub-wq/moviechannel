@@ -13470,4 +13470,123 @@ https://netplus.zappr.stream/zdfhd.m3u8
 https://netplus.zappr.stream/zdfinfohd.m3u8
 https://netplus.zappr.stream/zdfneohd.m3u8
 
+#EXTM3U
+#EXTINF:-1,RTP1 HD
+http://50.7.120.34:8080/RTP_1/index.m3u8
+#EXTINF:-1,RTP2 HD
+http://50.7.120.34:8080/RTP_2/index.m3u8
+#EXTINF:-1,RTP3 HD
+http://50.7.120.34:8080/RTP_3/index.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://50.7.120.34:8080/HOLLYWOOD/index.m3u8
+#EXTINF:-1,RTP Memoria
+http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
+#EXTINF:-1,Porto Canal HD
+http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
+#EXTINF:-1,SIC Noticias HD
+http://50.7.120.34:8080/SIC_NOTICIAS/index.m3u8
+#EXTINF:-1,SIC HD
+http://50.7.120.34:8080/SIC/index.m3u8
+#EXTINF:-1,SIC Caras HD
+http://50.7.120.34:8080/SIC_CARAS/index.m3u8
+#EXTINF:-1,SIC Mulher HD
+http://50.7.120.34:8080/SIC_MULHER/index.m3u8
+#EXTINF:-1,SIC Radical HD
+http://50.7.120.34:8080/SIC_RADICAL/index.m3u8
+#EXTINF:-1,TVI
+http://50.7.120.34:8080/TVI/index.m3u8
+#EXTINF:-1,CineMundo HD
+http://50.7.120.34:8080/CINEMUNDO/index.m3u8
+#EXTINF:-1,Star Channel HD
+http://50.7.120.34:8080/FOX/index.m3u8
+#EXTINF:-1,Star Crime HD
+http://50.7.120.34:8080/FOX_CRIME/index.m3u8
+#EXTINF:-1,Star Life HD
+http://50.7.120.34:8080/FOX_LIFE/index.m3u8
+#EXTINF:-1,Star Comedy HD
+http://50.7.120.34:8080/FOX_COMEDY/index.m3u8
+#EXTINF:-1,Star Movies HD
+http://50.7.120.34:8080/FOX_MOVIES/index.m3u8
+#EXTINF:-1,AXN HD
+http://50.7.120.34:8080/AXN/index.m3u8
+#EXTINF:-1,AXN Movies HD
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1,AXN White HD
+http://50.7.120.34:8080/AXN_WHITE/index.m3u8
+#EXTINF:-1,AMC HD
+http://50.7.120.34:8080/AMC/index.m3u8
+#EXTINF:-1,Canal Panda HD
+http://50.7.120.34:8080/PANDA/index.m3u8
+#EXTINF:-1,SYFY HD
+http://50.7.120.34:8080/SYFY/index.m3u8
+#EXTINF:-1,CNN HD
+http://50.7.120.34:8080/CNN/index.m3u8
+#EXTINF:-1,Sporting TV HD
+http://50.7.120.34:8080/SPORTING_TV/index.m3u8
+#EXTINF:-1,Canal11 HD
+http://50.7.120.34:8080/CANAL_11/index.m3u8
+#EXTINF:-1,EUROSPORT1
+http://50.7.120.34:8080/EUROSPORT/index.m3u8
+#EXTINF:-1,EUROSPORT_2 HD
+http://50.7.120.34:8080/EUROSPORT_2/index.m3u8
+
+#EXTM3U
+#EXTINF:-1,RTP1 HD
+http://50.7.120.34:8080/RTP_1/index.m3u8
+#EXTINF:-1,RTP2 HD
+http://50.7.120.34:8080/RTP_2/index.m3u8
+#EXTINF:-1,RTP3 HD
+http://50.7.120.34:8080/RTP_3/index.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://50.7.120.34:8080/HOLLYWOOD/index.m3u8
+#EXTINF:-1,RTP Memoria
+http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
+#EXTINF:-1,Porto Canal HD
+http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
+#EXTINF:-1,SIC Noticias HD
+http://50.7.120.34:8080/SIC_NOTICIAS/index.m3u8
+#EXTINF:-1,SIC HD
+http://50.7.120.34:8080/SIC/index.m3u8
+#EXTINF:-1,SIC Caras HD
+http://50.7.120.34:8080/SIC_CARAS/index.m3u8
+#EXTINF:-1,SIC Mulher HD
+http://50.7.120.34:8080/SIC_MULHER/index.m3u8
+#EXTINF:-1,SIC Radical HD
+http://50.7.120.34:8080/SIC_RADICAL/index.m3u8
+#EXTINF:-1,TVI
+http://50.7.120.34:8080/TVI/index.m3u8
+#EXTINF:-1,CineMundo HD
+http://50.7.120.34:8080/CINEMUNDO/index.m3u8
+#EXTINF:-1,Star Channel HD
+http://50.7.120.34:8080/FOX/index.m3u8
+#EXTINF:-1,Star Crime HD
+http://50.7.120.34:8080/FOX_CRIME/index.m3u8
+#EXTINF:-1,Star Life HD
+http://50.7.120.34:8080/FOX_LIFE/index.m3u8
+#EXTINF:-1,Star Comedy HD
+http://50.7.120.34:8080/FOX_COMEDY/index.m3u8
+#EXTINF:-1,Star Movies HD
+http://50.7.120.34:8080/FOX_MOVIES/index.m3u8
+#EXTINF:-1,AXN HD
+http://50.7.120.34:8080/AXN/index.m3u8
+#EXTINF:-1,AXN Movies HD
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1,AXN White HD
+http://50.7.120.34:8080/AXN_WHITE/index.m3u8
+#EXTINF:-1,AMC HD
+http://50.7.120.34:8080/AMC/index.m3u8
+#EXTINF:-1,Canal Panda HD
+http://50.7.120.34:8080/PANDA/index.m3u8
+#EXTINF:-1,SYFY HD
+http://50.7.120.34:8080/SYFY/index.m3u8
+#EXTINF:-1,CNN HD
+http://50.7.120.34:8080/CNN/index.m3u8
+#EXTINF:-1,Sporting TV HD
+http://50.7.120.34:8080/SPORTING_TV/index.m3u8
+#EXTINF:-1,Canal11 HD
+http://50.7.120.34:8080/CANAL_11/index.m3u8
+#EXTINF:-1,EUROSPORT1
+http://50.7.120.34:8080/EUROSPORT/index.m3u8
+#EXTINF:-1,EUROSPORT_2 HD
+http://50.7.120.34:8080/EUROSPORT_2/index.m3u8
 
