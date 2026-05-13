@@ -13596,3 +13596,135 @@ https://lilac01.pontiscloud.com/live/eds/Sextreme/live_dash_cld/Sextreme.mpd
 
 https://lilac01.pontiscloud.com/live/eds/Venus/live_dash_cld/Venus.mpd
 dff22cb5678e35c1217aee5092a51bfb:
+
+
+#EXTM3U
+#EXTINF:-1:-1 xui-id="312" tvg-id="" tvg-name="CNBC Europe" tvg-logo="http://fomo.re/images/Cnbc_square.svg.png" group-title="Denmark",CNBC Europe
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
+#EXTINF:-1:-1 xui-id="326" tvg-id="156212" tvg-name="DR1" tvg-logo="http://fomo.re/images/DK_dr1.png" group-title="Denmark",DR1
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
+#EXTINF:-1:-1 xui-id="10025" tvg-id="156212" tvg-name="DR1 HD" tvg-logo="http://fomo.re/images/DK_dr1.png" group-title="Denmark",DR1 HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeKILSLuNCOr4JUV3MfzMgqY/ts
+#EXTINF:-1:-1 xui-id="327" tvg-id="156210" tvg-name="DR2" tvg-logo="http://fomo.re/images/DK_dr2.png" group-title="Denmark",DR2
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJqZiq8-7X-IZ0hslZ9IGhf/ts
+#EXTINF:-1:-1 xui-id="10026" tvg-id="156210" tvg-name="DR2 HD" tvg-logo="http://fomo.re/images/DK_dr2.png" group-title="Denmark",DR2 HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeK3cT2qK1Re_e5rV37wpA7L/ts
+#EXTINF:-1:-1 xui-id="328" tvg-id="156563" tvg-name="TV 2" tvg-logo="http://fomo.re/images/DK_tv2.png" group-title="Denmark",TV 2
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJeuxu2ZV7YF5xjOof2r_lz/ts
+#EXTINF:-1:-1 xui-id="10097" tvg-id="156563" tvg-name="TV 2 HD" tvg-logo="http://fomo.re/images/Tv2Denmark_square.svg.png" group-title="Denmark",TV 2 HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJ23GKsb5Eu-8ON-5GawsbA/ts
+#EXTINF:-1:-1 xui-id="329" tvg-id="156622" tvg-name="TV3" tvg-logo="http://fomo.re/images/DK_tv3.png" group-title="Denmark",TV3
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeKocwiS7sIdjInI3v79VDz5/ts
+#EXTINF:-1:-1 xui-id="330" tvg-id="156189" tvg-name="Kanal 4" tvg-logo="http://fomo.re/images/e818b7dc7e92afbee84f2cc94fbbf624.png" group-title="Denmark",Kanal 4
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeI6I-MgfoayMZmrRcXh1ql3/ts
+#EXTINF:-1:-1 xui-id="10094" tvg-id="156189" tvg-name="Kanal 4 HD" tvg-logo="http://fomo.re/images/DK_kanal4.png" group-title="Denmark",Kanal 4 HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeL_bbJOsxlMZBv2k4MpFxuc/ts
+#EXTINF:-1:-1 xui-id="331" tvg-id="156543" tvg-name="Kanal 5" tvg-logo="http://fomo.re/images/DK_kanal5.png" group-title="Denmark",Kanal 5
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJZGrGoh6v9_sStuVim79ZN/ts
+#EXTINF:-1:-1 xui-id="10095" tvg-id="156543" tvg-name="Kanal 5 HD" tvg-logo="http://fomo.re/images/DK_kanal5.png" group-title="Denmark",Kanal 5 HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJBjZ4wcdMO3yLtOdMCWOjJ/ts
+#EXTINF:-1:-1 xui-id="332" tvg-id="156545" tvg-name="6'eren" tvg-logo="http://fomo.re/images/DK_6eren.png" group-title="Denmark",6'eren
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeLNfeZo-tAeqiZsS_BcqYMV/ts
+#EXTINF:-1:-1 xui-id="10001" tvg-id="156545" tvg-name="6'eren HD" tvg-logo="http://fomo.re/images/DK_6eren.png" group-title="Denmark",6'eren HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeL_iE6XwHeNYewvmYZLIbUO/ts
+#EXTINF:-1:-1 xui-id="333" tvg-id="156191" tvg-name="Canal 9" tvg-logo="http://fomo.re/images/DK_kanal9.png" group-title="Denmark",Canal 9
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeL6fkdMfZl8VIOrWHfmK7xS/ts
+#EXTINF:-1:-1 xui-id="10002" tvg-id="156191" tvg-name="Canal 9 HD" tvg-logo="http://fomo.re/images/DK_kanal9.png" group-title="Denmark",Canal 9 HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeLy55oFTJOy2DgrpUEiT8WJ/ts
+#EXTINF:-1:-1 xui-id="334" tvg-id="156196" tvg-name="dk4" tvg-logo="http://fomo.re/images/DK_kanal4.png" group-title="Denmark",dk4
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIEtPDs_7L8koCQlYFDsH-F/ts
+#EXTINF:-1:-1 xui-id="10122" tvg-id="156621" tvg-name="TV3+ HD" tvg-logo="http://fomo.re/images/DK_tv3_plus.png" group-title="Denmark",TV3+ HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIKq65dXOAx-dy8yA4IFAVv/ts
+#EXTINF:-1:-1 xui-id="336" tvg-id="156621" tvg-name="TV3+" tvg-logo="http://fomo.re/images/DK_tv3_plus.png" group-title="Denmark",TV3+
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeKQjT35x3Rqe14YI8o_Qbi8/ts
+#EXTINF:-1:-1 xui-id="337" tvg-id="156566" tvg-name="TV 2 Charlie" tvg-logo="http://fomo.re/images/DK_tv2_charlie.png" group-title="Denmark",TV 2 Charlie
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJrdSutdaJ8ulhdGH5hI8-0/ts
+#EXTINF:-1:-1 xui-id="10096" tvg-id="156566" tvg-name="TV2 Charlie HD" tvg-logo="http://fomo.re/images/DK_tv2_charlie.png" group-title="Denmark",TV2 Charlie HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
+#EXTINF:-1:-1 xui-id="338" tvg-id="" tvg-name="TV 2 ZULU" tvg-logo="http://fomo.re/images/DK_tv2_zulu.png" group-title="Denmark",TV 2 ZULU
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeL1V01AGUDfy7q_5RnXviqN/ts
+#EXTINF:-1:-1 xui-id="10120" tvg-id="" tvg-name="TV2 Zulu HD" tvg-logo="http://fomo.re/images/DK_tv2_zulu_hd.png" group-title="Denmark",TV2 Zulu HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeKPInmPeWjoJEq7iHVG35xf/ts
+#EXTINF:-1:-1 xui-id="339" tvg-id="156567" tvg-name="TV 2 News" tvg-logo="http://fomo.re/images/all_tv2_news.png" group-title="Denmark",TV 2 News
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeLZE6iRmKxDB5-s0Qsnlevz/ts
+#EXTINF:-1:-1 xui-id="340" tvg-id="156565" tvg-name="TV 2 SPORT X HD" tvg-logo="http://fomo.re/images/DK_tv2_sportx.png" group-title="Denmark",TV 2 SPORT X HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIexILIKfWixPTdv7gbXM3N/ts
+#EXTINF:-1:-1 xui-id="341" tvg-id="156498" tvg-name="Eurosport 1 HD" tvg-logo="http://fomo.re/images/UK_eurosport_1_hd.png" group-title="Denmark",Eurosport 1 HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJf8qlbRnHy0vwdgIb5_Gu3/ts
+#EXTINF:-1:-1 xui-id="342" tvg-id="156500" tvg-name="Eurosport 2 HD" tvg-logo="http://fomo.re/images/UK_eurosport_2_hd.png" group-title="Denmark",Eurosport 2 HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeK3ezCDZZ-YGmLEvGwMsN9R/ts
+#EXTINF:-1:-1 xui-id="343" tvg-id="156623" tvg-name="TV3 Sport HD" tvg-logo="http://fomo.re/images/DK_tv3_sport_hd.png" group-title="Denmark",TV3 Sport HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIgpWM8vPwG1BdeRfzzJT1z/ts
+#EXTINF:-1:-1 xui-id="344" tvg-id="156878" tvg-name="TV 2 SPORT" tvg-logo="http://fomo.re/images/DK_tv2_sport.png" group-title="Denmark",TV 2 SPORT
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJxyBOj9_rL0TjfPHpORY5_/ts
+#EXTINF:-1:-1 xui-id="345" tvg-id="156209" tvg-name="Sport Live" tvg-logo="http://fomo.re/images/all_sport_live.png" group-title="Denmark",Sport Live
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIzNoblLs-HiRnKu3vp9i9H/ts
+#EXTINF:-1:-1 xui-id="365" tvg-id="156195" tvg-name="Nat Geo HD" tvg-logo="http://fomo.re/images/SWE_national_geographic.png" group-title="Denmark",Nat Geo HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJeUwBAAqEr-ArJYgi50m88/ts
+#EXTINF:-1:-1 xui-id="311" tvg-id="SKYNWMC" tvg-name="Sky News" tvg-logo="http://fomo.re/images/UK_sky_news.png" group-title="Denmark",Sky News
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeLOB0kfTOOaqIfrRNHDurSz/ts
+#EXTINF:-1:-1 xui-id="60725" tvg-id="SFE4KUS" tvg-name="Stingray Festival 4K" tvg-logo="http://fomo.re/images/UK_stingray_festival_4k_v2.png" group-title="Denmark",Stingray Festival 4K
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJI45fKSmWzOSG1_P1paLUi/ts
+#EXTINF:-1:-1 xui-id="112144" tvg-id="Handball-kanalen1" tvg-name="EveryPlay" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark",EveryPlay
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeL7t0bxyD050I7qVBsjOAK_/ts
+#EXTINF:-1:-1 xui-id="112145" tvg-id="Handball-kanalen2" tvg-name="EveryPlay 2" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark",EveryPlay 2
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeKBf5IGIvWOMzk-6dDvqWgc/ts
+#EXTINF:-1:-1 xui-id="112146" tvg-id="Handball-kanalen3" tvg-name="EveryPlay 3" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark",EveryPlay 3
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
+#EXTINF:-1:-1 xui-id="112320" tvg-id="Handball-kanalen4" tvg-name="EveryPlay 4" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark",EveryPlay 4
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeL8SvOiqhfnjK39Dj-gBdvT/ts
+#EXTINF:-1:-1 xui-id="112321" tvg-id="Handball-kanalen5" tvg-name="EveryPlay 5" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark",EveryPlay 5
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeKZz2-t1iDWMFqk1VjAxlLQ/ts
+#EXTINF:-1:-1 xui-id="112445" tvg-id="" tvg-name="Fashion TV Paris L'Original" tvg-logo="http://fomo.re/images/all_fashion_tv.png" group-title="Denmark",Fashion TV Paris L'Original
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJr4DhaqRRD4OVD71DhiG4w/ts
+#EXTINF:-1:-1 xui-id="112446" tvg-id="" tvg-name="Fashion TV HD" tvg-logo="http://fomo.re/images/all_fashion_tv.png" group-title="Denmark",Fashion TV HD
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIXn-fiadLluyAJg_QyliYF/ts
+#EXTINF:-1:-1 xui-id="112447" tvg-id="FASO4K" tvg-name="Fashion TV 4K" tvg-logo="http://fomo.re/images/all_fashion_tv.png" group-title="Denmark",Fashion TV 4K
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIrdufCzKiEX2yEhtSHLYWn/ts
+#EXTINF:-1:-1 xui-id="112508" tvg-id="" tvg-name="Siberia! 4K" tvg-logo="http://fomo.re/images/all_siberia.png" group-title="Denmark",Siberia! 4K
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
+#EXTINF:-1:-1 xui-id="112509" tvg-id="" tvg-name="Home 4K" tvg-logo="http://fomo.re/images/all_home.png" group-title="Denmark",Home 4K
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7-lhZnxQ/ts
+#EXTINF:-1:-1 xui-id="112510" tvg-id="" tvg-name="Fashion & Style 4K" tvg-logo="http://fomo.re/images/all_fashion_and_style.png" group-title="Denmark",Fashion & Style 4K
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJjfF4rl2R8TEsLAyUROEmN/ts
+#EXTINF:-1:-1 xui-id="112511" tvg-id="" tvg-name="Love Nature 4K" tvg-logo="http://fomo.re/images/all_love_nature.png" group-title="Denmark",Love Nature 4K
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIGL-csX2JavqmeULKzhm0i/ts
+#EXTINF:-1:-1 xui-id="112512" tvg-id="" tvg-name="travelxp 4K | HDR" tvg-logo="http://fomo.re/images/all_travelxp.png" group-title="Denmark",travelxp 4K | HDR
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeI_rIdoLZKzJnLb0vNsFSZN/ts
+#EXTINF:-1:-1 xui-id="112513" tvg-id="" tvg-name="Museum TV 4K" tvg-logo="http://fomo.re/images/all_museum.png" group-title="Denmark",Museum TV 4K
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeLODphVL_RpFsw9XErIXb3E/ts
+#EXTINF:-1:-1 xui-id="112514" tvg-id="" tvg-name="Insight TV UHD | HDR" tvg-logo="http://fomo.re/images/all_insight_tv.png" group-title="Denmark",Insight TV UHD | HDR
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeL67_7y3ZGJZFO_TiH9K48m/ts
+#EXTINF:-1:-1 xui-id="112520" tvg-id="" tvg-name="Quadro 4K" tvg-logo="http://fomo.re/images/all_quadro.png" group-title="Denmark",Quadro 4K
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
+#EXTINF:-1:-1 xui-id="112593" tvg-id="" tvg-name="V sport live 1 | raw" tvg-logo="http://fomo.re/images/all_vsport_live13.png" group-title="Denmark",V sport live 1 | raw
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
+#EXTINF:-1:-1 xui-id="112594" tvg-id="" tvg-name="V sport live 2 | raw" tvg-logo="http://fomo.re/images/all_vsport_live2.png" group-title="Denmark",V sport live 2 | raw
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
+#EXTINF:-1:-1 xui-id="112595" tvg-id="" tvg-name="V sport live 3 | raw" tvg-logo="http://fomo.re/images/all_vsport_live3.png" group-title="Denmark",V sport live 3 | raw
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJN-rc2WQXpzQEyK_KFHHXX/ts
+#EXTINF:-1:-1 xui-id="112596" tvg-id="" tvg-name="V sport live 4 | raw" tvg-logo="http://fomo.re/images/all_vsport_live4.png" group-title="Denmark",V sport live 4 | raw
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeJIam_bvZtVp_G6tmRdjb88/ts
+#EXTINF:-1:-1 xui-id="112597" tvg-id="" tvg-name="V sport live 5 | raw" tvg-logo="http://fomo.re/images/all_vsport_live5.png" group-title="Denmark",V sport live 5 | raw
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
+#EXTINF:-1:-1 xui-id="116829" tvg-id="Handball-kanalen6" tvg-name="Handball Kanalen 6" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark",Handball Kanalen 6
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
+#EXTINF:-1:-1 xui-id="116830" tvg-id="Handball-kanalen7" tvg-name="Handball Kanalen 7" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark",Handball Kanalen 7
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeI2frlGoknd5HCvuBuziLxy/ts
+#EXTINF:-1:-1 xui-id="116831" tvg-id="Handball-kanalen8" tvg-name="Handball Kanalen 8" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark",Handball Kanalen 8
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7/ts
+#EXTINF:-1:-1 xui-id="116832" tvg-id="Handball-kanalen9" tvg-name="Handball Kanalen 9" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark",Handball Kanalen 9
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeKvMoP3Gj5ZeqhAhKqOK0Ku/ts
+#EXTINF:-1:-1 xui-id="116845" tvg-id="Handball-kanalen10" tvg-name="Handball Kanalen 10" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Denmark",Handball Kanalen 10
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeLYAfoe5_VaWGXYWVGTWRuf/ts
+#EXTINF:-1:-1 xui-id="117641" tvg-id="" tvg-name="nick Jr" tvg-logo="http://fomo.re/images/EQNWp_xkQZrWBiOF8YhzXeLL4pV-bcx_OGfl5UR8quyHJqA2480t_QkRKfuBHfBNq2gOOfbWYLmtwlpQCKbHdQ.png" group-title="Denmark",nick Jr
+http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeIWiMT0L6AI4ynbHaibUbAs/ts
+
+
+
+
+
+
+
+
+
