@@ -12397,5 +12397,132 @@ http://173.229.4.239:5004/auto/v24
 #EXTINF:-1 group-title="FR",RMC Life
 http://173.229.4.239:5004/auto/v25
 
+#EXTM3U
+#EXTM3U x-tvg-url="https://is.gd/epg2xml"
+#EXTGRP:Без категории
+#EXTINF:-1 tvg-id="24 Kitchen" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/24%20Kitchen.png[/img]",24 Kitchen
+http://212.70.131.37:8000/play/a07e
+#EXTINF:-1 tvg-id="7/8 TV" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/7/8%20TV.png[/img]",7/8 TV
+http://212.70.131.37:8000/play/a05r
+#EXTINF:-1 tvg-id="AMC" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/AMC.png[/img]",AMC
+http://212.70.131.37:8000/play/a05k
+#EXTINF:-1 tvg-id="Arena Comedy" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Arena%20Comedy.png[/img]",Arena Comedy
+http://212.70.131.37:8000/play/a08f
+#EXTINF:-1 tvg-id="BNT 3 HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/BNT%203%20HD.png[/img]",BNT 3 HD
+http://212.70.131.37:8000/play/a021
+#EXTINF:-1 tvg-id="BNT 4 HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/BNT%204%20HD.png[/img]",BNT 4 HD
+http://212.70.131.37:8000/play/a01s
+#EXTINF:-1 tvg-id="Balkanika" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Balkanika.png[/img]",Balkanika
+http://212.70.131.37:8000/play/a04z
+#EXTINF:-1 tvg-id="Bulgaria On Air" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Bulgaria%20On%20Air.png[/img]",Bulgaria On Air
+http://212.70.131.37:8000/play/a07h
+#EXTINF:-1 tvg-id="Cine.box" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cine.box.png[/img]",Cine.box
+http://212.70.131.37:8000/play/a08b
+#EXTINF:-1 tvg-id="Cinemania" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinemania.png[/img]",Cinemania
+http://212.70.131.37:8000/play/a07s
+#EXTINF:-1 tvg-id="City TV" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/City%20TV.png[/img]",City TV
+http://212.70.131.37:8000/play/a03b
+#EXTINF:-1 tvg-id="DIEMA HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/DIEMA%20HD.png[/img]",DIEMA HD
+http://212.70.131.37:8000/play/a04u
+#EXTINF:-1 tvg-id="DSTV" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/DSTV.png[/img]",DSTV
+http://212.70.131.37:8000/play/a03f
+#EXTINF:-1 tvg-id="Diema Sport 2 HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Diema%20Sport%202%20HD.png[/img]",Diema Sport 2 HD
+http://212.70.131.37:8000/play/a06p
+#EXTINF:-1 tvg-id="Diema Sport 3 HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Diema%20Sport%203%20HD.png[/img]",Diema Sport 3 HD
+http://212.70.131.37:8000/play/a06o
+#EXTINF:-1 tvg-id="Diema Sport HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Diema%20Sport%20HD.png[/img]",Diema Sport HD
+http://212.70.131.37:8000/play/a06e
+#EXTINF:-1 tvg-id="Epic Drama" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Epic%20Drama.png[/img]",Epic Drama
+http://212.70.131.37:8000/play/a057
+#EXTINF:-1 tvg-id="Euronews Bulgaria" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Euronews%20Bulgaria.png[/img]",Euronews Bulgaria
+http://212.70.131.37:8000/play/a03n
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Eurosport%201.png[/img]",Eurosport 1
+http://212.70.131.37:8000/play/a061
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Eurosport%202.png[/img]",Eurosport 2
+http://212.70.131.37:8000/play/a05u
+#EXTINF:-1 tvg-id="Evrokom HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Evrokom%20HD.png[/img]",Evrokom HD
+http://212.70.131.37:8000/play/a01o
+#EXTINF:-1 tvg-id="Fen Folk" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Fen%20Folk.png[/img]",Fen Folk
+http://212.70.131.37:8000/play/a01p
+#EXTINF:-1 tvg-id="FilmBox" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/FilmBox.png[/img]",FilmBox
+http://212.70.131.37:8000/play/a01r
+#EXTINF:-1 tvg-id="Folklor TV" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Folklor%20TV.png[/img]",Folklor TV
+http://212.70.131.37:8000/play/a03d
+#EXTINF:-1 tvg-id="HBO" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/HBO.png[/img]",HBO
+http://212.70.131.37:8000/play/a05h
+#EXTINF:-1 tvg-id="HBO 2" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/HBO%202.png[/img]",HBO 2
+http://212.70.131.37:8000/play/a05i
+#EXTINF:-1 tvg-id="HBO 3" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/HBO%203.png[/img]",HBO 3
+http://212.70.131.37:8000/play/a05y
+#EXTINF:-1 tvg-id="HGTV HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/HGTV%20HD.png[/img]",HGTV HD
+http://212.70.131.37:8000/play/a06f
+#EXTINF:-1 tvg-id="Kino Nova HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Kino%20Nova%20HD.png[/img]",Kino Nova HD
+http://212.70.131.37:8000/play/a04v
+#EXTINF:-1 tvg-id="MAX Sport 1 HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MAX%20Sport%201%20HD.png[/img]",MAX Sport 1 HD
+http://212.70.131.37:8000/play/a085
+#EXTINF:-1 tvg-id="MAX Sport 2 HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MAX%20Sport%202%20HD.png[/img]",MAX Sport 2 HD
+http://212.70.131.37:8000/play/a086
+#EXTINF:-1 tvg-id="MAX Sport 3 HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MAX%20Sport%203%20HD.png[/img]",MAX Sport 3 HD
+http://212.70.131.37:8000/play/a06h
+#EXTINF:-1 tvg-id="MAX Sport 4 HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MAX%20Sport%204%20HD.png[/img]",MAX Sport 4 HD
+http://212.70.131.37:8000/play/a07n
+#EXTINF:-1 tvg-id="Motorvision" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Motorvision.png[/img]",Motorvision
+http://212.70.131.37:8000/play/a03g
+#EXTINF:-1 tvg-id="NG Wild" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/NG%20Wild.png[/img]",NG Wild
+http://212.70.131.37:8000/play/a07l
+#EXTINF:-1 tvg-id="Nat Geo HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Nat%20Geo%20HD.png[/img]",Nat Geo HD
+http://212.70.131.37:8000/play/a08d
+#EXTINF:-1 tvg-id="Nostalgia" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Nostalgia.png[/img]",Nostalgia
+http://212.70.131.37:8000/play/a05w
+#EXTINF:-1 tvg-id="Nova HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Nova%20HD.png[/img]",Nova HD
+http://212.70.131.37:8000/play/a08h
+#EXTINF:-1 tvg-id="Nova News HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Nova%20News%20HD.png[/img]",Nova News HD
+http://212.70.131.37:8000/play/a05g
+#EXTINF:-1 tvg-id="Nova Sport" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Nova%20Sport.png[/img]",Nova Sport
+http://212.70.131.37:8000/play/a05p
+#EXTINF:-1 tvg-id="STAR Channel" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/STAR%20Channel.png[/img]",STAR Channel
+http://212.70.131.37:8000/play/a07g
+#EXTINF:-1 tvg-id="STAR Crime" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/STAR%20Crime.png[/img]",STAR Crime
+http://212.70.131.37:8000/play/a07d
+#EXTINF:-1 tvg-id="STAR Life" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/STAR%20Life.png[/img]",STAR Life
+http://212.70.131.37:8000/play/a07c
+#EXTINF:-1 tvg-id="TV 1000" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TV%201000.png[/img]",TV 1000
+http://212.70.131.37:8000/play/a059
+#EXTINF:-1 tvg-id="TVT" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TVT.png[/img]",TVT
+http://212.70.131.37:8000/play/a03k
+#EXTINF:-1 tvg-id="The World" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/The%20World.png[/img]",The World
+http://212.70.131.37:8000/play/a03l
+#EXTINF:-1 tvg-id="Travel Channel" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Travel%20Channel.png[/img]",Travel Channel
+http://212.70.131.37:8000/play/a04w
+#EXTINF:-1 tvg-id="Travel TV" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Travel%20TV.png[/img]",Travel TV
+http://212.70.131.37:8000/play/a01q
+#EXTINF:-1 tvg-id="Viasat Explore/Fantazzy" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Viasat%20Explore/Fantazzy.png[/img]",Viasat Explore/Fantazzy
+http://212.70.131.37:8000/play/a055
+#EXTINF:-1 tvg-id="Viasat History" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Viasat%20History.png[/img]",Viasat History
+http://212.70.131.37:8000/play/a056
+#EXTINF:-1 tvg-id="Viasat Nature" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Viasat%20Nature.png[/img]",Viasat Nature
+http://212.70.131.37:8000/play/a05t
+#EXTINF:-1 tvg-id="bTV Action HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/bTV%20Action%20HD.png[/img]",bTV Action HD
+http://212.70.131.37:8000/play/a025
+#EXTINF:-1 tvg-id="bTV Cinema" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/bTV%20Cinema.png[/img]",bTV Cinema
+http://212.70.131.37:8000/play/a077
+#EXTINF:-1 tvg-id="bTV Comedy" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/bTV%20Comedy.png[/img]",bTV Comedy
+http://212.70.131.37:8000/play/a076
+#EXTINF:-1 tvg-id="bTV HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/bTV%20HD.png[/img]",bTV HD
+http://212.70.131.37:8000/play/a04a
+#EXTINF:-1 tvg-id="bTV Story" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/bTV%20Story.png[/img]",bTV Story
+http://212.70.131.37:8000/play/a078
+#EXTINF:-1 tvg-id="BHT 2" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/BHT%202.png[/img]",BHT 2
+http://212.70.131.37:8000/play/a052
+#EXTINF:-1 tvg-id="BHT1" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/BHT1.png[/img]",BHT1
+http://212.70.131.37:8000/play/a04x
+#EXTINF:-1 tvg-id="Bolgaria 24" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Bolgaria%2024.png[/img]",Bolgaria 24
+http://212.70.131.37:8000/play/a068
+#EXTINF:-1 tvg-id="DF¸ HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/DF¸%20HD.png[/img]",DF¸ HD
+http://212.70.131.37:8000/play/a054
+#EXTINF:-1 tvg-id="Planeta HD" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Planeta%20HD.png[/img]",Planeta HD
+http://212.70.131.37:8000/play/a06k
+#EXTINF:-1 tvg-id="folk" group-title="Без категории" tvg-logo="[img]https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/folk.png[/img]",folk
+http://212.70.131.37:8000/play/a05q
 
 
