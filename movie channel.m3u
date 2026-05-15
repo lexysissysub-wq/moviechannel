@@ -13177,4 +13177,401 @@ https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr@SD",Trace Gospel (1080p)
 https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
 
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="----- ITALIA -----" tvg-logo="http://service.myvisio.life:80/images/fbf5f839bf16f0f3c8e03b9e8bc2e5c2.png" group-title="Italia",----- ITALIA -----
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/51525.ts
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 FHD" tvg-logo="http://service.myvisio.life:80/images/b0879796d27e736de474a4bac4cd5cfe.png" group-title="Italia",Rai 1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/63460.ts
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 +1 FHD" tvg-logo="http://service.myvisio.life:80/images/b0879796d27e736de474a4bac4cd5cfe.png" group-title="Italia",Rai 1 +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/79377.ts
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 HD" tvg-logo="http://service.myvisio.life:80/images/b0879796d27e736de474a4bac4cd5cfe.png" group-title="Italia",Rai 1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/315.ts
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 +1 HD" tvg-logo="http://service.myvisio.life:80/images/b0879796d27e736de474a4bac4cd5cfe.png" group-title="Italia",Rai 1 +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/79374.ts
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 FHD" tvg-logo="http://service.myvisio.life:80/images/598b08714e3b45b565496de9a5cfb1df.png" group-title="Italia",Rai 2 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/63461.ts
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 +1 FHD" tvg-logo="http://service.myvisio.life:80/images/598b08714e3b45b565496de9a5cfb1df.png" group-title="Italia",Rai 2 +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/79378.ts
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 HD" tvg-logo="http://service.myvisio.life:80/images/598b08714e3b45b565496de9a5cfb1df.png" group-title="Italia",Rai 2 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/316.ts
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 +1 HD" tvg-logo="http://service.myvisio.life:80/images/598b08714e3b45b565496de9a5cfb1df.png" group-title="Italia",Rai 2 +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/79375.ts
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 FHD" tvg-logo="http://service.myvisio.life:80/images/faf33a5c87e8efff495d5a9e77f8cb46.png" group-title="Italia",Rai 3 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/63462.ts
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 +1 FHD" tvg-logo="http://service.myvisio.life:80/images/faf33a5c87e8efff495d5a9e77f8cb46.png" group-title="Italia",Rai 3 +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/79379.ts
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 HD" tvg-logo="http://service.myvisio.life:80/images/faf33a5c87e8efff495d5a9e77f8cb46.png" group-title="Italia",Rai 3 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/317.ts
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 +1 HD" tvg-logo="http://service.myvisio.life:80/images/faf33a5c87e8efff495d5a9e77f8cb46.png" group-title="Italia",Rai 3 +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/79376.ts
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-name="Rai 4K" tvg-logo="http://service.myvisio.life:80/images/02a7c594d4ce3cd2dc70eaa1d8099d6f.png" group-title="Italia",Rai 4K
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/146228.ts
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4 FHD" tvg-logo="http://service.myvisio.life:80/images/f2da8d6445b9d1b2c2c3065b120b467d.png" group-title="Italia",Rete 4 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/63463.ts
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4 + 1 FHD" tvg-logo="http://service.myvisio.life:80/images/f2da8d6445b9d1b2c2c3065b120b467d.png" group-title="Italia",Rete 4 + 1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/79386.ts
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4 HD" tvg-logo="http://service.myvisio.life:80/images/f2da8d6445b9d1b2c2c3065b120b467d.png" group-title="Italia",Rete 4 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/318.ts
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4 + 1 HD" tvg-logo="http://service.myvisio.life:80/images/f2da8d6445b9d1b2c2c3065b120b467d.png" group-title="Italia",Rete 4 + 1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/79387.ts
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 FHD" tvg-logo="http://service.myvisio.life:80/images/f239b986e3a2155a50420d8ce24de01f.png" group-title="Italia",Canale 5 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/63464.ts
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 +1 FHD" tvg-logo="http://service.myvisio.life:80/images/f239b986e3a2155a50420d8ce24de01f.png" group-title="Italia",Canale 5 +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/79388.ts
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 HD" tvg-logo="http://service.myvisio.life:80/images/f239b986e3a2155a50420d8ce24de01f.png" group-title="Italia",Canale 5 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/319.ts
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 +1 HD" tvg-logo="http://service.myvisio.life:80/images/f239b986e3a2155a50420d8ce24de01f.png" group-title="Italia",Canale 5 +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/79389.ts
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 FHD" tvg-logo="http://service.myvisio.life:80/images/48d328ccbef01c2fcd96db0198b836b2.png" group-title="Italia",Italia 1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/63465.ts
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 +1 FHD" tvg-logo="http://service.myvisio.life:80/images/48d328ccbef01c2fcd96db0198b836b2.png" group-title="Italia",Italia 1 +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/79391.ts
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 HD" tvg-logo="http://service.myvisio.life:80/images/48d328ccbef01c2fcd96db0198b836b2.png" group-title="Italia",Italia 1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/320.ts
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 +1 HD" tvg-logo="http://service.myvisio.life:80/images/48d328ccbef01c2fcd96db0198b836b2.png" group-title="Italia",Italia 1 +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/79390.ts
+#EXTINF:-1 tvg-id="-frisbee-.it" tvg-name="RSI LA 1 HD" tvg-logo="http://service.myvisio.life:80/images/a4ba61532bc9b00dbca8d9edaf16e396.png" group-title="Italia",RSI LA 1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/356.ts
+#EXTINF:-1 tvg-id="" tvg-name="RSI LA 2 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_4338_300C_13E_820000_0_0_0.png" group-title="Italia",RSI LA 2 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/357.ts
+#EXTINF:-1 tvg-id="Twentyseven.it" tvg-name="Mediaset Twentyseven FHD" tvg-logo="http://service.myvisio.life:80/images/ef31598ce0f25e8c43c46053f34c1130.png" group-title="Italia",Mediaset Twentyseven FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/179215.ts
+#EXTINF:-1 tvg-id="Twentyseven.it" tvg-name="Mediaset Twentyseven HD" tvg-logo="http://service.myvisio.life:80/images/ef31598ce0f25e8c43c46053f34c1130.png" group-title="Italia",Mediaset Twentyseven HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/179214.ts
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Paramount Channel" tvg-logo="http://service.myvisio.life:80/images/db21564c93e768b53a12771b92ccea2c.png" group-title="Italia",Paramount Channel
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/1597.ts
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset HD" tvg-logo="http://service.myvisio.life:80/images/0e8688973c69894c810d2e33543adc9f.png" group-title="Italia",20 Mediaset HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/20182.ts
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Mediaset Italia 2" tvg-logo="http://picon.koolmedia.live/images/1_0_16_82_4B0_110_820000_0_0_0.png" group-title="Italia",Mediaset Italia 2
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/626.ts
+#EXTINF:-1 tvg-id="LA5.it" tvg-name="La 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/330px-La5_Mediaset.svg.png" group-title="Italia",La 5
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/636.ts
+#EXTINF:-1 tvg-id="La7d.it" tvg-name="La 7" tvg-logo="http://service.myvisio.life:80/images/92bf364b54b35839c004940982826038.png" group-title="Italia",La 7
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/326.ts
+#EXTINF:-1 tvg-id="La7d.it" tvg-name="La7d HD" tvg-logo="http://service.myvisio.life:80/images/297d1a11b20eee15621f3f2dd5354e54.png" group-title="Italia",La7d HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/359.ts
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-logo="http://picon.koolmedia.live/images/1_0_16_81_4B0_110_820000_0_0_0.png" group-title="Italia",Mediaset Extra
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/29967.ts
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend HD" tvg-logo="http://service.myvisio.life:80/images/4b7f5a6c9883d43ffba0f22532ce50de.png" group-title="Italia",Motor Trend HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/134207.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grande Fratello Vip" tvg-logo="http://service.myvisio.life:80/images/de43ba5ef17acd5a3fac8fa4466b6b1a.png" group-title="Italia",Grande Fratello Vip
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/51526.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grande Fratello Vip 2" tvg-logo="http://service.myvisio.life:80/images/de43ba5ef17acd5a3fac8fa4466b6b1a.png" group-title="Italia",Grande Fratello Vip 2
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/51527.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grande Fratello Vip Party" tvg-logo="http://service.myvisio.life:80/images/de43ba5ef17acd5a3fac8fa4466b6b1a.png" group-title="Italia",Grande Fratello Vip Party
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/186435.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grande Fratello Vip 1 Ora Fa" tvg-logo="http://service.myvisio.life:80/images/de43ba5ef17acd5a3fac8fa4466b6b1a.png" group-title="Italia",Grande Fratello Vip 1 Ora Fa
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/76162.ts
+#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="TGcom24" tvg-logo="http://service.myvisio.life:80/images/ed0fa790b0c316c20e66b2db48e74254.png" group-title="Italia",TGcom24
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/578.ts
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-logo="http://service.myvisio.life:80/images/be7740aa9d6f946349d2a54c8d133160.png" group-title="Italia",Cielo
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/22747.ts
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 HD" tvg-logo="http://service.myvisio.life:80/images/8b6bb23a45d8c5e74157640946075284.png" group-title="Italia",Rai 4 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/22744.ts
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="TV8" tvg-logo="http://service.myvisio.life:80/images/c90ab721ecddbc1b730ecfb77844b1d5.png" group-title="Italia",TV8
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/22754.ts
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV 2000" tvg-logo="http://picon.koolmedia.live/images/1_0_19_2BAC_1AF4_FBFF_820000_0_0_0.png" group-title="Italia",TV 2000
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/22753.ts
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-logo="http://picon.koolmedia.live/images/4b6dabfc011eb79987fb2d3f4844cabb.png" group-title="Italia",Boing
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/358.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uniresat HD" tvg-logo="http://service.myvisio.life:80/images/7204597f8586d81284d0940323aba16e.png" group-title="Italia",Uniresat HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/4217.ts
+#EXTINF:-1 tvg-id="" tvg-name="Equtv HD" tvg-logo="http://service.myvisio.life:80/images/8a4a6dfcaae954d58938ef246759f6eb.png" group-title="Italia",Equtv HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/179967.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canale 21" tvg-logo="http://picon.koolmedia.live/images/regionali/canale21.png" group-title="Italia",Canale 21
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/22748.ts
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-logo="http://service.myvisio.life:80/images/7a2f31e678b431e8e60272a4728140f0.png" group-title="Italia",Nove
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/22746.ts
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sport Italia Live" tvg-logo="http://picon.koolmedia.live/images/1_0_1_1C17_384_110_EEEE0000_0_0_0.png" group-title="Italia",Sport Italia Live
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/624.ts
+#EXTINF:-1 tvg-id="" tvg-name="Top Calcio 24 Hd" tvg-logo="http://service.myvisio.life:80/images/0e1af5819d836b038edbf4e9cf8c31d0.png" group-title="Italia",Top Calcio 24 Hd
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/180867.ts
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24" tvg-logo="http://picon.koolmedia.live/images/1_0_1_1C73_1C20_13E_820000_0_0_0.png" group-title="Italia",Rai News 24
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/354.ts
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="http://picon.koolmedia.live/images/1_0_19_4534_30D4_13E_820000_0_0_0.png" group-title="Italia",Rai 5
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/345.ts
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Rai Sport + HD" tvg-logo="http://service.myvisio.life:80/images/7b3fd903e50a683b5d0c723667d2e435.png" group-title="Italia",Rai Sport + HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/352.ts
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai YoYo HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_4531_30D4_13E_820000_0_0_0.png" group-title="Italia",Rai YoYo HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/349.ts
+#EXTINF:-1 tvg-id="" tvg-name="Iris HD" tvg-logo="http://service.myvisio.life:80/images/f75c9af2f9523fcaa0c029651ffe814b.png" group-title="Italia",Iris HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/360.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine34 HD" tvg-logo="http://service.myvisio.life:80/images/7e61b0ff6b185e4e460e0535f1d79942.png" group-title="Italia",Cine34 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/189100.ts
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="http://service.myvisio.life:80/images/cad82083a67ca71e3fe15ea68f5dd94a.png" group-title="Italia",Rai Storia
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/351.ts
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium HD" tvg-logo="http://service.myvisio.life:80/images/e326ea06729943f26d038f0b01844f10.png" group-title="Italia",Rai Premium HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/347.ts
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_D4E_1450_13E_820000_0_0_0.png" group-title="Italia",Rai Movie HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/346.ts
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_4530_30D4_13E_820000_0_0_0.png" group-title="Italia",Rai Gulp HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/348.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- SKY CINEMA -----" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Cinema",----- SKY CINEMA -----
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/22760.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno FHD" tvg-logo="http://service.myvisio.life:80/images/8249e7837b2c603ca86f826b621cb763.png" group-title="Cinema",Sky Cinema Uno FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/4496.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno HD" tvg-logo="http://service.myvisio.life:80/images/d6e15abbac47edd29a81299ef791494e.png" group-title="Cinema",Sky Cinema Uno HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48863.ts
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-uno-hd.png" group-title="Sky Italia SD",Sky Cinema Uno SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48947.ts
+#EXTINF:-1 tvg-id="SkyCinemaUnoPlus1.it" tvg-name="Sky Cinema Uno +1 FHD" tvg-logo="http://service.myvisio.life:80/images/bbb7a3c21c169a6bc0a6b2bf6736f29a.png" group-title="Cinema",Sky Cinema Uno +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/32108.ts
+#EXTINF:-1 tvg-id="SkyCinemaUnoPlus1.it" tvg-name="Sky Cinema Uno +1 HD" tvg-logo="http://service.myvisio.life:80/images/abc30362f77bb480c85fd29c96471896.png" group-title="Cinema",Sky Cinema Uno +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48662.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-uno+1-hd.png" group-title="Sky Italia SD",Sky Cinema Uno +1 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48948.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.+24.it" tvg-name="Sky Cinema Uno +24 FHD" tvg-logo="http://service.myvisio.life:80/images/6fc402528bde38a87ef7d2a886d57cdd.png" group-title="Cinema",Sky Cinema Uno +24 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/9591.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.+24.it" tvg-name="Sky Cinema Uno +24 HD" tvg-logo="http://service.myvisio.life:80/images/6fc402528bde38a87ef7d2a886d57cdd.png" group-title="Cinema",Sky Cinema Uno +24 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/11.ts
+#EXTINF:-1 tvg-id="SkyCinemaUnoPlus24.it" tvg-name="Sky Cinema Uno +24 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-uno+24-hd.png" group-title="Sky Italia SD",Sky Cinema Uno +24 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48949.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.it" tvg-name="Sky Cinema Due FHD" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Cinema",Sky Cinema Due FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/9622.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.it" tvg-name="Sky Cinema Due HD" tvg-logo="http://service.myvisio.life:80/images/5452deb848fc85a2a0479ef1e0502bc1.png" group-title="Cinema",Sky Cinema Due HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/24885.ts
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="Sky Cinema Due SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-due-hd.png" group-title="Sky Italia SD",Sky Cinema Due SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48950.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due +1 FHD" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Cinema",Sky Cinema Due +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48697.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due +1 HD" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Cinema",Sky Cinema Due +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48676.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-due-hd.png" group-title="Sky Italia SD",Sky Cinema Due +1 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48951.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.+24.it" tvg-name="Sky Cinema Due +24 FHD" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Cinema",Sky Cinema Due +24 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/29702.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.+24.it" tvg-name="Sky Cinema Due +24 HD" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Cinema",Sky Cinema Due +24 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/72.ts
+#EXTINF:-1 tvg-id="SkyCinemaDue+24.it" tvg-name="Sky Cinema Due +24 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-due+24-hd.png" group-title="Sky Italia SD",Sky Cinema Due +24 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48952.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-name="Sky Cinema Collection FHD" tvg-logo="http://service.myvisio.life:80/images/ab43fe60d0172c42fea8e0b7b1f24269.png" group-title="Cinema",Sky Cinema Collection FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/9595.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-name="Sky Cinema Collection HD" tvg-logo="http://service.myvisio.life:80/images/06812b0391194efa06b65b8db5cf05c1.png" group-title="Cinema",Sky Cinema Collection HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/12.ts
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-collection-hd.png" group-title="Sky Italia SD",Sky Cinema Collection SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48953.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection +1 FHD" tvg-logo="http://service.myvisio.life:80/images/ab43fe60d0172c42fea8e0b7b1f24269.png" group-title="Cinema",Sky Cinema Collection +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection +1 HD" tvg-logo="http://service.myvisio.life:80/images/06812b0391194efa06b65b8db5cf05c1.png" group-title="Cinema",Sky Cinema Collection +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-collection-hd.png" group-title="Sky Italia SD",Sky Cinema Collection +1 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48954.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family FHD" tvg-logo="http://service.myvisio.life:80/images/a07ac09b9a3373c8e72d47ef7eb4998a.png" group-title="Cinema",Sky Cinema Family FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/9584.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family HD" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Cinema",Sky Cinema Family HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/13.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-family-hd.png" group-title="Sky Italia SD",Sky Cinema Family SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48955.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family +1 FHD" tvg-logo="http://service.myvisio.life:80/images/a07ac09b9a3373c8e72d47ef7eb4998a.png" group-title="Cinema",Sky Cinema Family +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48675.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family +1 HD" tvg-logo="http://service.myvisio.life:80/images/a07ac09b9a3373c8e72d47ef7eb4998a.png" group-title="Cinema",Sky Cinema Family +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-family-hd.png" group-title="Sky Italia SD",Sky Cinema Family +1 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48956.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspense FHD" tvg-logo="http://service.myvisio.life:80/images/ce5fbe3779e6fe4024936f8806503cf4.png" group-title="Cinema",Sky Cinema Suspense FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/9587.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspense HD" tvg-logo="http://service.myvisio.life:80/images/a873a04d7e25d29994f6603510c3277e.png" group-title="Cinema",Sky Cinema Suspense HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/24886.ts
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-supsense-hd.png" group-title="Sky Italia SD",Sky Cinema Suspense SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48957.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense +1 FHD" tvg-logo="http://service.myvisio.life:80/images/ce5fbe3779e6fe4024936f8806503cf4.png" group-title="Cinema",Sky Cinema Suspense +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense +1 HD" tvg-logo="http://service.myvisio.life:80/images/ce5fbe3779e6fe4024936f8806503cf4.png" group-title="Cinema",Sky Cinema Suspense +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-supsense-hd.png" group-title="Sky Italia SD",Sky Cinema Suspense +1 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48958.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" tvg-name="Sky Cinema Romance FHD" tvg-logo="http://service.myvisio.life:80/images/bac31918875ad82e82e480f9b274f842.png" group-title="Cinema",Sky Cinema Romance FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/24743.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" tvg-name="Sky Cinema Romance HD" tvg-logo="http://service.myvisio.life:80/images/b9a2528d08ff5780aa7253f5893d8034.png" group-title="Cinema",Sky Cinema Romance HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/71.ts
+#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="Sky Cinema Romance SD" tvg-logo="http://static.iptv-epg.com/it/SkyCinemaRomance.it.png" group-title="Sky Italia SD",Sky Cinema Romance SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48959.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance +1 FHD" tvg-logo="http://service.myvisio.life:80/images/bac31918875ad82e82e480f9b274f842.png" group-title="Cinema",Sky Cinema Romance +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48673.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance +1 HD" tvg-logo="http://service.myvisio.life:80/images/bac31918875ad82e82e480f9b274f842.png" group-title="Cinema",Sky Cinema Romance +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48672.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-romance-hd.png" group-title="Sky Italia SD",Sky Cinema Romance +1 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48960.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" tvg-name="Sky Cinema Drama FHD" tvg-logo="http://service.myvisio.life:80/images/0b51fde0914f31605872eb147a2557ee.png" group-title="Cinema",Sky Cinema Drama FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/32107.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" tvg-name="Sky Cinema Drama HD" tvg-logo="http://service.myvisio.life:80/images/5761d53d73c9bb718f0b9805a184c23c.png" group-title="Cinema",Sky Cinema Drama HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/47.ts
+#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="Sky Cinema Drama SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-drama-hd.png" group-title="Sky Italia SD",Sky Cinema Drama SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48961.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama +1 FHD" tvg-logo="http://service.myvisio.life:80/images/0b51fde0914f31605872eb147a2557ee.png" group-title="Cinema",Sky Cinema Drama +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48678.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama +1 HD" tvg-logo="http://service.myvisio.life:80/images/5761d53d73c9bb718f0b9805a184c23c.png" group-title="Cinema",Sky Cinema Drama +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48677.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-drama-hd.png" group-title="Sky Italia SD",Sky Cinema Drama +1 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48962.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" tvg-name="Sky Cinema Comedy FHD" tvg-logo="http://service.myvisio.life:80/images/276fe1a8a76d95533828912560f25dc6.png" group-title="Cinema",Sky Cinema Comedy FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/24744.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" tvg-name="Sky Cinema Comedy HD" tvg-logo="http://service.myvisio.life:80/images/74a3f9f519021c6066bd3b4e1087cd58.png" group-title="Cinema",Sky Cinema Comedy HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/14.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-comedy-hd.png" group-title="Sky Italia SD",Sky Cinema Comedy SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48963.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy +1 FHD" tvg-logo="http://service.myvisio.life:80/images/276fe1a8a76d95533828912560f25dc6.png" group-title="Cinema",Sky Cinema Comedy +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48680.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy +1 HD" tvg-logo="http://service.myvisio.life:80/images/74a3f9f519021c6066bd3b4e1087cd58.png" group-title="Cinema",Sky Cinema Comedy +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48679.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-comedy-hd.png" group-title="Sky Italia SD",Sky Cinema Comedy +1 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48964.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action FHD" tvg-logo="http://service.myvisio.life:80/images/76d360ad31c9b9ed90c572e989254e47.png" group-title="Cinema",Sky Cinema Action FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/9596.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action HD" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Cinema",Sky Cinema Action HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/15.ts
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="Sky Cinema Action SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-action-hd.png" group-title="Sky Italia SD",Sky Cinema Action SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48965.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action +1 FHD" tvg-logo="http://service.myvisio.life:80/images/5f93fe0f552d4cf82b90d85b2f9bef89.png" group-title="Cinema",Sky Cinema Action +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/32105.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action +1 HD" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Cinema",Sky Cinema Action +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48683.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-action+1-hd.png" group-title="Sky Italia SD",Sky Cinema Action +1 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48966.ts
+#EXTINF:-1 tvg-id="Sky.Serie.it" tvg-name="Sky Serie FHD" tvg-logo="http://service.myvisio.life:80/images/ec016dc30ce56da2607ba59a6a92f180.png" group-title="Cinema",Sky Serie FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/146835.ts
+#EXTINF:-1 tvg-id="Sky.Serie.it" tvg-name="Sky Serie HD" tvg-logo="http://service.myvisio.life:80/images/ec016dc30ce56da2607ba59a6a92f180.png" group-title="Cinema",Sky Serie HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/146834.ts
+#EXTINF:-1 tvg-id="SkySerie.it" tvg-name="Sky Series SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skyserie.png" group-title="Sky Italia SD",Sky Series SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/146836.ts
+#EXTINF:-1 tvg-id="Comedy.Central.it" tvg-name="Sky Comedy Central FHD" tvg-logo="http://service.myvisio.life:80/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="Cinema",Sky Comedy Central FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/226821.ts
+#EXTINF:-1 tvg-id="Comedy.Central.it" tvg-name="Sky Comedy Central HD" tvg-logo="http://service.myvisio.life:80/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="Cinema",Sky Comedy Central HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/294.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Comedy Central SD" tvg-logo="http://bs-update.ddns.net/Android/logos/comedycentral.png" group-title="Sky Italia SD",Sky Comedy Central SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48967.ts
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Tg 24" tvg-logo="http://service.myvisio.life:80/images/c689dbffbeb4398ed2dba7b893bcf7e7.png" group-title="Italia",Sky Tg 24
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- INTRATTENIMENTO -----" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Intrattenimento",----- INTRATTENIMENTO -----
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/22761.ts
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno FHD" tvg-logo="http://service.myvisio.life:80/images/7d2cdef839ec8d6e328078930a3515b6.png" group-title="Intrattenimento",Sky Uno FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/24746.ts
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno HD" tvg-logo="http://service.myvisio.life:80/images/7d2cdef839ec8d6e328078930a3515b6.png" group-title="Intrattenimento",Sky Uno HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Uno SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skyuno-hd.png" group-title="Sky Italia SD",Sky Uno SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49704.ts
+#EXTINF:-1 tvg-id="SkyUnoPlus1.it" tvg-name="Sky Uno +1 FHD" tvg-logo="http://service.myvisio.life:80/images/c689dbffbeb4398ed2dba7b893bcf7e7.png" group-title="Intrattenimento",Sky Uno +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48663.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Sky Uno +1 HD" tvg-logo="http://service.myvisio.life:80/images/7d2cdef839ec8d6e328078930a3515b6.png" group-title="Intrattenimento",Sky Uno +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/73.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Uno +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skyuno+1-hd.png" group-title="Sky Italia SD",Sky Uno +1 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49705.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic FHD" tvg-logo="http://service.myvisio.life:80/images/d6ab7f52497ab778418dc7ad46d48371.png" group-title="Intrattenimento",Sky Atlantic FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/9589.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic HD" tvg-logo="http://service.myvisio.life:80/images/d6ab7f52497ab778418dc7ad46d48371.png" group-title="Intrattenimento",Sky Atlantic HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/18.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic SD" tvg-logo="http://service.myvisio.life:80/images/2d1b1db4274db5a842bfa78d131eccb2.png" group-title="Sky Italia SD",Sky Atlantic SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49706.ts
+#EXTINF:-1 tvg-id="SkyAtlanticPlus1.it" tvg-name="Sky Atlantic +1 FHD" tvg-logo="http://service.myvisio.life:80/images/f135e0bbb4f8c3b7f483451122f47cc7.png" group-title="Intrattenimento",Sky Atlantic +1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48686.ts
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Atlantic +1 HD" tvg-logo="http://service.myvisio.life:80/images/d6ab7f52497ab778418dc7ad46d48371.png" group-title="Intrattenimento",Sky Atlantic +1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/48685.ts
+#EXTINF:-1 tvg-id="SkyAtlanticPlus1.it" tvg-name="Sky Atlantic +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skyatlantic+1-hd.png" group-title="Sky Italia SD",Sky Atlantic +1 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49707.ts
+#EXTINF:-1 tvg-id="SkyInvestigation.it" tvg-name="Sky Investigation FHD" tvg-logo="http://service.myvisio.life:80/images/87b180298f07d14f08f3681c41da86d5.png" group-title="Intrattenimento",Sky Investigation FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/146840.ts
+#EXTINF:-1 tvg-id="SkyInvestigation.it" tvg-name="Sky Investigation HD" tvg-logo="http://service.myvisio.life:80/images/87b180298f07d14f08f3681c41da86d5.png" group-title="Intrattenimento",Sky Investigation HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/146841.ts
+#EXTINF:-1 tvg-id="SkyInvestigation.it" tvg-name="Sky Investigation SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skyinvestigation.png" group-title="Sky Italia SD",Sky Investigation SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/146842.ts
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Discovery Giallo Italia FHD" tvg-logo="http://service.myvisio.life:80/images/a9674541bd17dfa0afadb235ad3ddb21.png" group-title="Intrattenimento",Discovery Giallo Italia FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/190028.ts
+#EXTINF:-1 tvg-id="MTV.it" tvg-name="MTV Italia FHD" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Intrattenimento",MTV Italia FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/9609.ts
+#EXTINF:-1 tvg-id="MTV.it" tvg-name="MTV italia HD" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Intrattenimento",MTV italia HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/63273.ts
+#EXTINF:-1 tvg-id="Blaze.it" tvg-name="Blaze SD" tvg-logo="http://service.myvisio.life:80/images/fd1570937f0888ab1b771487197c6c9b.png" group-title="Sky Italia SD",Blaze SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49716.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blaze +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/blaze-hd.png" group-title="Sky Italia SD",Blaze +1 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49717.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- SKY SPORT -----" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Sport",----- SKY SPORT -----
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/22770.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evento Sportivo HDR (Fibra Top)" tvg-logo="http://service.myvisio.life:80/images/4ccdcbc7ec60819cfb8bca1c20862b69.png" group-title="Sport",Evento Sportivo HDR (Fibra Top)
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/181244.ts
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 FHD" tvg-logo="http://service.myvisio.life:80/images/0f4c797d14c5c64cb7e8fd7ed5e9cd94.png" group-title="Sport",Sky Sport F1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/4497.ts
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HD" tvg-logo="http://service.myvisio.life:80/images/0f4c797d14c5c64cb7e8fd7ed5e9cd94.png" group-title="Sport",Sky Sport F1 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/26.ts
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skysport-f1.png" group-title="Sky Italia SD",Sky Sport F1 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49740.ts
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP FHD" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Sport",Sky Sport MotoGP FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/4498.ts
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP HD" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Sport",Sky Sport MotoGP HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/82.ts
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP SD" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.png" group-title="Sky Italia SD",Sky Sport MotoGP SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49741.ts
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="Super Tennis FHD" tvg-logo="http://service.myvisio.life:80/images/486f331f3edd4bd4fc4b78cca2f5b266.png" group-title="Sport",Super Tennis FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/193434.ts
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="Super Tennis HD" tvg-logo="http://service.myvisio.life:80/images/486f331f3edd4bd4fc4b78cca2f5b266.png" group-title="Sport",Super Tennis HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/237.ts
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1 FHD" tvg-logo="http://service.myvisio.life:80/images/8b09226975f258b7124e2ce9fed72537.png" group-title="Sport",Eurosport 1 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/295.ts
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2 FHD" tvg-logo="http://service.myvisio.life:80/images/00295a368675482110dbe435465bba33.png" group-title="Sport",Eurosport 2 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/296.ts
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 FHD" tvg-logo="http://service.myvisio.life:80/images/2bcb93c48cd3ed807449f7be2e294611.png" group-title="Sport",Sky Sport 24 FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/27975.ts
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="http://service.myvisio.life:80/images/2bcb93c48cd3ed807449f7be2e294611.png" group-title="Sport",Sky Sport 24 HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/22.ts
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skysport-24.png" group-title="Sky Italia SD",Sky Sport 24 SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49746.ts
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno FHD" tvg-logo="http://service.myvisio.life:80/images/c2bf54d3ebf08cdb82414d86873a4ef2.png" group-title="Sport",Sky Sport Uno FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/29042.ts
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno HD" tvg-logo="http://service.myvisio.life:80/images/c2bf54d3ebf08cdb82414d86873a4ef2.png" group-title="Sport",Sky Sport Uno HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/19.ts
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno SD" tvg-logo="http://service.myvisio.life:80/images/c2bf54d3ebf08cdb82414d86873a4ef2.png" group-title="Sky Italia SD",Sky Sport Uno SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49747.ts
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena FHD" tvg-logo="http://service.myvisio.life:80/images/4607604facccab8682e775038115c2d8.png" group-title="Sport",Sky Sport Arena FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/27954.ts
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena HD  " tvg-logo="http://service.myvisio.life:80/images/4607604facccab8682e775038115c2d8.png" group-title="Sport",Sky Sport Arena HD  
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/27956.ts
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skysport-arena.png" group-title="Sky Italia SD",Sky Sport Arena SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49748.ts
+#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="Sky Sport Max FHD" tvg-logo="http://service.myvisio.life:80/images/6e52f03c60fd3c0917535cdeba9b072b.png" group-title="Sport",Sky Sport Max FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/150803.ts
+#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="Sky Sport Max HD" tvg-logo="http://service.myvisio.life:80/images/6e52f03c60fd3c0917535cdeba9b072b.png" group-title="Sport",Sky Sport Max HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/150804.ts
+#EXTINF:-1 tvg-id="SkySportMix.it" tvg-name="Sky Sport Mix FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/512px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="Sport",Sky Sport Mix FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/226815.ts
+#EXTINF:-1 tvg-id="SkySportMix.it" tvg-name="Sky Sport Mix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/512px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="Sport",Sky Sport Mix HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/226814.ts
+#EXTINF:-1 tvg-id="SkySportLegend.it" tvg-name="Sky Sport Legend FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Legend_-_Logo_2025.svg/512px-Sky_Sport_Legend_-_Logo_2025.svg.png" group-title="Sport",Sky Sport Legend FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/226817.ts
+#EXTINF:-1 tvg-id="SkySportLegend.it" tvg-name="Sky Sport Legend HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Legend_-_Logo_2025.svg/512px-Sky_Sport_Legend_-_Logo_2025.svg.png" group-title="Sport",Sky Sport Legend HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/226816.ts
+#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="Sky Sport Action SD" tvg-logo="http://service.myvisio.life:80/images/6e52f03c60fd3c0917535cdeba9b072b.png" group-title="Sky Italia SD",Sky Sport Action SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/150805.ts
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="Sky Sport Football SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skysport-football.png" group-title="Sky Italia SD",Sky Sport Football SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49749.ts
+#EXTINF:-1 tvg-id="Stories.it" tvg-name="Sky Sport Collection SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skysport-collection.png" group-title="Sky Italia SD",Sky Sport Collection SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49750.ts
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA FHD" tvg-logo="http://service.myvisio.life:80/images/b2c9751b876c3bc2658f00a37b0a3406.png" group-title="Sport",Sky Sport NBA FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/27960.ts
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA HD" tvg-logo="http://service.myvisio.life:80/images/b2c9751b876c3bc2658f00a37b0a3406.png" group-title="Sport",Sky Sport NBA HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/27961.ts
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skysport-nba.png" group-title="Sky Italia SD",Sky Sport NBA SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49751.ts
+#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="Sky Sport Tennis FHD" tvg-logo="http://service.myvisio.life:80/images/81ed9f01f5e6043e50cd95bdeb8af009.png" group-title="Sport",Sky Sport Tennis FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/146485.ts
+#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="Sky Sport Tennis HD" tvg-logo="http://service.myvisio.life:80/images/81ed9f01f5e6043e50cd95bdeb8af009.png" group-title="Sport",Sky Sport Tennis HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/146486.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Tennis SD" tvg-logo="http://service.myvisio.life:80/images/81ed9f01f5e6043e50cd95bdeb8af009.png" group-title="Sky Italia SD",Sky Sport Tennis SD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/146487.ts
+#EXTINF:-1 tvg-id="Sky.Uno.it" tvg-name="Sky Sport Golf FHD" tvg-logo="http://service.myvisio.life:80/images/6acfe16b984d473723a8495a84e548b7.png" group-title="Sport",Sky Sport Golf FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/215346.ts
+#EXTINF:-1 tvg-id="Sky.Uno.it" tvg-name="Sky Sport Golf HD" tvg-logo="http://service.myvisio.life:80/images/6acfe16b984d473723a8495a84e548b7.png" group-title="Sport",Sky Sport Golf HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/215347.ts
+#EXTINF:-1 tvg-id="ACISport.it" tvg-name="Sky Aci Sport TV FHD" tvg-logo="http://service.myvisio.life:80/images/ce315876bf0d13c264d4dac6e0faf995.png" group-title="Sport",Sky Aci Sport TV FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/202706.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bike Channel HD" tvg-logo="http://service.myvisio.life:80/images/41fb845601bf4fb26d0116fbee89417e.png" group-title="Sport",Sky Bike Channel HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/49742.ts
+#EXTINF:-1 tvg-id="" tvg-name="World Poker Tour " tvg-logo="http://service.myvisio.life:80/images/58ca9dfa6ef708e90c9e664f9f41497e.png" group-title="Sport",World Poker Tour 
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/129690.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network HD" tvg-logo="http://service.myvisio.life:80/images/947af30fc5fd1aaf1e0d8899d5d5baee.png" group-title="Sport",WWE Network HD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/134205.ts
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull Tv" tvg-logo="http://service.myvisio.life:80/images/8d5c2ad003c431f38dfd7c65e0f3d2eb.png" group-title="Sport",Red Bull Tv
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/164082.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ms Channel" tvg-logo="http://service.myvisio.life:80/images/09b2124576eeeed0c16f18c12b060a7f.png" group-title="Sport",Ms Channel
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/203660.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV FHD" tvg-logo="https://images.icon-icons.com/41/PNG/128/ufc_7032.png" group-title="Sport",UFC TV FHD
+http://oiav4oom7o.redplus.me:80/live/GuidoPeppFumar/Guidos/233234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport Player Live 1" tvg-logo="http://service.myvisio.life:80/images/1KERpV1KqrnvxtDEmm3LCtiPicapBtbiw7.
