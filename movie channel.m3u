@@ -26867,3 +26867,565 @@ http://213.163.13.122:1559/udp/239.1.10.51:2000
 #EXTINF:0,HETI TV
 #EXTGRP:MAGYAR
 http://213.163.13.122:1559/udp/239.1.10.54:2000
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - ITALY #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | GENERALE",##### IT - ITALY #####
+http://evo12.xyz:80/3659020/L6JGV48/68916
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="IT - RAI 1 UHD ◉" tvg-logo="https://go4.pw/EUROPE/ITALY/rai1.png" group-title="EU | IT | GENERALE",IT - RAI 1 UHD ◉
+http://evo12.xyz:80/3659020/L6JGV48/68441
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="IT - RAI 1 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai1.png" group-title="EU | IT | GENERALE",IT - RAI 1 HD
+http://evo12.xyz:80/3659020/L6JGV48/68620
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="IT - RAI 2 UHD ◉" tvg-logo="https://go4.pw/EUROPE/ITALY/rai2.png" group-title="EU | IT | GENERALE",IT - RAI 2 UHD ◉
+http://evo12.xyz:80/3659020/L6JGV48/68442
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="IT - RAI 2 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai2.png" group-title="EU | IT | GENERALE",IT - RAI 2 HD
+http://evo12.xyz:80/3659020/L6JGV48/68621
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="IT - RAI 3 UHD ◉" tvg-logo="https://go4.pw/EUROPE/ITALY/rai3.png" group-title="EU | IT | GENERALE",IT - RAI 3 UHD ◉
+http://evo12.xyz:80/3659020/L6JGV48/68443
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="IT - RAI 3 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai3.png" group-title="EU | IT | GENERALE",IT - RAI 3 HD
+http://evo12.xyz:80/3659020/L6JGV48/68622
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="IT - RAI 4 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai4.png" group-title="EU | IT | GENERALE",IT - RAI 4 UHD
+http://evo12.xyz:80/3659020/L6JGV48/68472
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="IT - RAI 4 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai4.png" group-title="EU | IT | GENERALE",IT - RAI 4 HD
+http://evo12.xyz:80/3659020/L6JGV48/900916
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="IT - RAI 5 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai5.png" group-title="EU | IT | GENERALE",IT - RAI 5 UHD
+http://evo12.xyz:80/3659020/L6JGV48/68473
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="IT - RAI 5 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai5.png" group-title="EU | IT | GENERALE",IT - RAI 5 HD
+http://evo12.xyz:80/3659020/L6JGV48/893166
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="IT - RAI SCUOLA UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiscuola.png" group-title="EU | IT | GENERALE",IT - RAI SCUOLA UHD
+http://evo12.xyz:80/3659020/L6JGV48/68558
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="IT - RAI SCUOLA HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiscuola.png" group-title="EU | IT | GENERALE",IT - RAI SCUOLA HD
+http://evo12.xyz:80/3659020/L6JGV48/68667
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="IT - RAI STORIA UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raistoria.png" group-title="EU | IT | GENERALE",IT - RAI STORIA UHD
+http://evo12.xyz:80/3659020/L6JGV48/68559
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="IT - RAI STORIA HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raistoria.png" group-title="EU | IT | GENERALE",IT - RAI STORIA HD
+http://evo12.xyz:80/3659020/L6JGV48/68668
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="IT - RAI MOVIE UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raimovie.png" group-title="EU | IT | FILM E SERIE TV",IT - RAI MOVIE UHD
+http://evo12.xyz:80/3659020/L6JGV48/68453
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="IT - RAI NEWS 24 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/rainews24.png" group-title="EU | IT | GENERALE",IT - RAI NEWS 24 UHD
+http://evo12.xyz:80/3659020/L6JGV48/68612
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="IT - RAI YOYO UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiyoyo.png" group-title="EU | IT | GENERALE",IT - RAI YOYO UHD
+http://evo12.xyz:80/3659020/L6JGV48/68583
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="IT - RAI GULP UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raigulp.png" group-title="EU | IT | GENERALE",IT - RAI GULP UHD
+http://evo12.xyz:80/3659020/L6JGV48/68584
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT - RAI ITALIA HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiitalia.png" group-title="EU | IT | GENERALE",IT - RAI ITALIA HD
+http://evo12.xyz:80/3659020/L6JGV48/1151348
+#EXTINF:-1 tvg-id="" tvg-name="IT - RAI WORLD PREMIUM SD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiworld.png" group-title="EU | IT | GENERALE",IT - RAI WORLD PREMIUM SD
+http://evo12.xyz:80/3659020/L6JGV48/677126
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="IT - SKY TG24 UHD" tvg-logo="https://go4.pw/ITALY/skytg24.png" group-title="EU | IT | GENERALE",IT - SKY TG24 UHD
+http://evo12.xyz:80/3659020/L6JGV48/900939
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="IT - SKY TG 24 HD" tvg-logo="https://go4.pw/ITALY/skytg24.png" group-title="EU | IT | GENERALE",IT - SKY TG 24 HD
+http://evo12.xyz:80/3659020/L6JGV48/247075
+#EXTINF:-1 tvg-id="skynature.it" tvg-name="IT - SKY NATURE UHD" tvg-logo="https://go4.pw/ITALY/skynature.png" group-title="EU | IT | GENERALE",IT - SKY NATURE UHD
+http://evo12.xyz:80/3659020/L6JGV48/900933
+#EXTINF:-1 tvg-id="skynature.it" tvg-name="IT - SKY NATURE HD" tvg-logo="https://go4.pw/ITALY/skynature.png" group-title="EU | IT | GENERALE",IT - SKY NATURE HD
+http://evo12.xyz:80/3659020/L6JGV48/448579
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="IT - SKY UNO UHD" tvg-logo="https://go4.pw/ITALY/skyuno.png" group-title="EU | IT | GENERALE",IT - SKY UNO UHD
+http://evo12.xyz:80/3659020/L6JGV48/68490
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="IT - SKY UNO HD" tvg-logo="https://go4.pw/ITALY/skyuno.png" group-title="EU | IT | GENERALE",IT - SKY UNO HD
+http://evo12.xyz:80/3659020/L6JGV48/68639
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY MTV UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MTV.png" group-title="EU | IT | GENERALE",IT - SKY MTV UHD
+http://evo12.xyz:80/3659020/L6JGV48/68507
+#EXTINF:-1 tvg-id="skyinvestigation.it" tvg-name="IT - SKY INVESTIGATION UHD" tvg-logo="https://go4.pw/ITALY/skyinv.png" group-title="EU | IT | GENERALE",IT - SKY INVESTIGATION UHD
+http://evo12.xyz:80/3659020/L6JGV48/498729
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CACCIA HD" tvg-logo="https://go4.pw/EUROPE/Cacciatv.png" group-title="EU | IT | GENERALE",IT - SKY CACCIA HD
+http://evo12.xyz:80/3659020/L6JGV48/893169
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="IT - SKY ARTE HD" tvg-logo="https://go4.pw/ITALY/Skyarte.png" group-title="EU | IT | GENERALE",IT - SKY ARTE HD
+http://evo12.xyz:80/3659020/L6JGV48/900930
+#EXTINF:-1 tvg-id="skyinvestigation.it" tvg-name="IT - SKY INVESTIGATION HD" tvg-logo="https://go4.pw/ITALY/skyinv.png" group-title="EU | IT | GENERALE",IT - SKY INVESTIGATION HD
+http://evo12.xyz:80/3659020/L6JGV48/900932
+#EXTINF:-1 tvg-id="retequattro.it" tvg-name="IT - RETE 4 UHD ◉" tvg-logo="https://go4.pw/EUROPE/ITALY/rete4.png" group-title="EU | IT | GENERALE",IT - RETE 4 UHD ◉
+http://evo12.xyz:80/3659020/L6JGV48/68444
+#EXTINF:-1 tvg-id="retequattro.it" tvg-name="IT - RETE 4 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rete4.png" group-title="EU | IT | GENERALE",IT - RETE 4 HD
+http://evo12.xyz:80/3659020/L6JGV48/68623
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="IT - CANALE 5 UHD ◉" tvg-logo="https://go4.pw/EUROPE/ITALY/canal55.png" group-title="EU | IT | GENERALE",IT - CANALE 5 UHD ◉
+http://evo12.xyz:80/3659020/L6JGV48/68445
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="IT - CANALE 5 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/canal55.png" group-title="EU | IT | GENERALE",IT - CANALE 5 HD
+http://evo12.xyz:80/3659020/L6JGV48/68624
+#EXTINF:-1 tvg-id="la5.it" tvg-name="IT - LA5 FHD" tvg-logo="https://go4.pw/EUROPE/ITALY/LA5.png" group-title="EU | IT | GENERALE",IT - LA5 FHD
+http://evo12.xyz:80/3659020/L6JGV48/68475
+#EXTINF:-1 tvg-id="la5.it" tvg-name="IT - LA5 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/LA5.png" group-title="EU | IT | GENERALE",IT - LA5 HD
+http://evo12.xyz:80/3659020/L6JGV48/1411173
+#EXTINF:-1 tvg-id="la7.it" tvg-name="IT - LA7 UHD ◉" tvg-logo="https://go4.pw/EUROPE/ITALY/la77.png" group-title="EU | IT | GENERALE",IT - LA7 UHD ◉
+http://evo12.xyz:80/3659020/L6JGV48/68447
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="IT - LA7 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/la77.png" group-title="EU | IT | GENERALE",IT - LA7 HD
+http://evo12.xyz:80/3659020/L6JGV48/68484
+#EXTINF:-1 tvg-id="tv8.it" tvg-name="IT - TV 8 UHD ◉" tvg-logo="https://go4.pw/EUROPE/ITALY/tv8.png" group-title="EU | IT | GENERALE",IT - TV 8 UHD ◉
+http://evo12.xyz:80/3659020/L6JGV48/68448
+#EXTINF:-1 tvg-id="" tvg-name="IT - CANALE 8 SD" tvg-logo="https://go4.pw/EUROPE/ITALY/tv8.png" group-title="EU | IT | GENERALE",IT - CANALE 8 SD
+http://evo12.xyz:80/3659020/L6JGV48/498727
+#EXTINF:-1 tvg-id="" tvg-name="IT - CANALE 10 HD" tvg-logo="https://go4.pw/ITALY/c10.png" group-title="EU | IT | GENERALE",IT - CANALE 10 HD
+http://evo12.xyz:80/3659020/L6JGV48/893163
+#EXTINF:-1 tvg-id="" tvg-name="IT - CANALE ITALIA HD" tvg-logo="https://go4.pw/ITALY/canaleitalia.png" group-title="EU | IT | GENERALE",IT - CANALE ITALIA HD
+http://evo12.xyz:80/3659020/L6JGV48/779196
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="IT - CIELO UHD" tvg-logo="https://go4.pw/ITALY/cielo0.png" group-title="EU | IT | GENERALE",IT - CIELO UHD
+http://evo12.xyz:80/3659020/L6JGV48/68450
+#EXTINF:-1 tvg-id="iris.it" tvg-name="IT - IRIS UHD" tvg-logo="https://go4.pw/ITALY/iris0.png" group-title="EU | IT | GENERALE",IT - IRIS UHD
+http://evo12.xyz:80/3659020/L6JGV48/68454
+#EXTINF:-1 tvg-id="tv2000.it" tvg-name="IT - TV2000 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/TV2000.png" group-title="EU | IT | GENERALE",IT - TV2000 UHD
+http://evo12.xyz:80/3659020/L6JGV48/68485
+#EXTINF:-1 tvg-id="gamberorosso.it" tvg-name="IT - GAMBERO ROSSO UHD" tvg-logo="https://go4.pw/ITALY/gamberorosso.png" group-title="EU | IT | GENERALE",IT - GAMBERO ROSSO UHD
+http://evo12.xyz:80/3659020/L6JGV48/68572
+#EXTINF:-1 tvg-id="rtl1025tv.it" tvg-name="IT - RTL 102.5 UHD" tvg-logo="https://go4.pw/EUROPE/rtl102.png" group-title="EU | IT | GENERALE",IT - RTL 102.5 UHD
+http://evo12.xyz:80/3659020/L6JGV48/68580
+#EXTINF:-1 tvg-id="" tvg-name="IT - VH1 UHD" tvg-logo="https://go4.pw/EUROPE/SWEDEN/vh1_.png" group-title="EU | IT | GENERALE",IT - VH1 UHD
+http://evo12.xyz:80/3659020/L6JGV48/68582
+#EXTINF:-1 tvg-id="tgnorba24.it" tvg-name="IT - TG NORBA 24 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/tgcom.png" group-title="EU | IT | GENERALE",IT - TG NORBA 24 UHD
+http://evo12.xyz:80/3659020/L6JGV48/68613
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-name="IT - MEDIASET 20 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/mediaset20.png" group-title="EU | IT | GENERALE",IT - MEDIASET 20 UHD
+http://evo12.xyz:80/3659020/L6JGV48/329577
+#EXTINF:-1 tvg-id="mydeejay.it" tvg-name="IT - DEEJAY TV UHD" tvg-logo="https://go4.pw/ITALY/deejay.png" group-title="EU | IT | GENERALE",IT - DEEJAY TV UHD
+http://evo12.xyz:80/3659020/L6JGV48/893164
+#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="IT - COMEDY CENTRAL UHD" tvg-logo="https://go4.pw/LATINO/Comedy-Central.png" group-title="EU | IT | GENERALE",IT - COMEDY CENTRAL UHD
+http://evo12.xyz:80/3659020/L6JGV48/247065
+#EXTINF:-1 tvg-id="radioitalia.it" tvg-name="IT - RADIO ITALIA TV UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/RADIOITALIATV.png" group-title="EU | IT | GENERALE",IT - RADIO ITALIA TV UHD
+http://evo12.xyz:80/3659020/L6JGV48/68578
+#EXTINF:-1 tvg-id="" tvg-name="IT - RADIO ZETA UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/RADIOITALIATV.png" group-title="EU | IT | GENERALE",IT - RADIO ZETA UHD
+http://evo12.xyz:80/3659020/L6JGV48/68579
+#EXTINF:-1 tvg-id="" tvg-name="IT - RADIO TICINO CHANNEL HD" tvg-logo="https://go4.pw/EUROPE/ITALY/RADIOITALIATV.png" group-title="EU | IT | GENERALE",IT - RADIO TICINO CHANNEL HD
+http://evo12.xyz:80/3659020/L6JGV48/779197
+#EXTINF:-1 tvg-id="" tvg-name="IT - RADIO KISS KISS HD" tvg-logo="https://go4.pw/ITALY/RADIOKISSKISS.png" group-title="EU | IT | GENERALE",IT - RADIO KISS KISS HD
+http://evo12.xyz:80/3659020/L6JGV48/893168
+#EXTINF:-1 tvg-id="" tvg-name="IT - RADIO 51 HD" tvg-logo="https://go4.pw/EUROPE/radio51.png" group-title="EU | IT | GENERALE",IT - RADIO 51 HD
+http://evo12.xyz:80/3659020/L6JGV48/1178759
+#EXTINF:-1 tvg-id="cacciapesca.it" tvg-name="IT - CACCIA E PESCA FHD" tvg-logo="https://go4.pw/EUROPE/cacciapesca.png" group-title="EU | IT | GENERALE",IT - CACCIA E PESCA FHD
+http://evo12.xyz:80/3659020/L6JGV48/68574
+#EXTINF:-1 tvg-id="" tvg-name="IT - GRANDE FRATELL REGIA 1 FHD" tvg-logo="https://go4.pw/ITALY/GRANDE_FRATELL_REGIA_1.png" group-title="EU | IT | GENERALE",IT - GRANDE FRATELL REGIA 1 FHD
+http://evo12.xyz:80/3659020/L6JGV48/521197
+#EXTINF:-1 tvg-id="" tvg-name="IT - GRANDE FRATELL REGIA 2 HD" tvg-logo="https://go4.pw/ITALY/GRANDE_FRATELL_REGIA_1.png" group-title="EU | IT | GENERALE",IT - GRANDE FRATELL REGIA 2 HD
+http://evo12.xyz:80/3659020/L6JGV48/521196
+#EXTINF:-1 tvg-id="" tvg-name="IT - GRANDE FRATELL UN ORA FA FHD" tvg-logo="https://go4.pw/ITALY/GRANDE_FRATELL_REGIA_1.png" group-title="EU | IT | GENERALE",IT - GRANDE FRATELL UN ORA FA FHD
+http://evo12.xyz:80/3659020/L6JGV48/521195
+#EXTINF:-1 tvg-id="" tvg-name="IT - GRANDE FRATELLO PARTY HD" tvg-logo="https://go4.pw/ITALY/GRANDE_FRATELL_REGIA_1.png" group-title="EU | IT | GENERALE",IT - GRANDE FRATELLO PARTY HD
+http://evo12.xyz:80/3659020/L6JGV48/521194
+#EXTINF:-1 tvg-id="" tvg-name="IT - RDS SOCIAL TV FHD" tvg-logo="https://go4.pw/ITALY/rdssoctv.png" group-title="EU | IT | GENERALE",IT - RDS SOCIAL TV FHD
+http://evo12.xyz:80/3659020/L6JGV48/1135911
+#EXTINF:-1 tvg-id="hgtv.it" tvg-name="IT - HGTV FHD" tvg-logo="https://go4.pw/ITALY/HGTV.png" group-title="EU | IT | GENERALE",IT - HGTV FHD
+http://evo12.xyz:80/3659020/L6JGV48/498730
+#EXTINF:-1 tvg-id="" tvg-name="IT - EQU TV FHD" tvg-logo="https://go4.pw/ITALY/EQUTV.png" group-title="EU | IT | GENERALE",IT - EQU TV FHD
+http://evo12.xyz:80/3659020/L6JGV48/779194
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="IT - ITALIA 1 HD ◉" tvg-logo="https://go4.pw/EUROPE/ITALY/ITALIA1.png" group-title="EU | IT | GENERALE",IT - ITALIA 1 HD ◉
+http://evo12.xyz:80/3659020/L6JGV48/68446
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="IT - ITALIA 1 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/ITALIA1.png" group-title="EU | IT | GENERALE",IT - ITALIA 1 HD
+http://evo12.xyz:80/3659020/L6JGV48/68625
+#EXTINF:-1 tvg-id="italia2.it" tvg-name="IT - ITALIA 2 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/Italia2.png" group-title="EU | IT | GENERALE",IT - ITALIA 2 HD
+http://evo12.xyz:80/3659020/L6JGV48/302827
+#EXTINF:-1 tvg-id="" tvg-name="IT - RSI LA1 HD" tvg-logo="https://go4.pw/ITALY/RSILA1.png" group-title="EU | IT | GENERALE",IT - RSI LA1 HD
+http://evo12.xyz:80/3659020/L6JGV48/247058
+#EXTINF:-1 tvg-id="" tvg-name="IT - RSI LA2 HD" tvg-logo="https://go4.pw/ITALY/RSILA2.png" group-title="EU | IT | GENERALE",IT - RSI LA2 HD
+http://evo12.xyz:80/3659020/L6JGV48/247059
+#EXTINF:-1 tvg-id="" tvg-name="IT - ALICE HD" tvg-logo="https://go4.pw/ITALY/ALMATV.png" group-title="EU | IT | GENERALE",IT - ALICE HD
+http://evo12.xyz:80/3659020/L6JGV48/68556
+#EXTINF:-1 tvg-id="boing.it" tvg-name="IT - BOING HD" tvg-logo="https://go4.pw/EUROPE/ITALY/boing.png" group-title="EU | IT | BAMBINI",IT - BOING HD
+http://evo12.xyz:80/3659020/L6JGV48/68585
+#EXTINF:-1 tvg-id="super.it" tvg-name="IT - SUPER SD" tvg-logo="https://go4.pw/EUROPE/ITALY/SUPER-1.png" group-title="EU | IT | GENERALE",IT - SUPER SD
+http://evo12.xyz:80/3659020/L6JGV48/68587
+#EXTINF:-1 tvg-id="k2.it" tvg-name="IT - K2 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/K2.png" group-title="EU | IT | GENERALE",IT - K2 HD
+http://evo12.xyz:80/3659020/L6JGV48/68588
+#EXTINF:-1 tvg-id="frisbee.it" tvg-name="IT - FRISBEE HD" tvg-logo="https://go4.pw/EUROPE/ITALY/ITALY/FRISBEE.png" group-title="EU | IT | GENERALE",IT - FRISBEE HD
+http://evo12.xyz:80/3659020/L6JGV48/68589
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="IT - TGCOM24 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/tgcom.png" group-title="EU | IT | GENERALE",IT - TGCOM24 HD
+http://evo12.xyz:80/3659020/L6JGV48/68611
+#EXTINF:-1 tvg-id="" tvg-name="IT - VIDEOLINA HD" tvg-logo="https://go4.pw/EUROPE/videolina.png" group-title="EU | IT | GENERALE",IT - VIDEOLINA HD
+http://evo12.xyz:80/3659020/L6JGV48/68784
+#EXTINF:-1 tvg-id="27mediaset.it" tvg-name="IT -  MEDIASET TWENTYSEVEN HD" tvg-logo="https://go4.pw/EUROPE/MALTA/Twentyseven.png" group-title="EU | IT | GENERALE",IT -  MEDIASET TWENTYSEVEN HD
+http://evo12.xyz:80/3659020/L6JGV48/326205
+#EXTINF:-1 tvg-id="boing.it" tvg-name="IT - BOING PLUS HD" tvg-logo="https://go4.pw/EUROPE/ITALY/boing.png" group-title="EU | IT | BAMBINI",IT - BOING PLUS HD
+http://evo12.xyz:80/3659020/L6JGV48/779195
+#EXTINF:-1 tvg-id="" tvg-name="IT - VIDEO ITALIA HD" tvg-logo="https://go4.pw/ITALY/VIDEOITALIAHD.png" group-title="EU | IT | GENERALE",IT - VIDEO ITALIA HD
+http://evo12.xyz:80/3659020/L6JGV48/779198
+#EXTINF:-1 tvg-id="italianfishingtv.it" tvg-name="IT - ITALIAN FISHING HD" tvg-logo="https://go4.pw/ITALY/italianfish.png" group-title="EU | IT | GENERALE",IT - ITALIAN FISHING HD
+http://evo12.xyz:80/3659020/L6JGV48/893162
+#EXTINF:-1 tvg-id="" tvg-name="IT - TVRS HD" tvg-logo="https://go4.pw/ITALY/Tvrs.png" group-title="EU | IT | GENERALE",IT - TVRS HD
+http://evo12.xyz:80/3659020/L6JGV48/893165
+#EXTINF:-1 tvg-id="" tvg-name="IT - SOPHIA TV HD" tvg-logo="https://go4.pw/EUROPE/ITALY/sophia.png" group-title="EU | IT | GENERALE",IT - SOPHIA TV HD
+http://evo12.xyz:80/3659020/L6JGV48/893170
+#EXTINF:-1 tvg-id="" tvg-name="IT - REGGIO TV HD" tvg-logo="https://go4.pw/ITALY/REGGIOTV.png" group-title="EU | IT | GENERALE",IT - REGGIO TV HD
+http://evo12.xyz:80/3659020/L6JGV48/893171
+#EXTINF:-1 tvg-id="" tvg-name="IT - TELE TICINO HD" tvg-logo="https://go4.pw/ITALY/TELECINCO0.png" group-title="EU | IT | GENERALE",IT - TELE TICINO HD
+http://evo12.xyz:80/3659020/L6JGV48/893172
+#EXTINF:-1 tvg-id="mtv.it" tvg-name="IT - MTV HD" tvg-logo="https://go4.pw/EUROPE/ITALY/MTV.png" group-title="EU | IT | GENERALE",IT - MTV HD
+http://evo12.xyz:80/3659020/L6JGV48/900929
+#EXTINF:-1 tvg-id="" tvg-name="IT - LAC NEWS 24 SD" tvg-logo="https://go4.pw/ITALY/lactv.png" group-title="EU | IT | GENERALE",IT - LAC NEWS 24 SD
+http://evo12.xyz:80/3659020/L6JGV48/1134019
+#EXTINF:-1 tvg-id="" tvg-name="IT - RADIO MONTE CARLO FHD" tvg-logo="https://go4.pw/EUROPE/RADIOMONTECARLO.png" group-title="EU | IT | GENERALE",IT - RADIO MONTE CARLO FHD
+http://evo12.xyz:80/3659020/L6JGV48/1414002
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - SPORT #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | SPORT ",##### IT - SPORT #####
+http://evo12.xyz:80/3659020/L6JGV48/76630
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="IT - EUROSPORT 1 UHD" tvg-logo="https://go4.pw/ITALY/eurosport1.png" group-title="EU | IT | SPORT ",IT - EUROSPORT 1 UHD
+http://evo12.xyz:80/3659020/L6JGV48/76645
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="IT - EUROSPORT 2 UHD" tvg-logo="https://go4.pw/ITALY/eurosport2.png" group-title="EU | IT | SPORT ",IT - EUROSPORT 2 UHD
+http://evo12.xyz:80/3659020/L6JGV48/76646
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="IT - EUROSPORT 1 HD" tvg-logo="https://go4.pw/ITALY/eurosport1.png" group-title="EU | IT | SPORT ",IT - EUROSPORT 1 HD
+http://evo12.xyz:80/3659020/L6JGV48/900926
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="IT - EUROSPORT 2 HD" tvg-logo="https://go4.pw/ITALY/eurosport2.png" group-title="EU | IT | SPORT ",IT - EUROSPORT 2 HD
+http://evo12.xyz:80/3659020/L6JGV48/900927
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="IT - RAI SPORT UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raisport.png" group-title="EU | IT | SPORT ",IT - RAI SPORT UHD
+http://evo12.xyz:80/3659020/L6JGV48/900915
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="IT - RAI SPORT HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raisport.png" group-title="EU | IT | SPORT ",IT - RAI SPORT HD
+http://evo12.xyz:80/3659020/L6JGV48/76631
+#EXTINF:-1 tvg-id="interchannel.it" tvg-name="IT - INTER CHANNEL UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/intertv.png" group-title="EU | IT | SPORT ",IT - INTER CHANNEL UHD
+http://evo12.xyz:80/3659020/L6JGV48/247062
+#EXTINF:-1 tvg-id="laziostylechannel.it" tvg-name="IT - LAZIO CHANNEL UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/latziotv.png" group-title="EU | IT | SPORT ",IT - LAZIO CHANNEL UHD
+http://evo12.xyz:80/3659020/L6JGV48/247063
+#EXTINF:-1 tvg-id="milantv.it" tvg-name="IT - MILAN CHANNEL HD" tvg-logo="https://go4.pw/EUROPE/ITALY/milantv.png" group-title="EU | IT | SPORT ",IT - MILAN CHANNEL HD
+http://evo12.xyz:80/3659020/L6JGV48/183883
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="IT - SPORT ITALIA HD" tvg-logo="https://go4.pw/ITALY/sportitaliasolocalcio.png" group-title="EU | IT | SPORT ",IT - SPORT ITALIA HD
+http://evo12.xyz:80/3659020/L6JGV48/247071
+#EXTINF:-1 tvg-id="" tvg-name="IT - SPORT ITALIA LIVE24 HD" tvg-logo="https://go4.pw/ITALY/sportitaliasolocalcio.png" group-title="EU | IT | SPORT ",IT - SPORT ITALIA LIVE24 HD
+http://evo12.xyz:80/3659020/L6JGV48/247072
+#EXTINF:-1 tvg-id="" tvg-name="IT - SPORT ITALIA SOLO CALCIO HD" tvg-logo="https://go4.pw/ITALY/sportitaliasolocalcio.png" group-title="EU | IT | SPORT ",IT - SPORT ITALIA SOLO CALCIO HD
+http://evo12.xyz:80/3659020/L6JGV48/247073
+#EXTINF:-1 tvg-id="" tvg-name="IT - TOP CALCIO 24 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/topcalio.png" group-title="EU | IT | SPORT ",IT - TOP CALCIO 24 HD
+http://evo12.xyz:80/3659020/L6JGV48/247060
+#EXTINF:-1 tvg-id="" tvg-name="IT - ZONA GOAL SERIE A HD" tvg-logo="https://go4.pw/ITALY/ZONAGOAL.png" group-title="EU | IT | SPORT ",IT - ZONA GOAL SERIE A HD
+http://evo12.xyz:80/3659020/L6JGV48/900924
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="IT - SUPER TENNIS UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/SUPERTENNIS.png" group-title="EU | IT | SPORT ",IT - SUPER TENNIS UHD
+http://evo12.xyz:80/3659020/L6JGV48/76634
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - SKY SPORTS #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | SPORT ",##### IT - SKY SPORTS #####
+http://evo12.xyz:80/3659020/L6JGV48/1135344
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT F1 FHD" tvg-logo="https://go4.pw/germany/sky_f12.png" group-title="EU | IT | SPORT ",IT - SKY SPORT F1 FHD
+http://evo12.xyz:80/3659020/L6JGV48/1379846
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT F1 HD" tvg-logo="https://go4.pw/germany/sky_f12.png" group-title="EU | IT | SPORT ",IT - SKY SPORT F1 HD
+http://evo12.xyz:80/3659020/L6JGV48/1379847
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT - SKY SPORT 24 UHD" tvg-logo="https://go4.pw/ITALY/skysport24.png" group-title="EU | IT | SPORT ",IT - SKY SPORT 24 UHD
+http://evo12.xyz:80/3659020/L6JGV48/76635
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT - SKY SPORT 24 HD" tvg-logo="https://go4.pw/ITALY/skysport24.png" group-title="EU | IT | SPORT ",IT - SKY SPORT 24 HD
+http://evo12.xyz:80/3659020/L6JGV48/76674
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="IT - SKY SPORT UNO UHD " tvg-logo="https://go4.pw/ITALY/skysportuno.png" group-title="EU | IT | SPORT ",IT - SKY SPORT UNO UHD
+http://evo12.xyz:80/3659020/L6JGV48/76636
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="IT - SKY SPORT UNO HD" tvg-logo="https://go4.pw/ITALY/skysportuno.png" group-title="EU | IT | SPORT ",IT - SKY SPORT UNO HD
+http://evo12.xyz:80/3659020/L6JGV48/76675
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="IT - SKY SPORT FOOTBALL UHD " tvg-logo="https://go4.pw/ITALY/skysportfootb.png" group-title="EU | IT | SPORT ",IT - SKY SPORT FOOTBALL UHD
+http://evo12.xyz:80/3659020/L6JGV48/76637
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="IT - SKY SPORT FOOTBALL HD " tvg-logo="https://go4.pw/ITALY/skysportfootb.png" group-title="EU | IT | SPORT ",IT - SKY SPORT FOOTBALL HD
+http://evo12.xyz:80/3659020/L6JGV48/76676
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="IT - SKY SPORT ARENA UHD" tvg-logo="https://go4.pw/ITALY/skysportarena.png" group-title="EU | IT | SPORT ",IT - SKY SPORT ARENA UHD
+http://evo12.xyz:80/3659020/L6JGV48/76638
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="IT - SKY SPORT ARENA HD" tvg-logo="https://go4.pw/ITALY/skysportarena.png" group-title="EU | IT | SPORT ",IT - SKY SPORT ARENA HD
+http://evo12.xyz:80/3659020/L6JGV48/76677
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="IT - SKY SPORT NBA UHD" tvg-logo="https://go4.pw/ITALY/skysportnba.png" group-title="EU | IT | SPORT ",IT - SKY SPORT NBA UHD
+http://evo12.xyz:80/3659020/L6JGV48/76639
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="IT - SKY SPORT NBA HD" tvg-logo="https://go4.pw/ITALY/skysportnba.png" group-title="EU | IT | SPORT ",IT - SKY SPORT NBA HD
+http://evo12.xyz:80/3659020/L6JGV48/76678
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="IT - SKY SPORT MOTOGP UHD ◉" tvg-logo="https://go4.pw/ITALY/skysportmotogp.png" group-title="EU | IT | SPORT ",IT - SKY SPORT MOTOGP UHD ◉
+http://evo12.xyz:80/3659020/L6JGV48/76641
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="IT - SKY SPORT MOTOGP HD" tvg-logo="https://go4.pw/ITALY/skysportmotogp.png" group-title="EU | IT | SPORT ",IT - SKY SPORT MOTOGP HD
+http://evo12.xyz:80/3659020/L6JGV48/76680
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="IT - SKY SPORT CALCIO UHD" tvg-logo="https://go4.pw/ITALY/skysportcalcio.png" group-title="EU | IT | SPORT ",IT - SKY SPORT CALCIO UHD
+http://evo12.xyz:80/3659020/L6JGV48/366309
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="IT - SKY SPORT CALCIO HD" tvg-logo="https://go4.pw/ITALY/skysportcalcio.png" group-title="EU | IT | SPORT ",IT - SKY SPORT CALCIO HD
+http://evo12.xyz:80/3659020/L6JGV48/900937
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT GOLF FHD" tvg-logo="https://go4.pw/ITALY/skysportgolf.png" group-title="EU | IT | SPORT ",IT - SKY SPORT GOLF FHD
+http://evo12.xyz:80/3659020/L6JGV48/498731
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT GOLF HD" tvg-logo="https://go4.pw/ITALY/skysportgolf.png" group-title="EU | IT | SPORT ",IT - SKY SPORT GOLF HD
+http://evo12.xyz:80/3659020/L6JGV48/900936
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="IT - SKY SPORT MAX HD" tvg-logo="https://go4.pw/ITALY/skysportmax.png" group-title="EU | IT | SPORT ",IT - SKY SPORT MAX HD
+http://evo12.xyz:80/3659020/L6JGV48/900935
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="IT - SKY SPORT TENNIS SD" tvg-logo="https://go4.pw/ITALY/skysporttennis.png" group-title="EU | IT | SPORT ",IT - SKY SPORT TENNIS SD
+http://evo12.xyz:80/3659020/L6JGV48/498732
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="IT - SKY SPORT TENNIS HD" tvg-logo="https://go4.pw/ITALY/skysporttennis.png" group-title="EU | IT | SPORT ",IT - SKY SPORT TENNIS HD
+http://evo12.xyz:80/3659020/L6JGV48/900938
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR PRIMEVIDEO FHD" tvg-logo="https://go4.pw/EUROPE/NORWAY/PRIME_PPV.png" group-title="EU | IT | SPORT ",IT - SKY SPORT BAR PRIMEVIDEO FHD
+http://evo12.xyz:80/3659020/L6JGV48/1416600
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR PRIMEVIDEO HD" tvg-logo="https://go4.pw/EUROPE/NORWAY/PRIME_PPV.png" group-title="EU | IT | SPORT ",IT - SKY SPORT BAR PRIMEVIDEO HD
+http://evo12.xyz:80/3659020/L6JGV48/1416599
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR PRIMEVIDEO SD" tvg-logo="https://go4.pw/EUROPE/NORWAY/PRIME_PPV.png" group-title="EU | IT | SPORT ",IT - SKY SPORT BAR PRIMEVIDEO SD
+http://evo12.xyz:80/3659020/L6JGV48/1416598
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - INFINITY  #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | SPORT ",##### IT - INFINITY  #####
+http://evo12.xyz:80/3659020/L6JGV48/1137565
+#EXTINF:-1 tvg-id="" tvg-name="IT - INFINITY 1 FHD" tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="EU | IT | SPORT ",IT - INFINITY 1 FHD
+http://evo12.xyz:80/3659020/L6JGV48/521192
+#EXTINF:-1 tvg-id="" tvg-name="IT - INFINITY 2 FHD " tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="EU | IT | SPORT ",IT - INFINITY 2 FHD
+http://evo12.xyz:80/3659020/L6JGV48/521191
+#EXTINF:-1 tvg-id="" tvg-name="IT - INFINITY 3 FHD" tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="EU | IT | SPORT ",IT - INFINITY 3 FHD
+http://evo12.xyz:80/3659020/L6JGV48/521190
+#EXTINF:-1 tvg-id="" tvg-name="IT - INFINITY 4 FHD" tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="EU | IT | SPORT ",IT - INFINITY 4 FHD
+http://evo12.xyz:80/3659020/L6JGV48/521189
+#EXTINF:-1 tvg-id="" tvg-name="IT - INFINITY 5 FHD" tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="EU | IT | SPORT ",IT - INFINITY 5 FHD
+http://evo12.xyz:80/3659020/L6JGV48/521188
+#EXTINF:-1 tvg-id="" tvg-name="IT - INFINITY 6 FHD" tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="EU | IT | SPORT ",IT - INFINITY 6 FHD
+http://evo12.xyz:80/3659020/L6JGV48/521187
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - MY SPORTS #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | SPORT ",##### IT - MY SPORTS #####
+http://evo12.xyz:80/3659020/L6JGV48/1136951
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 1 UHD  " tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="EU | IT | SPORT ",IT - MY SPORTS 1 UHD
+http://evo12.xyz:80/3659020/L6JGV48/269026
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 2 UHD  " tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="EU | IT | SPORT ",IT - MY SPORTS 2 UHD
+http://evo12.xyz:80/3659020/L6JGV48/269027
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 3 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="EU | IT | SPORT ",IT - MY SPORTS 3 UHD
+http://evo12.xyz:80/3659020/L6JGV48/269028
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 4 UHD  " tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="EU | IT | SPORT ",IT - MY SPORTS 4 UHD
+http://evo12.xyz:80/3659020/L6JGV48/269029
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 5 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="EU | IT | SPORT ",IT - MY SPORTS 5 UHD
+http://evo12.xyz:80/3659020/L6JGV48/247070
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 6 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="EU | IT | SPORT ",IT - MY SPORTS 6 UHD
+http://evo12.xyz:80/3659020/L6JGV48/76660
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 7 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="EU | IT | SPORT ",IT - MY SPORTS 7 UHD
+http://evo12.xyz:80/3659020/L6JGV48/76661
+#EXTINF:-1 tvg-id="" tvg-name="IT - MY SPORTS 8 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="EU | IT | SPORT ",IT - MY SPORTS 8 UHD
+http://evo12.xyz:80/3659020/L6JGV48/76662
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - SKY CALCIO #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | SPORT ",##### IT - SKY CALCIO #####
+http://evo12.xyz:80/3659020/L6JGV48/1118813
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 1 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT - SKY CALCIO 1 UHD
+http://evo12.xyz:80/3659020/L6JGV48/900917
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 2 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT - SKY CALCIO 2 UHD
+http://evo12.xyz:80/3659020/L6JGV48/900919
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 3 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT - SKY CALCIO 3 UHD
+http://evo12.xyz:80/3659020/L6JGV48/900920
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 4 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT - SKY CALCIO 4 UHD
+http://evo12.xyz:80/3659020/L6JGV48/900921
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 5 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT - SKY CALCIO 5 UHD
+http://evo12.xyz:80/3659020/L6JGV48/900922
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 6 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT - SKY CALCIO 6 UHD
+http://evo12.xyz:80/3659020/L6JGV48/900923
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 7 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT - SKY CALCIO 7 UHD
+http://evo12.xyz:80/3659020/L6JGV48/498728
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 1 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT - SKY CALCIO 1 HD
+http://evo12.xyz:80/3659020/L6JGV48/312288
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 2 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT - SKY CALCIO 2 HD
+http://evo12.xyz:80/3659020/L6JGV48/247090
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 3 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT - SKY CALCIO 3 HD
+http://evo12.xyz:80/3659020/L6JGV48/247091
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 4 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT - SKY CALCIO 4 HD
+http://evo12.xyz:80/3659020/L6JGV48/247092
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 5 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT - SKY CALCIO 5 HD
+http://evo12.xyz:80/3659020/L6JGV48/247093
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CALCIO 6 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT - SKY CALCIO 6 HD
+http://evo12.xyz:80/3659020/L6JGV48/247097
+#EXTINF:-1 tvg-id="" tvg-name="IT - EQU TV" tvg-logo="https://go4.pw/EUROPE/equ.png" group-title="EU | IT | SPORT ",IT - EQU TV
+http://evo12.xyz:80/3659020/L6JGV48/1425213
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - DAZN #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | DAZN",##### IT - DAZN #####
+http://evo12.xyz:80/3659020/L6JGV48/1110507
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="IT - DAZN 01" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN 01
+http://evo12.xyz:80/3659020/L6JGV48/254511
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 02" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN 02
+http://evo12.xyz:80/3659020/L6JGV48/254512
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 03" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN 03
+http://evo12.xyz:80/3659020/L6JGV48/254513
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 04" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN 04
+http://evo12.xyz:80/3659020/L6JGV48/254514
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 05 " tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN 05
+http://evo12.xyz:80/3659020/L6JGV48/254515
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 06" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN 06
+http://evo12.xyz:80/3659020/L6JGV48/254516
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 07" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN 07
+http://evo12.xyz:80/3659020/L6JGV48/254517
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 08" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN 08
+http://evo12.xyz:80/3659020/L6JGV48/254518
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 09" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN 09
+http://evo12.xyz:80/3659020/L6JGV48/254519
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN 10" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN 10
+http://evo12.xyz:80/3659020/L6JGV48/254520
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN  11 :  " tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN  11 :
+http://evo12.xyz:80/3659020/L6JGV48/451878
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="IT - ZONA DAZN HD" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - ZONA DAZN HD
+http://evo12.xyz:80/3659020/L6JGV48/521193
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - DAZN SERIE A #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | DAZN",##### IT - DAZN SERIE A #####
+http://evo12.xyz:80/3659020/L6JGV48/1336867
+#EXTINF:-1 tvg-id="" tvg-name="IT - VETRINA-DAZN-SERIE-A FHD" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - VETRINA-DAZN-SERIE-A FHD
+http://evo12.xyz:80/3659020/L6JGV48/427429
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="IT - ZONA DAZN SERIE A HD" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - ZONA DAZN SERIE A HD
+http://evo12.xyz:80/3659020/L6JGV48/427430
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 1 HD JUVENTUS  " tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 1 HD JUVENTUS
+http://evo12.xyz:80/3659020/L6JGV48/427432
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 2 HD-INTER" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 2 HD-INTER
+http://evo12.xyz:80/3659020/L6JGV48/427433
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 3 HD MILAN" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 3 HD MILAN
+http://evo12.xyz:80/3659020/L6JGV48/427434
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 4 HD NAPOLI" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 4 HD NAPOLI
+http://evo12.xyz:80/3659020/L6JGV48/427435
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 5 HD ROMA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 5 HD ROMA
+http://evo12.xyz:80/3659020/L6JGV48/427436
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 6 HD" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 6 HD
+http://evo12.xyz:80/3659020/L6JGV48/427473
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 7 HD COMO" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 7 HD COMO
+http://evo12.xyz:80/3659020/L6JGV48/427474
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 8 HD ATALANTA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 8 HD ATALANTA
+http://evo12.xyz:80/3659020/L6JGV48/427475
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 9 HD BOLOGNA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 9 HD BOLOGNA
+http://evo12.xyz:80/3659020/L6JGV48/427476
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 10 HD GENOA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 10 HD GENOA
+http://evo12.xyz:80/3659020/L6JGV48/427477
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 11 HD FIORENTINA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 11 HD FIORENTINA
+http://evo12.xyz:80/3659020/L6JGV48/427478
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 12 HD MONZA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 12 HD MONZA
+http://evo12.xyz:80/3659020/L6JGV48/427480
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 13 HD EMPOLI" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 13 HD EMPOLI
+http://evo12.xyz:80/3659020/L6JGV48/427481
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 14 HD UDINESE" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 14 HD UDINESE
+http://evo12.xyz:80/3659020/L6JGV48/427482
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 15 HD HELLAS VERONA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 15 HD HELLAS VERONA
+http://evo12.xyz:80/3659020/L6JGV48/427483
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 16 HD TORINO" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 16 HD TORINO
+http://evo12.xyz:80/3659020/L6JGV48/427484
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 17 HD VENEZIA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 17 HD VENEZIA
+http://evo12.xyz:80/3659020/L6JGV48/427485
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 18 HD LECCE" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 18 HD LECCE
+http://evo12.xyz:80/3659020/L6JGV48/427486
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 19 HD CAGLIARI" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 19 HD CAGLIARI
+http://evo12.xyz:80/3659020/L6JGV48/427487
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE A 20 HD PARMA " tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE A 20 HD PARMA
+http://evo12.xyz:80/3659020/L6JGV48/427488
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - DAZN SERIE B #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | DAZN",##### IT - DAZN SERIE B #####
+http://evo12.xyz:80/3659020/L6JGV48/1336866
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 1 BARI" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 1 BARI
+http://evo12.xyz:80/3659020/L6JGV48/1039545
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 2 BRESCIA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 2 BRESCIA
+http://evo12.xyz:80/3659020/L6JGV48/1039546
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 3 CARRARESE" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 3 CARRARESE
+http://evo12.xyz:80/3659020/L6JGV48/1039547
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 4 CATANZARO" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 4 CATANZARO
+http://evo12.xyz:80/3659020/L6JGV48/1039548
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 5 CESENA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 5 CESENA
+http://evo12.xyz:80/3659020/L6JGV48/1039549
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 6 CITTADELLA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 6 CITTADELLA
+http://evo12.xyz:80/3659020/L6JGV48/1039550
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 7 COSENZA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 7 COSENZA
+http://evo12.xyz:80/3659020/L6JGV48/1039551
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 8 CREMONESE" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 8 CREMONESE
+http://evo12.xyz:80/3659020/L6JGV48/1039552
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 9 FROSINONE" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 9 FROSINONE
+http://evo12.xyz:80/3659020/L6JGV48/1039553
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 10 JUVE STABIA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 10 JUVE STABIA
+http://evo12.xyz:80/3659020/L6JGV48/1039554
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 11 MANTOVA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 11 MANTOVA
+http://evo12.xyz:80/3659020/L6JGV48/1039555
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 12 MODENA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 12 MODENA
+http://evo12.xyz:80/3659020/L6JGV48/1039556
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 13 PALERMO" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 13 PALERMO
+http://evo12.xyz:80/3659020/L6JGV48/1039557
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 14 PISA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 14 PISA
+http://evo12.xyz:80/3659020/L6JGV48/1039558
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 15 REGGIANA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 15 REGGIANA
+http://evo12.xyz:80/3659020/L6JGV48/1039559
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 16 SALERNITANA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 16 SALERNITANA
+http://evo12.xyz:80/3659020/L6JGV48/1039560
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 17 SAMPDORIA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 17 SAMPDORIA
+http://evo12.xyz:80/3659020/L6JGV48/1039561
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 18 SASSUOLO" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 18 SASSUOLO
+http://evo12.xyz:80/3659020/L6JGV48/1039562
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 19 SPEZIA" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 19 SPEZIA
+http://evo12.xyz:80/3659020/L6JGV48/1039563
+#EXTINF:-1 tvg-id="" tvg-name="IT - DAZN SERIE B 20 SÜDTIROL" tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | IT | DAZN",IT - DAZN SERIE B 20 SÜDTIROL
+http://evo12.xyz:80/3659020/L6JGV48/1039564
+#EXTINF:-1 tvg-id="" tvg-name="##### IT - DAZN FORMULA 1 #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | DAZN",##### IT - DAZN FORMULA 1 #####
+http://evo12.xyz:80/3659020/L6JGV48/1336868
+#EXTINF:-1 tvg-id="" tvg-name="IT - VETRINA DAZN F2 HD" tvg-logo="https://go4.pw/SPAIN/DAZNF.png" group-title="EU | IT | DAZN",IT - VETRINA DAZN F2 HD
+http://evo12.xyz:80/3659020/L6JGV48/68755
+#EXTINF:-1 tvg-id="" tvg-name="##### SWITZERLAND FHD #####" tvg-logo="https://go4.pw/EUROPE/SWITZERLAND/SWITZERLAND.png" group-title="EU | SWISS | GENERAL",##### SWITZERLAND FHD #####
+http://evo12.xyz:80/3659020/L6JGV48/63875
+#EXTINF:-1 tvg-id="rsila1.ch" tvg-name="CH - RSI LA 1 FHD ◉" tvg-logo="https://go4.pw/SWITZERLAND/RSI La 1 HD.png" group-title="EU | SWISS | GENERAL",CH - RSI LA 1 FHD ◉
+http://evo12.xyz:80/3659020/L6JGV48/913141
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH - RSI LA 2 FHD ◉" tvg-logo="https://go4.pw/SWITZERLAND/19.png" group-title="EU | SWISS | GENERAL",CH - RSI LA 2 FHD ◉
+http://evo12.xyz:80/3659020/L6JGV48/913145
+#EXTINF:-1 tvg-id="rts1.ch" tvg-name="CH - RTS UN FHD" tvg-logo="https://go4.pw/SWITZERLAND/rts1.png" group-title="EU | SWISS | GENERAL",CH - RTS UN FHD
+http://evo12.xyz:80/3659020/L6JGV48/63869
+#EXTINF:-1 tvg-id="" tvg-name="CH - RTS DEUX FHD ◉ " tvg-logo="https://go4.pw/SWITZERLAND/rts2.png" group-title="EU | SWISS | GENERAL",CH - RTS DEUX FHD ◉
+http://evo12.xyz:80/3659020/L6JGV48/60128
+#EXTINF:-1 tvg-id="" tvg-name="CH - 3+ FHD" tvg-logo="https://go4.pw/SWITZERLAND/3+.png" group-title="EU | SWISS | GENERAL",CH - 3+ FHD
+http://evo12.xyz:80/3659020/L6JGV48/1030955
+#EXTINF:-1 tvg-id="" tvg-name="CH - 4+ FHD" tvg-logo="https://go4.pw/SWITZERLAND/4+.png" group-title="EU | SWISS | GENERAL",CH - 4+ FHD
+http://evo12.xyz:80/3659020/L6JGV48/1030957
+#EXTINF:-1 tvg-id="" tvg-name="CH - 5+ FHD" tvg-logo="https://go4.pw/SWITZERLAND/5+.png" group-title="EU | SWISS | GENERAL",CH - 5+ FHD
+http://evo12.xyz:80/3659020/L6JGV48/1030959
+#EXTINF:-1 tvg-id="" tvg-name="CH - 6+ FHD" tvg-logo="https://go4.pw/SWITZERLAND/6+.png" group-title="EU | SWISS | GENERAL",CH - 6+ FHD
+http://evo12.xyz:80/3659020/L6JGV48/1030960
+#EXTINF:-1 tvg-id="" tvg-name="CH - TELE M1 FHD" tvg-logo="https://go4.pw/SWITZERLAND/telem1.png" group-title="EU | SWISS | GENERAL",CH - TELE M1 FHD
+http://evo12.xyz:80/3659020/L6JGV48/1030991
+#EXTINF:-1 tvg-id="" tvg-name="CH - TELEZUERI FHD" tvg-logo="https://go4.pw/SWITZERLAND/telezuri.png" group-title="EU | SWISS | GENERAL",CH - TELEZUERI FHD
+http://evo12.xyz:80/3659020/L6JGV48/321829
+#EXTINF:-1 tvg-id="" tvg-name="CH - TELE BAERN FHD" tvg-logo="https://go4.pw/SWITZERLAND/telebarn.png" group-title="EU | SWISS | GENERAL",CH - TELE BAERN FHD
+http://evo12.xyz:80/3659020/L6JGV48/1054593
+#EXTINF:-1 tvg-id="" tvg-name="CH - TELEBIELLINGUE FHD" tvg-logo="https://go4.pw/SWITZERLAND/66.png" group-title="EU | SWISS | GENERAL",CH - TELEBIELLINGUE FHD
+http://evo12.xyz:80/3659020/L6JGV48/1030988
+#EXTINF:-1 tvg-id="telez.ch" tvg-name="CH - TELE Z FHD" tvg-logo="https://go4.pw/EUROPE/SWITZERLAND/Tele_Z.png" group-title="EU | SWISS | GENERAL",CH - TELE Z FHD
+http://evo12.xyz:80/3659020/L6JGV48/321832
+#EXTINF:-1 tvg-id="telebasel.ch" tvg-name="CH - TELEBASEL FHD" tvg-logo="https://go4.pw/SWITZERLAND/telebasel.png" group-title="EU | SWISS | GENERAL",CH - TELEBASEL FHD
+http://evo12.xyz:80/3659020/L6JGV48/321834
+#EXTINF:-1 tvg-id="srf1.ch" tvg-name="CH - SRF 1 FHD" tvg-logo="https://go4.pw/SWITZERLAND/srf1.png" group-title="EU | SWISS | GENERAL",CH - SRF 1 FHD
+http://evo12.xyz:80/3659020/L6JGV48/63870
+#EXTINF:-1 tvg-id="" tvg-name="CH - TELE 1 FHD" tvg-logo="https://go4.pw/SWITZERLAND/tele1.png" group-title="EU | SWISS | GENERAL",CH - TELE 1 FHD
+http://evo12.xyz:80/3659020/L6JGV48/1054595
+#EXTINF:-1 tvg-id="" tvg-name="CH - FRANCE 2 FHD" tvg-logo="https://go4.pw/FRANCE/francetv.png" group-title="EU | SWISS | GENERAL",CH - FRANCE 2 FHD
+http://evo12.xyz:80/3659020/L6JGV48/1054621
+#EXTINF:-1 tvg-id="" tvg-name="CH - FRANCE 3 FHD" tvg-logo="https://go4.pw/FRANCE/francetv.png" group-title="EU | SWISS | GENERAL",CH - FRANCE 3 FHD
+http://evo12.xyz:80/3659020/L6JGV48/1054622
+#EXTINF:-1 tvg-id="" tvg-name="CH - FRANCE 4 FHD" tvg-logo="https://go4.pw/FRANCE/francetv.png" group-title="EU | SWISS | GENERAL",CH - FRANCE 4 FHD
+http://evo12.xyz:80/3659020/L6JGV48/1054623
+#EXTINF:-1 tvg-id="" tvg-name="CH - FRANCE 5 FHD" tvg-logo="https://go4.pw/FRANCE/francetv.png" group-title="EU | SWISS | GENERAL",CH - FRANCE 5 FHD
+http://evo12.xyz:80/3659020/L6JGV48/1054624
+#EXTINF:-1 tvg-id="swiss1.ch" tvg-name="CH - SWISS 1 FHD" tvg-logo="https://go4.pw/SWITZERLAND/swiss1.png" group-title="EU | SWISS | GENERAL",CH - SWISS 1 FHD
+http://evo12.xyz:80/3659020/L6JGV48/321842
+#EXTINF:-1 tvg-id="tvo.ch" tvg-name="CH - TVO FHD" tvg-logo="https://go4.pw/SWITZERLAND/tvo.png" group-title="EU | SWISS | GENERAL",CH - TVO FHD
+http://evo12.xyz:80/3659020/L6JGV48/321840
+#EXTINF:-1 tvg-id="tvm3.ch" tvg-name="CH - TVM 3 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/TVM3.png" group-title="EU | SWISS | GENERAL",CH - TVM 3 FHD
+http://evo12.xyz:80/3659020/L6JGV48/913152
+#EXTINF:-1 tvg-id="" tvg-name="CH - TV25 FHD" tvg-logo="https://go4.pw/SWITZERLAND/1.png" group-title="EU | SWISS | GENERAL",CH - TV25 FHD
+http://evo12.xyz:80/3659020/L6JGV48/1030965
+#EXTINF:-1 tvg-id="" tvg-name="CH - S1 FHD" tvg-logo="https://go4.pw/EUROPE/SWEDEN/s1.png" group-title="EU | SWISS | GENERAL",CH - S1 FHD
+http://evo12.xyz:80/3659020/L6JGV48/1030984
+#EXTINF:-1 tvg-id="" tvg-name="CH - PULS 8 FHD" tvg-logo="https://go4.pw/SWITZERLAND/8plus.png" group-title="EU | SWISS | GENERAL",CH - PULS 8 FHD
+http://evo12.xyz:80/3659020/L6JGV48/1030983
+#EXTINF:-1 tvg-id="" tvg-name="CH - RMC DECOUVERTE FHD" tvg-logo="https://go4.pw/FRANCE/15.png" group-title="EU | SWISS | GENERAL",CH - RMC DECOUVERTE FHD
+http://evo12.xyz:80/3659020/L6JGV48/1054639
+#EXTINF:-1 tvg-id="" tvg-name="CH - TV5 MONDE FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/Tv5_monde_HD.png" group-title="EU | SWISS | GENERAL",CH - TV5 MONDE FHD
+http://evo12.xyz:80/3659020/L6JGV48/1054658
+#EXTINF:-1 tvg-id="" tvg-name="##### SWITZERLAND HD #####" tvg-logo="https://go4.pw/EUROPE/SWITZERLAND/SWITZERLAND.png" group-title="EU | SWISS | GENERAL",##### SWITZERLAND HD #####
+http://evo12.xyz:80/3659020/L6JGV48/1286553
+#EXTINF:-1 tvg-id="rsila1.ch" tvg-name="CH - RSI LA 1 HD" tvg-logo="https://go4.pw/SWITZERLAND/RSI La 1 HD.png" group-title="EU | SWISS | GENERAL",CH - RSI LA 1 HD
+http://evo12.xyz:80/3659020/L6JGV48/63873
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH - RSI LA 2 HD" tvg-logo="https://go4.pw/SWITZERLAND/19.png" group-title="EU | SWISS | GENERAL",CH - RSI LA 2 HD
+http://evo12.xyz:80/3659020/L6JGV48/63874
+#EXTINF:-1 tvg-id="" tvg-name="CH - RTS UN HD" tvg-logo="https://go4.pw/SWITZERLAND/rts1.png" group-title="EU | SWISS | GENERAL",CH - RTS UN HD
+http://evo12.xyz:80/3659020/L6JGV48/60129
+#EXTINF:-1 tvg-id="rts2.ch" tvg-name="CH - RTS DEUX HD" tvg-logo="https://go4.pw/SWITZERLAND/rts2.png" group-title="EU | SWISS | GENERAL",CH - RTS DEUX HD
+http://evo12.xyz:80/3659020/L6JGV48/63868
+#EXTINF:-1 tvg-id="3plus.ch" tvg-name="CH - 3+  HD" tvg-logo="https://go4.pw/SWITZERLAND/3+.png" group-title="EU | SWISS | GENERAL",CH - 3+  HD
+http://evo12.xyz:80/3659020/L6JGV48/63866
+#EXTINF:-1 tvg-id="4plus.ch" tvg-name="CH - 4+ HD" tvg-logo="https://go4.pw/SWITZERLAND/4+.png" group-title="EU | SWISS | GENERAL",CH - 4+ HD
+http://evo12.xyz:80/3659020/L6JGV48/63865
+#EXTINF:-1 tvg-id="5plus.ch" tvg-name="CH - 5+ HD" tvg-logo="https://go4.pw/SWITZERLAND/5+.png" group-title="EU | SWISS | GENERAL",CH - 5+ HD
+http://evo12.xyz:80/3659020/L6JGV48/63864
+#EXTINF:-1 tvg-id="6plus.ch" tvg-name="CH - 6+ HD" tvg-logo="https://go4.pw/SWITZERLAND/6+.png" group-title="EU | SWISS | GENERAL",CH - 6+ HD
+http://evo12.xyz:80/3659020/L6JGV48/321827
+#EXTINF:-1 tvg-id="" tvg-name="CH - TELE M1 HD" tvg-logo="https://go4.pw/SWITZERLAND/telem1.png" group-title="EU | SWISS | GENERAL",CH - TELE M1 HD
+http://evo12.xyz:80/3659020/L6JGV48/1054586
+#EXTINF:-1 tvg-id="" tvg-name="CH - TELE BÄRN HD" tvg-logo="https://go4.pw/SWITZERLAND/telebarn.png" group-title="EU | SWISS | GENERAL",CH - TELE BÄRN HD
+http://evo12.xyz:80/3659020/L6JGV48/321835
+#EXTINF:-1 tvg-id="" tvg-name="CH - TELE ZU HD" tvg-logo="https://go4.pw/SWITZERLAND/telezuri.png" group-title="EU | SWISS | GENERAL",CH - TELE ZU HD
+http://evo12.xyz:80/3659020/L6JGV48/606165
+#EXTINF:-1 tvg-id="" tvg-name="CH - TELEBIELLINGUE HD" tvg-logo="https://go4.pw/SWITZERLAND/66.png" group-title="EU | SWISS | GENERAL",CH - TELEBIELLINGUE HD
+http://evo12.xyz:80/3659020/L6JGV48/321836
+#EXTINF:-1 tvg-id="teleticino.ch" tvg-name="CH - TELETICINO HD" tvg-logo="https://go4.pw/SWITZERLAND/60.png" group-title="EU | SWISS | GENERAL",CH - TELETICINO HD
+http://evo12.xyz:80/3659020/L6JGV48/321841
+#EXTINF:-1 tvg-id="" tvg-name="CH - SRF 1 HD" tvg-logo="https://go4.pw/SWITZERLAND/srf1.png" group-title="EU | SWISS | GENERAL",CH - SRF 1 HD
+http://evo12.xyz:80/3659020/L6JGV48/1054648
+#EXTINF:-1 tvg-id="" tvg-name="CH - SRF ZWEI  HD" tvg-logo="https://go4.pw/SWITZERLAND/srf2.png" group-title="EU | SWISS | GENERAL",CH - SRF ZWEI  HD
+http://evo12.xyz:80/3659020/L6JGV48/1030950
+#EXTINF:-1 tvg-id="srfinfo.ch" tvg-name="CH - SRF INFO HD" tvg-logo="https://go4.pw/SWITZERLAND/srfinfo.png" group-title="EU | SWISS | GENERAL",CH - SRF INFO HD
+http://evo12.xyz:80/3659020/L6JGV48/63872
+#EXTINF:-1 tvg-id="tv24.ch" tvg-name="CH - TV 24 HD" tvg-logo="https://go4.pw/SWITZERLAND/TV24.png" group-title="EU | SWISS | GENERAL",CH - TV 24 HD
+http://evo12.xyz:80/3659020/L6JGV48/63863
+#EXTINF:-1 tvg-id="tv25.ch" tvg-name="CH - TV 25 HD" tvg-logo="https://go4.pw/SWITZERLAND/1.png" group-title="EU | SWISS | GENERAL",CH - TV 25 HD
+http://evo12.xyz:80/3659020/L6JGV48/63862
+#EXTINF:-1 tvg-id="bluestars.ch" tvg-name="CH - BLUE STARS HD" tvg-logo="https://go4.pw/SWITZERLAND/bluestar.png" group-title="EU | SWISS | GENERAL",CH - BLUE STARS HD
+http://evo12.xyz:80/3659020/L6JGV48/316238
+#EXTINF:-1 tvg-id="startv.ch" tvg-name="CH - STAR TV HD" tvg-logo="https://go4.pw/SWITZERLAND/startv.png" group-title="EU | SWISS | GENERAL",CH - STAR TV HD
+http://evo12.xyz:80/3659020/L6JGV48/321830
+#EXTINF:-1 tvg-id="rsila1.ch" tvg-name="CH - RSI LA 1 HD" tvg-logo="https://go4.pw/SWITZERLAND/RSI La 1 HD.png" group-title="EU | SWISS | GENERAL",CH - RSI LA 1 HD
+http://evo12.xyz:80/3659020/L6JGV48/807026
+#EXTINF:-1 tvg-id="" tvg-name="CH - 8 MONT-BLANC HD" tvg-logo="https://go4.pw/SWITZERLAND/mont.png" group-title="EU | SWISS | GENERAL",CH - 8 MONT-BLANC HD
+http://evo12.xyz:80/3659020/L6JGV48/807028
+#EXTINF:-1 tvg-id="" tvg-name="CH - TLC HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/TLC.png" group-title="EU | SWISS | GENERAL",CH - TLC HD
+http://evo12.xyz:80/3659020/L6JGV48/1030995
+#EXTINF:-1 tvg-id="" tvg-name="CH - ROUGE TV HD" tvg-logo="https://go4.pw/SWITZERLAND/rouge.png" group-title="EU | SWISS | GENERAL",CH - ROUGE TV HD
+http://evo12.xyz:80/3659020/L6JGV48/1054580
+#EXTINF:-1 tvg-id="" tvg-name="CH - PULS 8 HD" tvg-logo="https://go4.pw/SWITZERLAND/8plus.png" group-title="EU | SWISS | GENERAL",CH - PULS 8 HD
+http://evo12.xyz:80/3659020/L6JGV48/1054591
+#EXTINF:-1 tvg-id="" tvg-name="CH - ARTE HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/ARTEHD.png" group-title="EU | SWISS | GENERAL",CH - ARTE HD
+http://evo12.xyz:80/3659020/L6JGV48/1054608
+#EXTINF:-1 tvg-id="" tvg-name="CH - M6 HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/M6.png" group-title="EU | SWISS | GENERAL",CH - M6 HD
+http://evo12.xyz:80/3659020/L6JGV48/1054631
+#EXTINF:-1 tvg-id="" tvg-name="CH - TF1 HD" tvg-logo="https://go4.pw/FRANCE/TF1_FRANCE.png" group-title="EU | SWISS | GENERAL",CH - TF1 HD
+http://evo12.xyz:80/3659020/L6JGV48/1054642
