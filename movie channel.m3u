@@ -1246,3 +1246,74 @@ http://45.11.57.152:8080/DkedJpyzjY/59K97DVFBL/256477
 http://45.11.57.152:8080/DkedJpyzjY/59K97DVFBL/256478
 #EXTINF:-1 tvg-id="" tvg-name="DE • Wdr Fernsehen Köln" tvg-logo="http://cevo1.ddns.me:8080/images/99b89c77b7bc812ac47a0a752e709237.png" group-title="DE: UNTERHALTUNG",DE • Wdr Fernsehen Köln
 http://45.11.57.152:8080/DkedJpyzjY/59K97DVFBL/256479
+#EXTM3U
+#EXTINF:0,Deutsche Welle
+http://u.vipl.one/high/7nz9etkf8r/439.m3u8
+#EXTINF:0,Allgäu TV
+http://u.vipl.one/high/7nz9etkf8r/908.m3u8
+#EXTINF:0,Augsburg TV
+http://u.vipl.one/high/7nz9etkf8r/909.m3u8
+#EXTINF:0,Baden TV
+http://u.vipl.one/high/7nz9etkf8r/910.m3u8
+#EXTINF:0,Donau TV
+http://u.vipl.one/high/7nz9etkf8r/912.m3u8
+#EXTINF:0,Campus TV
+http://u.vipl.one/high/7nz9etkf8r/913.m3u8
+#EXTINF:0,Filstalwelle
+http://u.vipl.one/high/7nz9etkf8r/914.m3u8
+#EXTINF:0,Franken Fernsehen HD
+http://u.vipl.one/high/7nz9etkf8r/915.m3u8
+#EXTINF:0,FS1 AUSTRIA
+http://u.vipl.one/high/7nz9etkf8r/916.m3u8
+#EXTINF:0,Halle
+http://u.vipl.one/high/7nz9etkf8r/917.m3u8
+#EXTINF:0,München TV
+http://u.vipl.one/high/7nz9etkf8r/920.m3u8
+#EXTINF:0,NRWision
+http://u.vipl.one/high/7nz9etkf8r/921.m3u8
+#EXTINF:0,Oberpfalz TV
+http://u.vipl.one/high/7nz9etkf8r/922.m3u8
+#EXTINF:0,RNF
+http://u.vipl.one/high/7nz9etkf8r/924.m3u8
+#EXTINF:0,RFO
+http://u.vipl.one/high/7nz9etkf8r/925.m3u8
+#EXTINF:0,Saarland Fernsehen 1
+http://u.vipl.one/high/7nz9etkf8r/926.m3u8
+#EXTINF:0,Saarland Fernsehen 2
+http://u.vipl.one/high/7nz9etkf8r/927.m3u8
+#EXTINF:0,VOX DE
+http://u.vipl.one/high/7nz9etkf8r/1012.m3u8
+#EXTINF:0,Sat. 1 DE
+http://u.vipl.one/high/7nz9etkf8r/1013.m3u8
+#EXTINF:0,Sat. 1 Gold DE
+http://u.vipl.one/high/7nz9etkf8r/1014.m3u8
+#EXTINF:0,Sport 1 HD DE
+http://u.vipl.one/high/7nz9etkf8r/1015.m3u8
+#EXTINF:0,Kabel Eins DE
+http://u.vipl.one/high/7nz9etkf8r/1016.m3u8
+#EXTINF:0,N-TV DE
+http://u.vipl.one/high/7nz9etkf8r/1017.m3u8
+#EXTINF:0,ProSieben DE
+http://u.vipl.one/high/7nz9etkf8r/1068.m3u8
+#EXTINF:0,RTL DE
+http://u.vipl.one/high/7nz9etkf8r/1069.m3u8
+#EXTINF:0,RTL2 DE
+http://u.vipl.one/high/7nz9etkf8r/1070.m3u8
+#EXTINF:0,Super RTL DE
+http://u.vipl.one/high/7nz9etkf8r/1071.m3u8
+#EXTINF:0,Sky Sport 1 HD DE
+http://u.vipl.one/high/7nz9etkf8r/1072.m3u8
+#EXTINF:0,Sky Sport 2 HD DE
+http://u.vipl.one/high/7nz9etkf8r/1073.m3u8
+#EXTINF:0,Sky Cinema +24 HD
+http://u.vipl.one/high/7nz9etkf8r/1075.m3u8
+#EXTINF:0,Sky Cinema Action HD DE
+http://u.vipl.one/high/7nz9etkf8r/1076.m3u8
+#EXTINF:0,Sky Cinema Best HD DE
+http://u.vipl.one/high/7nz9etkf8r/1077.m3u8
+#EXTINF:0,Sky Cinema Family HD DE
+http://u.vipl.one/high/7nz9etkf8r/1078.m3u8
+#EXTINF:0,Sky Cinema Special HD DE
+http://u.vipl.one/high/7nz9etkf8r/1079.m3u8
+#EXTINF:-1, Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4
