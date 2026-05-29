@@ -1316,3 +1316,615 @@ http://u.vipl.one/high/7nz9etkf8r/1078.m3u8
 #EXTINF:0,Sky Cinema Special HD DE
 http://u.vipl.one/high/7nz9etkf8r/1079.m3u8
 
+
+#EXTM3U
+#EXTINF:-1,Max Sport 1 HD
+http://45.136.153.199:80/MaxSport1HR/mono.m3u8
+#EXTINF:-1,Max Sport 2 HD
+http://45.136.153.199:80/MaxSport2HR/mono.m3u8
+#EXTINF:-1,Sportska TV HD
+http://45.136.153.199:80/SportskaTV/mono.m3u8
+EXTINF:-1,Euro Sport 1 HD
+http://45.136.153.199:80/Eurosport1HD/mono.m3u8
+#EXTINF:-1,Euro Sport 2 HD
+http://45.136.153.199:80/Eurosport2HD/mono.m3u8
+#EXTINF:-1,ESports
+http://45.136.153.199:80/AdriaESports/mono.m3u8
+#EXTINF:-1,Fight Network HD
+http://45.136.153.199:80/FightNetwork/mono.m3u8
+#EXTINF:1.Rai Sport HD
+http://45.136.153.199:80/RaiSport/mono.m3u8
+#EXTINF:-1.RAI 1 HD
+http://45.136.153.199:80/Rai1/mono.m3u8
+#EXTINF:-1.RAI 2 HD
+http://45.136.153.199:80/Rai2/mono.m3u8
+#EXTINF:1.Rai 3 HD
+http://45.136.153.199:80/Rai3/mono.m3u8
+#EXTINF:1.Rai Storia HD
+http://45.136.153.199:80/RaiStoria/mono.m3u8
+#EXTINF:1.Rai Gulp HD
+http://45.136.153.199:80/RaiGulp/mono.m3u8
+#EXTINF:-1.Rai Scuola HD
+http://45.136.153.199:80/RaiScuola/mono.m3u8
+#EXTINF:-1.RSI La 1 HD
+http://45.136.153.199:80/RSILa1/mono.m3u8
+#EXTINF:-1.RSI La 2 HD
+http://45.136.153.199:80/RSILa2/mono.m3u8
+#EXTINF:-1,TVKoper
+http://45.136.153.199:80/TVKoper/mono.m3u8
+#EXTINF:-1,RTVHB
+http://45.136.153.199:80/RTVHB/mono.m3u8
+#EXTINF:-1,HRT 1 HD
+http://45.136.153.199:80/HRT1/mono.m3u8
+#EXTINF:-1,HRT 2 HD
+http://45.136.153.199:80/HRT2/mono.m3u8
+#EXTINF:-1,HRT 3 HD
+http://45.136.153.199:80/HRT3/mono.m3u8
+#EXTINF:-1,HRT 4 HD
+http://45.136.153.199:80/HRT4/mono.m3u8
+#EXTINF:-1,HRT 4 HD
+http://45.136.153.199:80/HRT4/mono.m3u8
+#EXTINF:-1,HRT Int HD
+http://45.136.153.199:80/HRTInt/mono.m3u8
+#EXTINF:-1,N1 HD
+http://45.136.153.199:80/N1HR/mono.m3u8
+#EXTINF:-1,AMC HD
+http://45.136.153.199:80/AMC/mono.m3u8
+#EXTINF:-1,AXN
+http://45.136.153.199:80/AXN/mono.m3u8
+#EXTINF:-1,AXN Spin
+http://45.136.153.199:80/AXNSpin/mono.m3u8
+#EXTINF:-1,RTL HD
+http://45.136.153.199:80/RTLHRHD/mono.m3u8
+#EXTINF:-1,RTL HD
+http://45.136.153.199:80/RTL2HRHD/mono.m3u8
+#EXTINF:-1,RTL Kockica HD
+http://45.136.153.199:80/RTLKockica/mono.m3u8
+#EXTINF:-1,RTL HD
+http://45.136.153.199:80/RTLDE/mono.m3u8
+#EXTINF:-1,RTL Living HD
+http://45.136.153.199:80/RTLLivingHR/mono.m3u8
+#EXTINF:-1,RTL Crime HD
+http://45.136.153.199:80/RTLCrimeHR/mono.m3u8
+#EXTINF:-1,RTL Passion HD
+http://45.136.153.199:80/RTLPassionHR/mono.m3u8
+#EXTINF:-1,PRO 7 HD
+http://45.136.153.199:80/Pro7/mono.m3u8
+#EXTINF:-1,ARD HD
+http://45.136.153.199:80/ARD/mono.m3u8
+#EXTINF:-1,ZDF HD
+http://45.136.153.199:80/ZDF/mono.m3u8
+#EXTINF:-1,SAT 1
+http://45.136.153.199:80/Sat1/mono.m3u8
+#EXTINF:1,Kabel1
+http://45.136.153.199:80/Kabel1/mono.m3u8
+#EXTINF:-1,Sixx HD
+http://45.136.153.199:80/Sixx/mono.m3u8
+#EXTINF:-1,Servus TV HD
+http://45.136.153.199:80/ServusTV/mono.m3u8
+#EXTINF:-1,Tele5
+http://45.136.153.199:80/Tele5/mono.m3u8
+#EXTINF:-1,TVE HD
+http://45.136.153.199:80/TVE/mono.m3u8
+#EXTINF:-1,France 2 HD
+http://45.136.153.199:80/France2/mono.m3u8
+#EXTINF:-1,FOX HD
+http://45.136.153.199:80/Fox/mono.m3u8
+#EXTINF:-1,Fox Movies HD
+http://45.136.153.199:80/FoxMovies/mono.m3u8
+#EXTINF:-1,Star Life HD
+http://45.136.153.199:80/FoxLife/mono.m3u8
+#EXTINF:-1,Pink Elita 1 HD
+http://45.136.153.199:80/Zadruga1/mono.m3u8
+#EXTINF:-1,Pink Elita 2 HD
+http://45.136.153.199:80/Zadruga2/mono.m3u8
+#EXTINF:-1,Pink Elita 3 HD
+http://45.136.153.199:80/Zadruga3/mono.m3u8
+#EXTINF:-1,Pink Elita 4 HD
+http://45.136.153.199:80/Zadruga4/mono.m3u8
+#EXTINF:-1,Happy Reality 1
+http://45.136.153.199:80/HappyReality1/mono.m3u8
+#EXTINF:-1,Happy Reality 2
+http://45.136.153.199:80/HappyReality2/mono.m3u8
+#EXTINF:-1,HBO 1 HD
+http://45.136.153.199:80/HBO/mono.m3u8
+#EXTINF:-1,HBO 2 HD
+http://45.136.153.199:80/HBO2/mono.m3u8
+#EXTINF:-1,HBO 3 HD
+http://45.136.153.199:80/HBO3/mono.m3u8
+#EXTINF:-1,FilmBox Premium
+http://45.136.153.199:80/FilmBoxPremium/index.m3u8
+#EXTINF:-1,FilmBox Extra HD
+http://45.136.153.199:80/FilmBoxExtra/mono.m3u8
+#EXTINF:-1,FilmBox Stars HD
+http://45.136.153.199:80/FilmBoxStars/mono.m3u8
+#EXTINF:-1,Cinemania HD
+http://45.136.153.199:80/Cinemania/mono.m3u8
+#EXTINF:-1,Cinemax HD
+http://45.136.153.199:80/CinemaxHD/mono.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://45.136.153.199:80/Cinemax2HD/mono.m3u8
+#EXTINF:-1,Euro Cinema 1 HD
+http://45.136.153.199:80/EuroCinema1/mono.m3u8
+#EXTINF:-1,Euro Cinema 2 HD
+http://45.136.153.199:80/EuroCinema2/mono.m3u8
+#EXTINF:-1,Euro Cinema 3 HD
+http://45.136.153.199:80/EuroCinema3/mono.m3u8
+#EXTINF:-1,Euro Cinema 4 HD
+http://45.136.153.199:80/EuroCinema4/mono.m3u8
+#EXTINF:-1,Cinestar Action HD
+http://45.136.153.199:80/CinestarAction/mono.m3u8
+#EXTINF:-1,Cinestar Fantasy HD
+http://45.136.153.199:80/CinestarFantasy/mono.m3u8
+#EXTINF:-1,CineStar Comedy
+http://45.136.153.199:80/CinestarComedy/mono.m3u8
+#EXTINF:-1,CineStarPremiere 1 HD
+http://45.136.153.199:80/CinestarPremiere1/mono.m3u8
+#EXTINF:-1,CineStarPremiere 2 HD
+http://45.136.153.199:80/CinestarPremiere2/mono.m3u8
+#EXTINF:-1,Cinemania HD
+http://45.136.153.199:80/Cinemania/mono.m3u8
+#EXTINF:-1,Cinemax HD
+http://45.136.153.199:80/CinemaxHD/mono.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://45.136.153.199:80/Cinemax2HD/mono.m3u8
+#EXTINF:-1,Comedy Central HD
+http://45.136.153.199:80/ComedyCentral/mono.m3u8
+#EXTINF:-1,Art Kino 2 HD
+http://45.136.153.199:80/ArtKino2/mono.m3u8
+#EXTINF:-1,Art Kino 3 HD
+http://45.136.153.199:80/ArtKino3HD/mono.m3u8
+#EXTINF:-1,Epic Drama HD
+http://45.136.153.199:80/EpicDramaHD/mono.m3u8
+#EXTINF:-1,KinoTV HD
+http://45.136.153.199:80/KinoTV/mono.m3u8
+#EXTINF:-1,b92 HD
+http://45.136.153.199:80/B92HD/mono.m3u8
+#EXTINF:-1,LoviRibolov HD
+http://45.136.153.199:80/LoviRibolov/mono.m3u8
+#EXTINF:-1,M1Gold
+http://45.136.153.199:80/M1Gold/mono.m3u8
+#EXTINF:-1,M1Film
+http://45.136.153.199:80/M1Film/mono.m3u8
+#EXTINF:-1,RTS
+http://45.136.153.199:80/RTRS/mono.m3u8
+#EXTINF:-1,RTS1 HD
+http://45.136.153.199:80/RTS1HD/mono.m3u8
+#EXTINF:-1,RTS 2 HD
+http://45.136.153.199:80/RTS2HD/mono.m3u8
+#EXTINF:-1,RTS 3 HD
+http://45.136.153.199:80/RTS3HD/mono.m3u8
+#EXTINF:-1,RTK 1 HD
+http://45.136.153.199:80/RTK1/mono.m3u8
+#EXTINF:-1,RTK 2 HD
+http://45.136.153.199:80/RTK2/mono.m3u8
+#EXTINF:-1,RTK 3 HD
+http://45.136.153.199:80/RTK3/mono.m3u8
+#EXTINF:-1,RTK 4 HD
+http://45.136.153.199:80/RTK4/mono.m3u8
+#EXTINF:-1,RTK 5 HD
+http://45.136.153.199:80/RTK5/mono.m3u8
+#EXTINF:-1,RTS Trezor
+http://45.136.153.199:80/RTSTrezor/mono.m3u8
+#EXTINF:-1,RTS Zivot
+http://45.136.153.199:80/RTSZivot/mono.m3u8
+#EXTINF:-1,RTS Muzika
+http://45.136.153.199:80/RTSMuzika/mono.m3u8
+#EXTINF:-1,RTS Kolo
+http://45.136.153.199:80/RTSKolo/mono.m3u8
+#EXTINF:-1,RTS Drama
+http://45.136.153.199:80/RTSDrama/mono.m3u8
+#EXTINF:-1,RTS Poletarac
+http://45.136.153.199:80/RTSPoletarac/mono.m3u8
+#EXTINF:-1,RTS Svet
+http://45.136.153.199:80/RTSSvet/mono.m3u8
+#EXTINF:-1,RTRSPlus
+http://45.136.153.199:80/RTRSPlus/mono.m3u8
+#EXTINF:-1,RTV Sana
+http://45.136.153.199:80/RTVSana/mono.m3u8
+#EXTINF:-1,RTRS
+http://45.136.153.199:80/RTRS/mono.m3u8
+#EXTINF:-1,RTVTK
+http://45.136.153.199:80/RTVTK/mono.m3u8
+#EXTINF:-1,RTV Zenica
+http://45.136.153.199:80/RTVZenica/mono.m3u8
+#EXTINF:-1TVSlon
+http://45.136.153.199:80/TVSlon/mono.m3u8
+#EXTINF:-1,KTV
+http://45.136.153.199:80/KTV/mono.m3u8
+#EXTINF:-1,RTV21 HD
+http://45.136.153.199:80/RTV21/mono.m3u8
+#EXTINF:-1,RTV21 Plus HD
+http://45.136.153.199:80/RTV21Plus/mono.m3u8
+#EXTINF:-1,RTV 21 HD
+http://45.136.153.199:80/RTV21Popullore/mono.m3u8
+#EXTINF:-1,Prva Plus HD
+http://45.136.153.199:80/PrvaPlus/mono.m3u8
+#EXTINF:-1,Stinet
+http://45.136.153.199:80/Stinet/mono.m3u8
+#EXTINF:-1,Klasik TV HD
+http://45.136.153.199:80/KlasikTV/mono.m3u8
+#EXTINF:-1,FederalnaTV
+http://45.136.153.199:80/FederalnaTV/mono.m3u8
+EXTINF:-1,EuroFilm
+http://45.136.153.199:80/EuroFilm/mono.m3u8
+#EXTINF:-1,Film Komedi
+http://45.136.153.199:80/FilmKomedi/mono.m3u8
+#EXTINF:-1,Film Gold
+http://45.136.153.199:80/FilmNje/mono.m3u8
+#EXTINF:-1,Film Thriller
+http://45.136.153.199:80/FilmThriller/mono.m3u8
+#EXTINF:-1,Film Drame
+http://45.136.153.199:80/FilmDrame/mono.m3u8
+#EXTINF:-1,Film Autor HD
+http://45.136.153.199:80/FilmAutor/mono.m3u8
+#EXTINF:-1,Film Hits HD
+http://45.136.153.199:80/FilmHits/mono.m3u8
+#EXTINF:-1,Pink Western
+http://45.136.153.199:80/PinkWestern/mono.m3u8
+#EXTINF:-1,Pink Serije
+http://45.136.153.199:80/PinkSerije/mono.m3u8
+#EXTINF:-1,Pink Zabava
+http://45.136.153.199:80/PinkZabava/mono.m3u8
+#EXTINF:-1,Pink Hits 1
+http://45.136.153.199:80/PinkHits1/mono.m3u8
+#EXTINF:-1,Pink Hits
+http://45.136.153.199:80/PinkHits2/mono.m3u8
+#EXTINF:-1,Pink Folk 1
+http://45.136.153.199:80/PinkFolk1/mono.m3u8
+#EXTINF:-1,Pink Folk 2
+http://45.136.153.199:80/PinkFolk2/mono.m3u8
+#EXTINF:-1,Pink Plus Elita
+http://45.136.153.199:80/PinkPlus/mono.m3u8
+#EXTINF:-1,Folk Plus
+http://45.136.153.199:80/FolkPlus/mono.m3u8
+#EXTINF:-1,Pink Reality
+http://45.136.153.199:80/PinkReality/mono.m3u8
+#EXTINF:-1,Pink Extra
+http://45.136.153.199:80/PinkExtra/mono.m3u8
+#EXTINF:-1,Pink Pedia
+http://45.136.153.199:80/PinkPedia/mono.m3u8
+#EXTINF:-1,Pink Music
+http://45.136.153.199:80/PinkMusic/mono.m3u8
+#EXTINF:-1,Pink Music 2
+http://45.136.153.199:80/PinkMusic2/mono.m3u8
+#EXTINF:-1,Pink Koncert
+http://45.136.153.199:80/PinkKoncert/mono.m3u8
+#EXTINF:-1,Pink Pedia
+http://45.136.153.199:80/PinkPedia/mono.m3u8
+#EXTINF:-1,Pink Film
+http://45.136.153.199:80/PinkFilm/mono.m3u8
+#EXTINF:-1,Pink Action
+http://45.136.153.199:80/PinkAction/mono.m3u8
+#EXTINF:-1,Pink Comedy
+http://45.136.153.199:80/PinkComedy/mono.m3u8
+#EXTINF:-1,Pink Horor
+http://45.136.153.199:80/PinkHoror/mono.m3u8
+#EXTINF:-1,Pink Movies
+http://45.136.153.199:80/PinkMovies/mono.m3u8
+#EXTINF:-1,Pink Premium HD
+http://45.136.153.199:80/PinkPremium/mono.m3u8
+#EXTINF:-1,Pink Thriller
+http://45.136.153.199:80/PinkThriller/mono.m3u8
+#EXTINF:-1,Pink Classic
+http://45.136.153.199:80/PinkClassic/mono.m3u8
+#EXTINF:-1,Pink Soap
+http://45.136.153.199:80/PinkSoap/mono.m3u8
+#EXTINF:-1,Pink Fashion
+http://45.136.153.199:80/PinkFashion/mono.m3u8
+#EXTINF:-1,Red HD
+http://45.136.153.199:80/Pink2/mono.m3u8
+#EXTINF:-1,Vesdi HD
+http://45.136.153.199:80/Pink3/mono.m3u8
+#EXTINF:-1,Pink Family
+http://45.136.153.199:80/PinkFamily/mono.m3u8
+#EXTINF:-1,Pink Romance
+http://45.136.153.199:80/PinkRomance/mono.m3u8
+#EXTINF:-1,Pink World Cinema
+http://45.136.153.199:80/PinkWorldCinema/mono.m3u8
+#EXTINF:-1,Pink World
+http://45.136.153.199:80/PinkWorld/mono.m3u8
+#EXTINF:-1,Hayat HD
+http://45.136.153.199:80/HayatHD/mono.m3u8
+#EXTINF:-1,Hayat FOLK HD
+http://45.136.153.199:80/HayatFolk/mono.m3u8
+#EXTINF:-1,Hayat ovci
+http://45.136.153.199:80/Hayatovci/mono.m3u8
+#EXTINF:-1,BHT1
+http://45.136.153.199:80/BHT1/mono.m3u8
+#EXTINF:-1,NovaBH
+http://45.136.153.199:80/NovaBH/mono.m3u8
+#EXTINF:-1,FaceTV
+http://45.136.153.199:80/FaceTV/mono.m3u8
+#EXTINF:-1,Bubble TV
+http://45.136.153.199:80/RTV21Junior/mono.m3u8
+#EXTINF:-1,AlsatM HD
+http://45.136.153.199:80/AlsatM/mono.m3u8
+#EXTINF:-1,3Plus HD
+http://45.136.153.199:80/3Plus/mono.m3u8
+#EXTINF:-1,Tip TV
+http://45.136.153.199:80/TipTV/mono.m3u8
+#EXTINF:-1,Klan Plus
+http://45.136.153.199:80/KlanPlus/mono.m3u8
+#EXTINF:-1,Klan Kosova HD
+http://45.136.153.199:80/KlanKosova/mono.m3u8
+#EXTINF:-1,RTV Ora HD
+http://45.136.153.199:80/OraNews/mono.m3u8
+#EXTINF:-1,TVAS HD
+http://45.136.153.199:80/TVAS/mono.m3u8
+#EXTINF:-1,T7 HD
+http://45.136.153.199:80/T7/mono.m3u8
+#EXTINF:-1,7TV HD
+http://45.136.153.199:80/7TV/mono.m3u8
+#EXTINF:-1,K23
+http://45.136.153.199:80/K23/mono.m3u8
+#EXTINF:-1,Duga Plus
+http://45.136.153.199:80/DugaPlus/mono.m3u8
+#EXTINF:-1,Syri Vision HD
+http://45.136.153.199:80/SyriVision/mono.m3u8
+#EXTINF:-1,Kanali 7
+http://45.136.153.199:80/Kanali7/mono.m3u8
+#EXTINF:-1,BN HD
+http://45.136.153.199:80/BN/mono.m3u8
+#EXTINF:-1,BN2 HD
+http://45.136.153.199:80/BN2/mono.m3u8
+#EXTINF:-1,Bn Music HD
+http://45.136.153.199:80/BNMusic/mono.m3u8
+#EXTINF:1,RTCG Sat
+http://45.136.153.199:80/RTCGSat/mono.m3u8
+#EXTINF:1,RTCG 1
+http://45.136.153.199:80/RTCG1/mono.m3u8
+#EXTINF:1,RTCG 2
+http://45.136.153.199:80/RTCG2/mono.m3u8
+#EXTINF:1,RTCG 3
+http://45.136.153.199:80/RTCG3/mono.m3u8
+#EXTINF:-1,MRT 1 HD
+http://45.136.153.199:80/MRT1/mono.m3u8
+#EXTINF:-1,MRT 2 HD
+http://45.136.153.199:80/MRT2/mono.m3u8
+#EXTINF:-1,MRT 3 HD
+http://45.136.153.199:80/MRT3/mono.m3u8
+#EXTINF:-1,MRT 4 HD
+http://45.136.153.199:80/MRT4/mono.m3u8
+#EXTINF:-1,MRT 5 HD
+http://45.136.153.199:80/MRT5/mono.m3u8
+#EXTINF:-1,KCN 1
+http://45.136.153.199:80/KCN1/mono.m3u8
+#EXTINF:-1,KCN 2
+http://45.136.153.199:80/KCN2/mono.m3u8
+#EXTINF:-1,KCN 3
+http://45.136.153.199:80/KCN3/mono.m3u8
+#EXTINF:-1,Adria Hits 1
+http://45.136.153.199:80/AdriaHits1/mono.m3u8
+#EXTINF:-1,Adria Hits 2
+http://45.136.153.199:80/AdriaHits2/mono.m3u8
+#EXTINF:-1,Amari TV HD
+http://45.136.153.199:80/AmariTV/mono.m3u8
+#EXTINF:-1,Pikaboo
+http://45.136.153.199:80/Pikaboo/mono.m3u8
+#EXTINF:-1,IDJ Kids
+http://45.136.153.199:80/IDJKids/mono.m3u8
+#EXTINF:-1,KarolinaTV
+http://45.136.153.199:80/KarolinaTV/mono.m3u8
+#EXTINF:-1,Adria Urban
+http://45.136.153.199:80/AdriaUrban/mono.m3u8
+#EXTINF:-1,Adria Hits 4K
+http://45.136.153.199:80/AdriaHits4K/mono.m3u8
+#EXTINF:-1,Adria Trubaci
+http://45.136.153.199:80/AdriaTrubaci/mono.m3u8
+#EXTINF:-1,Adria 90
+http://45.136.153.199:80/Adria90s/mono.m3u8
+#EXTINF:-1,Yu Planet
+http://45.136.153.199:80/YuPlanet/mono.m3u8
+#EXTINF:-1,televizija 5
+http://45.136.153.199:80/Televizija5/mono.m3u8
+#EXTINF:-1,Tera TV HD
+http://45.136.153.199:80/TVTera/mono.m3u8
+#EXTINF:-1,Sonce TV
+http://45.136.153.199:80/TVSonce/mono.m3u8
+#EXTINF:-1,Adria Nature
+http://45.136.153.199:80/AdriaNature/mono.m3u8
+#EXTINF:-1,Adria Fishing
+http://45.136.153.199:80/AdriaFishing/mono.m3u8
+#EXTINF:-1,Adria Hunting
+http://45.136.153.199:80/AdriaHunting/mono.m3u8
+#EXTINF:-1,Adria Travel
+http://45.136.153.199:80/AdriaTravel/mono.m3u8
+#EXTINF:-1,Adria Kitchen
+http://45.136.153.199:80/AdriaKitchen/mono.m3u8
+#EXTINF:-1,Adria CROHits
+http://45.136.153.199:80/AdriaCROHits/mono.m3u8
+#EXTINF:-1,Adria Narodna
+http://45.136.153.199:80/AdriaNarodna/mono.m3u8
+#EXTINF:-1,Adria Nostalgy
+http://45.136.153.199:80/AdriaNostalgy/mono.m3u8
+#EXTINF:-1,Adria Nature
+http://45.136.153.199:80/AdriaNature/mono.m3u8
+#EXTINF:-1,Adria BigBand
+http://45.136.153.199:80/AdriaBigBand/mono.m3u8
+#EXTINF:-1,Adria Folk
+http://45.136.153.199:80/AdriaFolk/mono.m3u8
+#EXTINF:-1,Adria Yachting4K
+http://45.136.153.199:80/AdriaYachting4K/mono.m3u8
+#EXTINF:-1,Adria Fishing
+http://45.136.153.199:80/AdriaFishing/mono.m3u8
+#EXTINF:-1,Adria Hunting
+http://45.136.153.199:80/AdriaHunting/mono.m3u8
+#EXTINF:-1,Adria Travel
+http://45.136.153.199:80/AdriaTravel/mono.m3u8
+#EXTINF:-1,Adria Kitchen
+http://45.136.153.199:80/AdriaKitchen/mono.m3u8
+#EXTINF:-1,Adria Kids
+http://45.136.153.199:80/AdriaKids/mono.m3u8
+#EXTINF:-1,Adria Humor
+http://45.136.153.199:80/AdriaHumor/mono.m3u8
+#EXTINF:-1,Adria Barbie
+http://45.136.153.199:80/AdriaBarbie/mono.m3u8
+#EXTINF:-1,Adria Info
+http://45.136.153.199:80/AdriaInfo/mono.m3u8
+#EXTINF:-1,Nova M
+http://45.136.153.199:80/NovaM/mono.m3u8
+#EXTINF:-1,Viasat Kino
+http://45.136.153.199:80/NovaMax/mono.m3u8
+#EXTINF:-1,Nova Series
+http://45.136.153.199:80/NovaSeries/mono.m3u8
+#EXTINF:-1,Kcn Zapad
+http://45.136.153.199:80/KCNZapad/mono.m3u8
+#EXTINF:-1,4Fun TV
+http://45.136.153.199:80/4FunTV/mono.m3u8
+#EXTINF:-1,Hits Melody
+http://45.136.153.199:80/HitsMelody/mono.m3u8
+#EXTINF:-1,Folk Melody
+http://45.136.153.199:80/FolkMelody/mono.m3u8
+#EXTINF:-1,Pop Melody
+http://45.136.153.199:80/PopMelody/mono.m3u8
+#EXTINF:-1,EG Melody
+http://45.136.153.199:80/EGMelody/mono.m3u8
+#EXTINF:-1,EXYu Melody
+http://45.136.153.199:80/EXYUMelody/mono.m3u8
+#EXTINF:-1,Pi Kanal
+http://45.136.153.199:80/PiKanal/mono.m3u8
+#EXTINF:-1,TV LAV
+http://45.136.153.199:80/TVLav/mono.m3u8
+#EXTINF:-1,TV Pancevo
+http://45.136.153.199:80/TVPancevo/mono.m3u8
+#EXTINF:-1,TV Slovenija 1 HD
+http://45.136.153.199:80/SLO1/mono.m3u8
+#EXTINF:-1,TV Slovenija 2 HD
+http://45.136.153.199:80/SLO2/mono.m3u8
+#EXTINF:-1,TV Slovenija 3 HD
+http://45.136.153.199:80/SLO3/mono.m3u8
+#EXTINF:-1,Discovery Channel
+http://45.136.153.199:80/DiscoveryChannel/mono.m3u8
+#EXTINF:-1,Discovery ID
+http://45.136.153.199:80/DiscoveryID/mono.m3u8
+#EXTINF:-1,Discovery Science
+http://45.136.153.199:80/DiscoveryScience/mono.m3u8
+#EXTINF:-1,AnimalPlanet HD
+http://45.136.153.199:80/AnimalPlanet/mono.m3u8
+#EXTINF:-1,ViasatHistory HD
+http://45.136.153.199:80/ViasatHistory/mono.m3u8
+#EXTINF:-1,ViasatExplore HD
+http://45.136.153.199:80/ViasatExplore/mono.m3u8
+#EXTINF:-1,ViasatNature HD
+http://45.136.153.199:80/ViasatNature/mono.m3u8
+#EXTINF:-1,History Channel
+http://45.136.153.199:80/HistoryChannel/mono.m3u8
+#EXTINF:-1,History Channel 2
+http://45.136.153.199:80/HistoryChannel2/mono.m3u8
+#EXTINF:-1,National Geographic HD
+http://45.136.153.199:80/NGC/mono.m3u8
+#EXTINF:-1,Doku TV HD
+http://45.136.153.199:80/DokuTV/mono.m3u8
+#EXTINF:-1,Cinemania HD
+http://45.136.153.199:80/Cinemania/mono.m3u8
+#EXTINF:-1,Living HD
+http://45.136.153.199:80/LivingHD/mono.m3u8
+#EXTINF:-1,Dmax HD
+http://45.136.153.199:80/Dmax/mono.m3u8
+#EXTINF:-1,TLC HD
+http://45.136.153.199:80/TLCHD/mono.m3u8
+#EXTINF:-1,HGTV HD
+http://45.136.153.199:80/CBSReality/mono.m3u8
+#EXTINF:-1,Travel Channel HD
+http://45.136.153.199:80/TravelChannel/mono.m3u8
+#EXTINF:-1,E!
+http://45.136.153.199:80/E!/mono.m3u8
+#EXTINF:-1,Euronews
+http://45.136.153.199:80/Euronews/mono.m3u8
+#EXTINF:-1,Deutsche Welle
+http://45.136.153.199:80/DW/mono.m3u8
+#EXTINF:-1,Rossia24
+http://45.136.153.199:80/Rossia24/mono.m3u8
+#EXTINF:-1,PlanetaRTR HD
+http://45.136.153.199:80/PlanetaRTR/mono.m3u8
+#EXTINF:-1,TV5Monde
+http://45.136.153.199:80/TV5Monde/mono.m3u8
+#EXTINF:-1,CNN HD
+http://45.136.153.199:80/CNN/mono.m3u8
+#EXTINF:-1,TVM HD
+http://45.136.153.199:80/TVM/mono.m3u8
+#EXTINF:-1,N1
+http://45.136.153.199:80/test/mono.m3u8
+#EXTINF:-1,Nova Cinema HD
+http://45.136.153.199:80/NovaCinema/mono.m3u8
+#EXTINF:-1,KinoTV
+http://45.136.153.199:80/KinoTV/mono.m3u8
+#EXTINF:-1,Agro TV
+http://45.136.153.199:80/AgroTV/mono.m3u8
+#EXTINF:-1,OBN HD
+http://45.136.153.199:80/OBN/mono.m3u8
+#EXTINF:-1,TOGGO HD
+http://45.136.153.199:80/SuperRTL/mono.m3u8
+#EXTINF:-1,Minimax
+http://45.136.153.199:80/Minimax/mono.m3u8
+#EXTINF:-1,Cufo
+http://45.136.153.199:80/Cufo/mono.m3u8
+#EXTINF:-1,Cartoonito
+http://45.136.153.199:80/Cartoonito/mono.m3u8
+#EXTINF:-1,Jugoton
+http://45.136.153.199:80/Jugoton/mono.m3u8
+#EXTINF:-1,BabyTV HD
+http://45.136.153.199:80/BabyTV/mono.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://45.136.153.199:80/Nickelodeon/mono.m3u8
+#EXTINF:-1,DasmaTV
+http://45.136.153.199:80/DasmaTV/mono.m3u8
+#EXTINF:-1,PeaceTV HD
+http://45.136.153.199:80/PeaceTV/mono.m3u8
+#EXTINF:-1,Fashion TV
+http://45.136.153.199:80/FashionTV/mono.m3u8
+#EXTINF:-1,CMC TV HD
+http://45.136.153.199:80/CMC/mono.m3u8
+#EXTINF:-1,Klan Music HD
+http://45.136.153.199:80/KlanMusic/mono.m3u8
+#EXTINF:-1,BravoMusic
+http://45.136.153.199:80/BravoMusic/mono.m3u8
+#EXTINF:-1,SevdahTV
+http://45.136.153.199:80/SevdahTV/mono.m3u8
+#EXTINF:-1,MTV HD
+http://45.136.153.199:80/MTV/mono.m3u8
+#EXTINF:-1,MTV80 HD
+http://45.136.153.199:80/MTV80/mono.m3u8
+#EXTINF:-1,MTVHits HD
+http://45.136.153.199:80/MTVHits/mono.m3u8
+#EXTINF:-1,HitTV HD
+http://45.136.153.199:80/HitTV/mono.m3u8
+#EXTINF:-1,DMSat
+http://45.136.153.199:80/DMSat/mono.m3u8
+#EXTINF:-1,DJTelevision
+http://45.136.153.199:80/DJTelevision/mono.m3u8
+#EXTINF:-1,EXYUROCK
+http://45.136.153.199:80/AdriaEXYURock/index.m3u8
+#EXTINF:-1,VH1
+http://45.136.153.199:80/VH1/mono.m3u8
+#EXTINF:-1,OTVValentino HD
+http://45.136.153.199:80/OTVValentino/mono.m3u8
+#EXTINF:-1,Private HD
+http://45.136.153.199:80/Private/mono.m3u8
+#EXTINF:-1,Hustler HD
+http://45.136.153.199:80/Hustler/mono.m3u8
+#EXTINF:-1,Dorcel HD
+http://45.136.153.199:80/DorcelHD/mono.m3u8
+#EXTINF:-1,FrenchLover HD
+http://45.136.153.199:80/FrenchLover/mono.m3u8
+#EXTINF:-1,Babes TV
+http://45.136.153.199:80/BabesTV/mono.m3u8
+#EXTINF:-1,Reality Kings
+http://45.136.153.199:80/RealityKings/mono.m3u8
+#EXTINF:-1,BangU
+http://45.136.153.199:80/BangU/mono.m3u8
+#EXTINF:-1,Playboy TV HD
+http://45.136.153.199:80/PlayboyHD/mono.m3u8
+#EXTINF:-1,Pink Erotic 1
+http://45.136.153.199:80/PinkErotic1/mono.m3u8
+#EXTINF:-1,Pink Erotic 2
+http://45.136.153.199:80/PinkErotic2/mono.m3u8
+#EXTINF:-1,Pink Erotic 3
+http://45.136.153.199:80/PinkErotic3/mono.m3u8
+#EXTINF:-1,Pink Erotic 4
+http://45.136.153.199:80/PinkErotic4/mono.m3u8
+#EXTINF:-1,Pink Erotic 5
+http://45.136.153.199:80/PinkErotic5/mono.m3u8
+#EXTINF:-1,Pink Erotic 6
+http://45.136.153.199:80/PinkErotic6/mono.m3u8
